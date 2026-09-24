@@ -1,0 +1,11 @@
+{
+  "id": "home",
+  "order": 7,
+  "emoji": "🏠",
+  "paid": false,
+  "theme": {
+    "gradient": ["#8D6E63", "#FFB74D", "#FFE0B2"],
+    "accent": "#6D4C41"
+  },
+  "questions": ["hom_001", "hom_002", "hom_003", "hom_004", "hom_005", "hom_006", "hom_007", "hom_008", "hom_009", "hom_010"]
+}

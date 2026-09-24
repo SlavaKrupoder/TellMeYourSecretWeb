@@ -1,0 +1,10 @@
+{
+  "id": "com_007",
+  "type": "single",
+  "options": [
+    { "id": "daily", "tags": ["relationship_talk_daily"] },
+    { "id": "weekly", "tags": ["relationship_talk_weekly"] },
+    { "id": "needed", "tags": ["relationship_talk_needed"] },
+    { "id": "rarely", "tags": ["relationship_talk_rarely"] }
+  ]
+}

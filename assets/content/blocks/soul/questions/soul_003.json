@@ -1,0 +1,12 @@
+{
+  "id": "soul_003",
+  "type": "scale",
+  "options": [
+    { "id": "care", "tags": ["love_care"] },
+    { "id": "humor", "tags": ["love_humor"] },
+    { "id": "mind", "tags": ["love_mind"] },
+    { "id": "looks", "tags": ["love_looks"] },
+    { "id": "reliable", "tags": ["love_reliable"] }
+  ],
+  "scale_labels": "intensity"
+}

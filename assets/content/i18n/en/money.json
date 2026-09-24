@@ -1,0 +1,62 @@
+{
+  "block.title": "Money",
+  "block.subtitle": "Budget, spending and financial goals",
+
+  "mon_001.title": "How should you manage your budget?",
+  "mon_001.all": "Everything shared",
+  "mon_001.pot": "A joint account for expenses plus our own",
+  "mon_001.split": "Separate, bills split",
+  "mon_001.one": "One of us manages it",
+
+  "mon_002.title": "How much can you spend without discussing it?",
+  "mon_002.any": "Any amount",
+  "mon_002.small": "A small amount",
+  "mon_002.big": "We discuss big purchases",
+  "mon_002.all": "We discuss everything",
+
+  "mon_003.title": "How do you save?",
+  "mon_003.regular": "I save regularly",
+  "mon_003.sometimes": "When I can",
+  "mon_003.today": "I live for today",
+
+  "mon_004.title": "What are you happy to spend on?",
+  "mon_004.travel": "Travel",
+  "mon_004.food": "Food and restaurants",
+  "mon_004.clothes": "Clothes and things",
+  "mon_004.tech": "Tech",
+  "mon_004.growth": "Learning and growth",
+  "mon_004.health": "Health and fitness",
+
+  "mon_005.title": "How much are you usually happy to spend on an evening or a date?",
+  "mon_005.free": "Almost nothing",
+  "mon_005.modest": "A little",
+  "mon_005.generous": "Happy to splurge",
+  "mon_005.unlimited": "I don't count",
+
+  "mon_006.title": "Loans and debt…",
+  "mon_006.ok": "Fine, if sensible",
+  "mon_006.mortgage": "Only a mortgage",
+  "mon_006.never": "Never",
+
+  "mon_007.title": "Which big goals matter to you?",
+  "mon_007.home": "Our own home",
+  "mon_007.car": "A car",
+  "mon_007.dream_trip": "A dream trip",
+  "mon_007.cushion": "A safety cushion",
+  "mon_007.invest": "Investments",
+
+  "mon_008.title": "Helping relatives with money…",
+  "mon_008.ok": "Fine",
+  "mon_008.hard": "Only in hard times",
+  "mon_008.no": "Everyone takes care of themselves",
+
+  "mon_009.title": "How should you talk about money?",
+  "mon_009.open": "Openly, we know everything",
+  "mon_009.general": "In general numbers",
+  "mon_009.rarely": "I'd rather not talk about it",
+
+  "mon_010.title": "Charity…",
+  "mon_010.regular": "Regularly",
+  "mon_010.sometimes": "Sometimes",
+  "mon_010.no": "No"
+}

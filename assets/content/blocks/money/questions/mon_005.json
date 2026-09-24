@@ -1,0 +1,10 @@
+{
+  "id": "mon_005",
+  "type": "single",
+  "options": [
+    { "id": "free", "tags": ["budget_free"] },
+    { "id": "modest", "tags": ["budget_modest"] },
+    { "id": "generous", "tags": ["budget_generous"] },
+    { "id": "unlimited", "tags": ["budget_unlimited"] }
+  ]
+}

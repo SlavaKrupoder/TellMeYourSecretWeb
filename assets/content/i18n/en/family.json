@@ -1,0 +1,50 @@
+{
+  "block.title": "Relatives",
+  "block.subtitle": "Parents, relatives and boundaries",
+
+  "fam_001.title": "How often do you want to see your parents?",
+  "fam_001.weekly": "Every week",
+  "fam_001.monthly": "Once a month",
+  "fam_001.holidays": "On holidays",
+  "fam_001.rarely": "Rarely",
+
+  "fam_002.title": "How do you feel about this?",
+  "fam_002.drop_in": "Parents dropping by unannounced",
+  "fam_002.stay": "Parents staying overnight",
+  "fam_002.trip": "A holiday with parents",
+  "fam_002.calls": "Daily calls to parents",
+  "fam_002.live": "Living with parents for a while",
+
+  "fam_003.title": "Advice from relatives…",
+  "fam_003.listen": "I listen",
+  "fam_003.ours": "I listen, but we decide",
+  "fam_003.no": "I don't like interference",
+
+  "fam_004.title": "Holidays with family…",
+  "fam_004.all": "All holidays with family",
+  "fam_004.alternate": "Alternating families",
+  "fam_004.us": "More just the two of us",
+
+  "fam_005.title": "Your partner's family, for you…",
+  "fam_005.close": "I want us to be close",
+  "fam_005.polite": "Polite, but at a distance",
+  "fam_005.hard": "I find them hard",
+
+  "fam_006.title": "When your family criticises your partner, you…",
+  "fam_006.defend": "Defend my partner right away",
+  "fam_006.private": "Talk to them privately",
+  "fam_006.stay_out": "Stay out of it",
+
+  "fam_007.title": "How do you feel about helping parents later on?",
+  "fam_007.chores": "Help around the house",
+  "fam_007.care": "Caring for them at home in old age",
+  "fam_007.money": "Financial support",
+  "fam_007.near": "Living near them",
+
+  "fam_008.title": "What from your family would you like to pass on?",
+  "fam_008.traditions": "Holiday traditions",
+  "fam_008.recipes": "Food and recipes",
+  "fam_008.upbringing": "Upbringing",
+  "fam_008.faith": "Faith",
+  "fam_008.money": "Attitude to money"
+}

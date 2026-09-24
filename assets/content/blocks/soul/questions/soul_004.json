@@ -1,0 +1,12 @@
+{
+  "id": "soul_004",
+  "type": "scale",
+  "options": [
+    { "id": "heard", "tags": ["loved_heard", "talk"] },
+    { "id": "hugged", "tags": ["loved_hugged", "touch"] },
+    { "id": "surprised", "tags": ["loved_surprised", "surprise"] },
+    { "id": "helped", "tags": ["loved_helped"] },
+    { "id": "told", "tags": ["loved_told"] }
+  ],
+  "for_partner": true
+}

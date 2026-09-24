@@ -1,0 +1,9 @@
+{
+  "id": "trv_003",
+  "type": "single",
+  "options": [
+    { "id": "budget", "tags": ["budget_low"] },
+    { "id": "comfort", "tags": ["budget_mid"] },
+    { "id": "luxury", "tags": ["budget_high"] }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "soc_004",
+  "type": "single",
+  "options": [
+    { "id": "love", "tags": ["guests_love"] },
+    { "id": "sometimes", "tags": ["guests_sometimes"] },
+    { "id": "no", "tags": ["guests_no"] }
+  ],
+  "talk_if_differs": true
+}

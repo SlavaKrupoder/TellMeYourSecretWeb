@@ -1,0 +1,10 @@
+{
+  "id": "gft_007",
+  "type": "single",
+  "options": [
+    { "id": "gold", "tags": ["metal_gold", "gift_jewelry"] },
+    { "id": "silver", "tags": ["metal_silver", "gift_jewelry"] },
+    { "id": "none", "tags": ["no_jewelry"] }
+  ],
+  "for_partner": true
+}

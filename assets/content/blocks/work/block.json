@@ -1,0 +1,11 @@
+{
+  "id": "work",
+  "order": 10,
+  "emoji": "💼",
+  "paid": false,
+  "theme": {
+    "gradient": ["#546E7A", "#78909C", "#4DB6AC"],
+    "accent": "#37474F"
+  },
+  "questions": ["wrk_001", "wrk_002", "wrk_003", "wrk_004", "wrk_005", "wrk_006", "wrk_007", "wrk_008", "wrk_009", "wrk_010"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mon_009",
+  "type": "single",
+  "options": [
+    { "id": "open", "tags": ["money_talk_open"] },
+    { "id": "general", "tags": ["money_talk_general"] },
+    { "id": "rarely", "tags": ["money_talk_rarely"] }
+  ]
+}

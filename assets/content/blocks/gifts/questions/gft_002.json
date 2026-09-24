@@ -1,0 +1,12 @@
+{
+  "id": "gft_002",
+  "type": "scale",
+  "options": [
+    { "id": "practical", "tags": ["gift_practical"] },
+    { "id": "experience", "tags": ["gift_experience"] },
+    { "id": "handmade", "tags": ["gift_handmade"] },
+    { "id": "jewelry", "tags": ["gift_jewelry"] },
+    { "id": "books", "tags": ["gift_books"] }
+  ],
+  "ask_reason_on_taboo": true
+}

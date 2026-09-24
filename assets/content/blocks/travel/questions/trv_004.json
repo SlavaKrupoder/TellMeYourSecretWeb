@@ -1,0 +1,11 @@
+{
+  "id": "trv_004",
+  "type": "scale",
+  "options": [
+    { "id": "plane", "tags": ["flight"] },
+    { "id": "car", "tags": ["road_trip"] },
+    { "id": "train", "tags": ["train"] },
+    { "id": "cruise", "tags": ["cruise", "sea"] }
+  ],
+  "ask_reason_on_taboo": true
+}

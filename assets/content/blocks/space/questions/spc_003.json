@@ -1,0 +1,10 @@
+{
+  "id": "spc_003",
+  "type": "single",
+  "options": [
+    { "id": "open", "tags": ["phone_open"] },
+    { "id": "trust", "tags": ["phone_trust"] },
+    { "id": "private", "tags": ["phone_private"] }
+  ],
+  "talk_if_differs": true
+}

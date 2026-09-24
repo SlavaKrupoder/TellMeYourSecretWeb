@@ -1,0 +1,10 @@
+{
+  "id": "spc_004",
+  "type": "single",
+  "options": [
+    { "id": "always", "tags": ["checkin_always"] },
+    { "id": "late", "tags": ["checkin_late"] },
+    { "id": "no", "tags": ["checkin_no"] }
+  ],
+  "talk_if_differs": true
+}

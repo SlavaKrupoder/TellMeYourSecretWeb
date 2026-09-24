@@ -1,0 +1,11 @@
+{
+  "id": "fam_008",
+  "type": "scale",
+  "options": [
+    { "id": "traditions", "tags": ["pass_traditions"] },
+    { "id": "recipes", "tags": ["pass_recipes"] },
+    { "id": "upbringing", "tags": ["pass_upbringing"] },
+    { "id": "faith", "tags": ["pass_faith"] },
+    { "id": "money", "tags": ["pass_money"] }
+  ]
+}

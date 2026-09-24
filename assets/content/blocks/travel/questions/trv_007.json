@@ -1,0 +1,11 @@
+{
+  "id": "trv_007",
+  "type": "scale",
+  "options": [
+    { "id": "us", "tags": ["just_us"] },
+    { "id": "friends", "tags": ["with_friends"] },
+    { "id": "family", "tags": ["with_family"] },
+    { "id": "tour", "tags": ["group_tour"] }
+  ],
+  "ask_reason_on_taboo": true
+}

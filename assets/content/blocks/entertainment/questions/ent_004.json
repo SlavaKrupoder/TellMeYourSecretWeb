@@ -1,0 +1,12 @@
+{
+  "id": "ent_004",
+  "type": "scale",
+  "options": [
+    { "id": "bowling", "tags": ["bowling", "active"] },
+    { "id": "quest", "tags": ["quest", "play"] },
+    { "id": "karaoke", "tags": ["karaoke"] },
+    { "id": "dancing", "tags": ["dancing"] },
+    { "id": "karting", "tags": ["karting", "extreme", "active"] }
+  ],
+  "ask_reason_on_taboo": true
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hom_001",
+  "type": "scale",
+  "options": [
+    { "id": "cook", "tags": ["chore_cook"] },
+    { "id": "clean", "tags": ["chore_clean"] },
+    { "id": "laundry", "tags": ["chore_laundry"] },
+    { "id": "dishes", "tags": ["chore_dishes"] },
+    { "id": "shopping", "tags": ["chore_shopping"] }
+  ],
+  "ask_reason_on_taboo": true
+}

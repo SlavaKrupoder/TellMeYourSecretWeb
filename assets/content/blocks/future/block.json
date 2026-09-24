@@ -1,0 +1,11 @@
+{
+  "id": "future",
+  "order": 13,
+  "emoji": "🌱",
+  "paid": false,
+  "theme": {
+    "gradient": ["#66BB6A", "#26A69A", "#81D4FA"],
+    "accent": "#2E7D32"
+  },
+  "questions": ["fut_001", "fut_002", "fut_003", "fut_004", "fut_005", "fut_006", "fut_007", "fut_008", "fut_009", "fut_010"]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "soc_008",
+  "type": "scale",
+  "options": [
+    { "id": "valentine", "tags": ["valentine"] },
+    { "id": "xmas", "tags": ["christmas_easter"] },
+    { "id": "partner_bday", "tags": ["partner_bday"] },
+    { "id": "met", "tags": ["met_day"] },
+    { "id": "halloween", "tags": ["theme_party"] }
+  ]
+}

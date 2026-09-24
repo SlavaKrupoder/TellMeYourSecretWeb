@@ -1,0 +1,23 @@
+{
+  "content_version": 4,
+  "default_language": "en",
+  "languages": ["en", "uk"],
+  "scale": ["taboo", "dislike", "not_against", "curious", "love"],
+  "blocks": [
+    { "id": "entertainment", "version": 1 },
+    { "id": "travel", "version": 3 },
+    { "id": "food", "version": 2 },
+    { "id": "gifts", "version": 1 },
+    { "id": "intimacy", "version": 2 },
+    { "id": "hobbies", "version": 1 },
+    { "id": "communication", "version": 1 },
+    { "id": "home", "version": 1 },
+    { "id": "space", "version": 1 },
+    { "id": "social", "version": 1 },
+    { "id": "work", "version": 1 },
+    { "id": "money", "version": 1 },
+    { "id": "family", "version": 1 },
+    { "id": "future", "version": 1 },
+    { "id": "soul", "version": 1 }
+  ]
+}

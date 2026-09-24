@@ -1,0 +1,9 @@
+{
+  "id": "mon_003",
+  "type": "single",
+  "options": [
+    { "id": "regular", "tags": ["save_regular"] },
+    { "id": "sometimes", "tags": ["save_sometimes"] },
+    { "id": "today", "tags": ["save_none"] }
+  ]
+}

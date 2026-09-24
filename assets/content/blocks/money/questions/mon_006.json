@@ -1,0 +1,9 @@
+{
+  "id": "mon_006",
+  "type": "single",
+  "options": [
+    { "id": "ok", "tags": ["debt_ok"] },
+    { "id": "mortgage", "tags": ["debt_mortgage"] },
+    { "id": "never", "tags": ["debt_never"] }
+  ]
+}

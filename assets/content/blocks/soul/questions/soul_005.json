@@ -1,0 +1,11 @@
+{
+  "id": "soul_005",
+  "type": "single",
+  "options": [
+    { "id": "daily", "tags": ["iloveyou_daily"] },
+    { "id": "often", "tags": ["iloveyou_often"] },
+    { "id": "sometimes", "tags": ["iloveyou_sometimes"] },
+    { "id": "actions", "tags": ["iloveyou_actions"] }
+  ],
+  "for_partner": true
+}

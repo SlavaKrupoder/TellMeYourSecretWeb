@@ -1,0 +1,11 @@
+{
+  "id": "ent_003",
+  "type": "scale",
+  "options": [
+    { "id": "comedy", "tags": ["comedy"] },
+    { "id": "romance", "tags": ["romance_movies"] },
+    { "id": "thriller", "tags": ["thriller"] },
+    { "id": "scifi", "tags": ["scifi"] },
+    { "id": "documentary", "tags": ["documentary"] }
+  ]
+}

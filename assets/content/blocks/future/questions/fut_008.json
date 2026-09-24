@@ -1,0 +1,11 @@
+{
+  "id": "fut_008",
+  "type": "single",
+  "options": [
+    { "id": "big", "tags": ["wedding_big"] },
+    { "id": "small", "tags": ["wedding_small"] },
+    { "id": "sign", "tags": ["wedding_sign"] },
+    { "id": "no", "tags": ["wedding_no"] }
+  ],
+  "talk_if_differs": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": "hom_008",
+  "type": "single",
+  "options": [
+    { "id": "lark", "tags": ["early_bird"] },
+    { "id": "owl", "tags": ["night_owl"] },
+    { "id": "flex", "tags": ["flexible_schedule"] }
+  ]
+}

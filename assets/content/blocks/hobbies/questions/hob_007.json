@@ -1,0 +1,10 @@
+{
+  "id": "hob_007",
+  "type": "single",
+  "options": [
+    { "id": "little", "tags": ["hobby_time_low"] },
+    { "id": "hours", "tags": ["hobby_time_mid"] },
+    { "id": "evenings", "tags": ["hobby_time_high"] },
+    { "id": "daily", "tags": ["hobby_time_daily"] }
+  ]
+}

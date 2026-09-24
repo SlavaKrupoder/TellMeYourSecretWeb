@@ -1,0 +1,11 @@
+{
+  "id": "fut_009",
+  "type": "scale",
+  "options": [
+    { "id": "business", "tags": ["future_business"] },
+    { "id": "house", "tags": ["future_house"] },
+    { "id": "abroad", "tags": ["future_abroad"] },
+    { "id": "travel", "tags": ["future_travel"] },
+    { "id": "calm", "tags": ["future_calm"] }
+  ]
+}

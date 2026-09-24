@@ -1,0 +1,11 @@
+{
+  "id": "fut_006",
+  "type": "scale",
+  "options": [
+    { "id": "city", "tags": ["live_city"] },
+    { "id": "suburb", "tags": ["live_suburb"] },
+    { "id": "town", "tags": ["live_town"] },
+    { "id": "abroad", "tags": ["live_abroad"] },
+    { "id": "sea", "tags": ["live_sea", "sea"] }
+  ]
+}

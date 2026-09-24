@@ -1,0 +1,11 @@
+{
+  "id": "food_002",
+  "type": "scale",
+  "options": [
+    { "id": "sushi", "tags": ["raw_fish", "asian"] },
+    { "id": "seafood", "tags": ["seafood"] },
+    { "id": "spicy", "tags": ["spicy"] },
+    { "id": "exotic", "tags": ["exotic_food", "novelty"] }
+  ],
+  "ask_reason_on_taboo": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "wrk_010",
+  "type": "scale",
+  "options": [
+    { "id": "promotion", "tags": ["dream_promotion"] },
+    { "id": "business", "tags": ["dream_business"] },
+    { "id": "anywhere", "tags": ["dream_anywhere"] },
+    { "id": "creative", "tags": ["dream_creative"] },
+    { "id": "retire", "tags": ["dream_retire"] }
+  ]
+}

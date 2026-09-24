@@ -1,0 +1,9 @@
+{
+  "id": "spc_006",
+  "type": "single",
+  "options": [
+    { "id": "ok", "tags": ["close_friend_ok"] },
+    { "id": "meet", "tags": ["close_friend_meet"] },
+    { "id": "uneasy", "tags": ["close_friend_uneasy"] }
+  ]
+}

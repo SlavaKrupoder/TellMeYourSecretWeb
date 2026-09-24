@@ -1,0 +1,11 @@
+{
+  "id": "food_003",
+  "type": "scale",
+  "options": [
+    { "id": "home", "tags": ["home_cooking"] },
+    { "id": "delivery", "tags": ["delivery"] },
+    { "id": "restaurant", "tags": ["restaurant"] },
+    { "id": "street", "tags": ["street_food"] },
+    { "id": "picnic", "tags": ["picnic", "nature"] }
+  ]
+}

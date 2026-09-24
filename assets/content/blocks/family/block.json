@@ -1,0 +1,11 @@
+{
+  "id": "family",
+  "order": 12,
+  "emoji": "👨‍👩‍👧",
+  "paid": false,
+  "theme": {
+    "gradient": ["#A1887F", "#F48FB1", "#FFCC80"],
+    "accent": "#8D6E63"
+  },
+  "questions": ["fam_001", "fam_002", "fam_003", "fam_004", "fam_005", "fam_006", "fam_007", "fam_008"]
+}

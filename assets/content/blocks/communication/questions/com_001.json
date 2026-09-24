@@ -1,0 +1,11 @@
+{
+  "id": "com_001",
+  "type": "single",
+  "options": [
+    { "id": "now", "tags": ["conflict_now"] },
+    { "id": "cool", "tags": ["conflict_cool"] },
+    { "id": "text", "tags": ["conflict_text"] },
+    { "id": "wait", "tags": ["conflict_avoid"] }
+  ],
+  "talk_if_differs": true
+}

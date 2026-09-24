@@ -1,0 +1,12 @@
+{
+  "id": "spc_002",
+  "type": "scale",
+  "options": [
+    { "id": "friends", "tags": ["separate_friends"] },
+    { "id": "trip", "tags": ["separate_trip"] },
+    { "id": "room", "tags": ["separate_room"] },
+    { "id": "hobby", "tags": ["separate_hobby"] },
+    { "id": "money", "tags": ["separate_money"] }
+  ],
+  "ask_reason_on_taboo": true
+}

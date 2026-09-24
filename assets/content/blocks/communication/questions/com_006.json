@@ -1,0 +1,11 @@
+{
+  "id": "com_006",
+  "type": "scale",
+  "options": [
+    { "id": "dreams", "tags": ["talk_dreams", "talk"] },
+    { "id": "feelings", "tags": ["talk_feelings", "talk"] },
+    { "id": "day", "tags": ["talk_day", "talk"] },
+    { "id": "memories", "tags": ["talk_memories", "talk"] },
+    { "id": "ideas", "tags": ["talk_ideas", "talk"] }
+  ]
+}

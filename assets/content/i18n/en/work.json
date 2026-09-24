@@ -1,0 +1,61 @@
+{
+  "block.title": "Work",
+  "block.subtitle": "Career, ambitions and life balance",
+
+  "wrk_001.title": "What place does work have in your life?",
+  "wrk_001.main": "The main thing",
+  "wrk_001.important": "Important, but not everything",
+  "wrk_001.means": "A way to earn money",
+
+  "wrk_002.title": "Working evenings and weekends…",
+  "wrk_002.fine": "Fine when needed",
+  "wrk_002.rare": "Only in emergencies",
+  "wrk_002.never": "Never",
+
+  "wrk_003.title": "Talking about work at home…",
+  "wrk_003.love": "I love sharing",
+  "wrk_003.bit": "A little, to let it go",
+  "wrk_003.no": "I don't want to bring work home",
+
+  "wrk_004.title": "What helps you after a hard day?",
+  "wrk_004.quiet": "Quiet and being alone",
+  "wrk_004.hug": "A hug",
+  "wrk_004.dinner": "A tasty dinner",
+  "wrk_004.talk": "Talking it over",
+  "wrk_004.sport": "Exercise",
+
+  "wrk_005.title": "Working from home…",
+  "wrk_005.love": "I love it",
+  "wrk_005.sometimes": "Sometimes",
+  "wrk_005.office": "I prefer the office",
+
+  "wrk_006.title": "What would you do for your career?",
+  "wrk_006.city": "Moving to another city",
+  "wrk_006.country": "Moving to another country",
+  "wrk_006.travel": "Frequent business trips",
+  "wrk_006.less_free": "Less free time for a year or two",
+  "wrk_006.study": "Studying from scratch",
+
+  "wrk_007.title": "Who should earn more in a couple?",
+  "wrk_007.any": "It doesn't matter",
+  "wrk_007.equal": "I'd like it to be equal",
+  "wrk_007.me": "I want to be the main earner",
+  "wrk_007.partner": "I'd like my partner to earn more",
+
+  "wrk_008.title": "Work calls during your time together…",
+  "wrk_008.fine": "Fine",
+  "wrk_008.important": "Only important ones",
+  "wrk_008.no": "No",
+
+  "wrk_009.title": "Colleagues in your life…",
+  "wrk_009.friends": "Friends outside work too",
+  "wrk_009.events": "Only at work events",
+  "wrk_009.apart": "Work stays separate",
+
+  "wrk_010.title": "What do you dream of at work?",
+  "wrk_010.promotion": "A promotion",
+  "wrk_010.business": "My own business",
+  "wrk_010.anywhere": "Working from anywhere",
+  "wrk_010.creative": "Creative fulfilment",
+  "wrk_010.retire": "Retiring early"
+}

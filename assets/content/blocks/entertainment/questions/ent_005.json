@@ -1,0 +1,10 @@
+{
+  "id": "ent_005",
+  "type": "scale",
+  "options": [
+    { "id": "theatre", "tags": ["theatre", "culture"] },
+    { "id": "museum", "tags": ["museum", "culture"] },
+    { "id": "standup", "tags": ["standup", "comedy"] },
+    { "id": "festival", "tags": ["festival"] }
+  ]
+}

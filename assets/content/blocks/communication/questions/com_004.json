@@ -1,0 +1,11 @@
+{
+  "id": "com_004",
+  "type": "single",
+  "options": [
+    { "id": "say", "tags": ["signal_say"] },
+    { "id": "hint", "tags": ["signal_hint"] },
+    { "id": "withdraw", "tags": ["signal_withdraw"] },
+    { "id": "irritated", "tags": ["signal_irritated"] }
+  ],
+  "for_partner": true
+}

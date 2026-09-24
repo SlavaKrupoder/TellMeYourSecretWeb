@@ -1,0 +1,11 @@
+{
+  "id": "trv_009",
+  "type": "scale",
+  "options": [
+    { "id": "food", "tags": ["food_local"] },
+    { "id": "photo", "tags": ["photo"] },
+    { "id": "shopping", "tags": ["shopping"] },
+    { "id": "nightlife", "tags": ["nightlife"] },
+    { "id": "people", "tags": ["meet_people"] }
+  ]
+}

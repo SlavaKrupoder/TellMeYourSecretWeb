@@ -1,0 +1,10 @@
+{
+  "id": "trv_005",
+  "type": "single",
+  "options": [
+    { "id": "weekend", "tags": ["trip_weekend"] },
+    { "id": "week", "tags": ["trip_week"] },
+    { "id": "two_weeks", "tags": ["trip_two_weeks"] },
+    { "id": "month", "tags": ["trip_month"] }
+  ]
+}

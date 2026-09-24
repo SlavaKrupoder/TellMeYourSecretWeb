@@ -1,0 +1,11 @@
+{
+  "id": "hom_007",
+  "type": "scale",
+  "options": [
+    { "id": "quiet", "tags": ["home_quiet"] },
+    { "id": "order", "tags": ["home_order"] },
+    { "id": "cozy", "tags": ["home_cozy", "atmosphere"] },
+    { "id": "food", "tags": ["home_food"] },
+    { "id": "corner", "tags": ["home_corner"] }
+  ]
+}

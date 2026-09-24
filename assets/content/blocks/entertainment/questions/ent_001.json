@@ -1,0 +1,12 @@
+{
+  "id": "ent_001",
+  "type": "scale",
+  "options": [
+    { "id": "movie", "tags": ["movie", "relax"] },
+    { "id": "board_games", "tags": ["board_games", "play"] },
+    { "id": "cook", "tags": ["cooking_together", "home_cooking"] },
+    { "id": "talk", "tags": ["talk"] },
+    { "id": "own_thing", "tags": ["own_time"] }
+  ],
+  "ask_reason_on_taboo": true
+}

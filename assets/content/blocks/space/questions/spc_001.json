@@ -1,0 +1,10 @@
+{
+  "id": "spc_001",
+  "type": "single",
+  "options": [
+    { "id": "none", "tags": ["alone_low"] },
+    { "id": "hour", "tags": ["alone_hour"] },
+    { "id": "evening", "tags": ["alone_evening"] },
+    { "id": "day", "tags": ["alone_day"] }
+  ]
+}

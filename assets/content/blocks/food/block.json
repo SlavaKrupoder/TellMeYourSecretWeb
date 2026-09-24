@@ -1,0 +1,11 @@
+{
+  "id": "food",
+  "order": 3,
+  "emoji": "🍝",
+  "paid": false,
+  "theme": {
+    "gradient": ["#FF8A65", "#FFB74D", "#AED581"],
+    "accent": "#E65100"
+  },
+  "questions": ["food_001", "food_002", "food_003", "food_004", "food_005", "food_006", "food_007", "food_008", "food_009", "food_010"]
+}

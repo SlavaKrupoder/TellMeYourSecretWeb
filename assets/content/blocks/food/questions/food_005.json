@@ -1,0 +1,10 @@
+{
+  "id": "food_005",
+  "type": "single",
+  "options": [
+    { "id": "all", "tags": ["eat_all"] },
+    { "id": "veg", "tags": ["vegetarian"] },
+    { "id": "healthy", "tags": ["healthy"] },
+    { "id": "limits", "tags": ["food_limits"] }
+  ]
+}

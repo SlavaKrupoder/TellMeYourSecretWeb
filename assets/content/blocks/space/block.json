@@ -1,0 +1,11 @@
+{
+  "id": "space",
+  "order": 8,
+  "emoji": "🫧",
+  "paid": false,
+  "theme": {
+    "gradient": ["#7E57C2", "#9575CD", "#B2EBF2"],
+    "accent": "#5E35B1"
+  },
+  "questions": ["spc_001", "spc_002", "spc_003", "spc_004", "spc_005", "spc_006", "spc_007", "spc_008", "spc_009", "spc_010"]
+}

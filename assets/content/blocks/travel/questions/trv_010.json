@@ -1,0 +1,10 @@
+{
+  "id": "trv_010",
+  "type": "scale",
+  "options": [
+    { "id": "hot", "tags": ["hot"] },
+    { "id": "warm", "tags": ["warm"] },
+    { "id": "cool", "tags": ["cool"] },
+    { "id": "snow", "tags": ["snow"] }
+  ]
+}

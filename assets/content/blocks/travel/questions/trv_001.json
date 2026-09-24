@@ -1,0 +1,12 @@
+{
+  "id": "trv_001",
+  "type": "scale",
+  "options": [
+    { "id": "sea", "tags": ["sea", "relax"] },
+    { "id": "mountains", "tags": ["mountains", "active", "heights"] },
+    { "id": "city", "tags": ["city", "culture"] },
+    { "id": "countryside", "tags": ["countryside", "relax", "nature"] },
+    { "id": "ski", "tags": ["ski", "snow", "active"] }
+  ],
+  "ask_reason_on_taboo": true
+}

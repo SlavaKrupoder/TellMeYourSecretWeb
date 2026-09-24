@@ -1,0 +1,11 @@
+{
+  "id": "travel",
+  "order": 2,
+  "emoji": "🌴",
+  "paid": false,
+  "theme": {
+    "gradient": ["#29B6F6", "#4DD0E1", "#FFE082"],
+    "accent": "#0277BD"
+  },
+  "questions": ["trv_001", "trv_002", "trv_003", "trv_004", "trv_005", "trv_006", "trv_007", "trv_008", "trv_009", "trv_010"]
+}

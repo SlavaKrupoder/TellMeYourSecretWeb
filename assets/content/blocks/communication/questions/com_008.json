@@ -1,0 +1,10 @@
+{
+  "id": "com_008",
+  "type": "single",
+  "options": [
+    { "id": "often", "tags": ["texting_often"] },
+    { "id": "some", "tags": ["texting_some"] },
+    { "id": "needed", "tags": ["texting_needed"] },
+    { "id": "calls", "tags": ["texting_calls"] }
+  ]
+}

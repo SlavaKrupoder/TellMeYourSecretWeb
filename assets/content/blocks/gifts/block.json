@@ -1,0 +1,11 @@
+{
+  "id": "gifts",
+  "order": 5,
+  "emoji": "🎁",
+  "paid": false,
+  "theme": {
+    "gradient": ["#F06292", "#EC407A", "#FFB74D"],
+    "accent": "#C2185B"
+  },
+  "questions": ["gft_001", "gft_002", "gft_003", "gft_004", "gft_005", "gft_006", "gft_007", "gft_008", "gft_009", "gft_010"]
+}

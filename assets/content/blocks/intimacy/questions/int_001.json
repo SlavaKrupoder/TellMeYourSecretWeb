@@ -1,0 +1,11 @@
+{
+  "id": "int_001",
+  "type": "scale",
+  "options": [
+    { "id": "candles", "tags": ["romance", "atmosphere"] },
+    { "id": "massage", "tags": ["touch", "relax"] },
+    { "id": "bath", "tags": ["romance", "relax"] },
+    { "id": "music", "tags": ["atmosphere"] }
+  ],
+  "ask_reason_on_taboo": false
+}

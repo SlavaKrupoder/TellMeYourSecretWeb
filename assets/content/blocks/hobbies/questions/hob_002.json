@@ -1,0 +1,11 @@
+{
+  "id": "hob_002",
+  "type": "scale",
+  "options": [
+    { "id": "drawing", "tags": ["drawing", "creative"] },
+    { "id": "music", "tags": ["music_play", "creative"] },
+    { "id": "photo", "tags": ["photo", "creative"] },
+    { "id": "crafts", "tags": ["crafts", "creative"] },
+    { "id": "writing", "tags": ["writing", "creative"] }
+  ]
+}

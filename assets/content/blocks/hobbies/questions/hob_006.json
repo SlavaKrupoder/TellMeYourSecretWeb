@@ -1,0 +1,9 @@
+{
+  "id": "hob_006",
+  "type": "single",
+  "options": [
+    { "id": "yes", "tags": ["hobby_shared"] },
+    { "id": "some", "tags": ["hobby_mixed"] },
+    { "id": "own", "tags": ["hobby_separate"] }
+  ]
+}

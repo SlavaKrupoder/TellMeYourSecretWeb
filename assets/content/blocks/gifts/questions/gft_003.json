@@ -1,0 +1,9 @@
+{
+  "id": "gft_003",
+  "type": "single",
+  "options": [
+    { "id": "love", "tags": ["surprise_love"] },
+    { "id": "small", "tags": ["surprise_small"] },
+    { "id": "no", "tags": ["surprise_no"] }
+  ]
+}

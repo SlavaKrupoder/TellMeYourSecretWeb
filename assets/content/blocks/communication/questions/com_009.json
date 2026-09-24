@@ -1,0 +1,12 @@
+{
+  "id": "com_009",
+  "type": "scale",
+  "options": [
+    { "id": "looks", "tags": ["compliment_looks"] },
+    { "id": "mind", "tags": ["compliment_mind"] },
+    { "id": "care", "tags": ["compliment_care"] },
+    { "id": "success", "tags": ["compliment_success"] },
+    { "id": "humor", "tags": ["compliment_humor"] }
+  ],
+  "for_partner": true
+}

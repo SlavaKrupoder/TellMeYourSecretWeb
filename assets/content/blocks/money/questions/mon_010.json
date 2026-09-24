@@ -1,0 +1,9 @@
+{
+  "id": "mon_010",
+  "type": "single",
+  "options": [
+    { "id": "regular", "tags": ["charity_regular"] },
+    { "id": "sometimes", "tags": ["charity_sometimes"] },
+    { "id": "no", "tags": ["charity_no"] }
+  ]
+}

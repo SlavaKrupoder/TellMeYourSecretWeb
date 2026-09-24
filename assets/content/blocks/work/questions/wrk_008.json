@@ -1,0 +1,9 @@
+{
+  "id": "wrk_008",
+  "type": "single",
+  "options": [
+    { "id": "fine", "tags": ["calls_ok"] },
+    { "id": "important", "tags": ["calls_important"] },
+    { "id": "no", "tags": ["calls_no"] }
+  ]
+}

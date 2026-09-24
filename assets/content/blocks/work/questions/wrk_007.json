@@ -1,0 +1,10 @@
+{
+  "id": "wrk_007",
+  "type": "single",
+  "options": [
+    { "id": "any", "tags": ["earn_any"] },
+    { "id": "equal", "tags": ["earn_equal"] },
+    { "id": "me", "tags": ["earn_me"] },
+    { "id": "partner", "tags": ["earn_partner"] }
+  ]
+}

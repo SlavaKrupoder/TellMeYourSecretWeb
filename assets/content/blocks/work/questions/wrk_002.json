@@ -1,0 +1,9 @@
+{
+  "id": "wrk_002",
+  "type": "single",
+  "options": [
+    { "id": "fine", "tags": ["overtime_ok"] },
+    { "id": "rare", "tags": ["overtime_rare"] },
+    { "id": "never", "tags": ["overtime_never"] }
+  ]
+}

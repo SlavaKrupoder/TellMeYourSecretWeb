@@ -1,0 +1,12 @@
+{
+  "id": "fut_004",
+  "type": "scale",
+  "options": [
+    { "id": "adopt", "tags": ["adoption"] },
+    { "id": "dad_leave", "tags": ["dad_leave"] },
+    { "id": "nanny", "tags": ["nanny"] },
+    { "id": "grandparents", "tags": ["grandparents_help"] },
+    { "id": "kindergarten", "tags": ["kindergarten"] }
+  ],
+  "ask_reason_on_taboo": true
+}

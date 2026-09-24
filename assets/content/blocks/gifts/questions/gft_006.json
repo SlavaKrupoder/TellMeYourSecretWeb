@@ -1,0 +1,11 @@
+{
+  "id": "gft_006",
+  "type": "scale",
+  "options": [
+    { "id": "floral", "tags": ["scent_floral", "perfume"] },
+    { "id": "fresh", "tags": ["scent_fresh", "perfume"] },
+    { "id": "sweet", "tags": ["scent_sweet", "perfume"] },
+    { "id": "woody", "tags": ["scent_woody", "perfume"] }
+  ],
+  "for_partner": true
+}

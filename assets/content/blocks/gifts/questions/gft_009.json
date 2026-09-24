@@ -1,0 +1,14 @@
+{
+  "id": "gft_009",
+  "type": "single",
+  "options": [
+    { "id": "xs" },
+    { "id": "s" },
+    { "id": "m" },
+    { "id": "l" },
+    { "id": "xl" },
+    { "id": "xxl" },
+    { "id": "private" }
+  ],
+  "for_partner": true
+}

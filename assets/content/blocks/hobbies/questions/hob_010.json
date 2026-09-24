@@ -1,0 +1,9 @@
+{
+  "id": "hob_010",
+  "type": "single",
+  "options": [
+    { "id": "yes", "tags": ["hobby_interest_high"] },
+    { "id": "some", "tags": ["hobby_interest_some"] },
+    { "id": "no", "tags": ["hobby_interest_none"] }
+  ]
+}

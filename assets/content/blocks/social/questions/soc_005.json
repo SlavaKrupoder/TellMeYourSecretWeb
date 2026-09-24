@@ -1,0 +1,12 @@
+{
+  "id": "soc_005",
+  "type": "scale",
+  "options": [
+    { "id": "party", "tags": ["bday_party"] },
+    { "id": "close", "tags": ["bday_close"] },
+    { "id": "us", "tags": ["bday_us", "just_us"] },
+    { "id": "trip", "tags": ["bday_trip", "surprise_trip"] },
+    { "id": "none", "tags": ["bday_none"] }
+  ],
+  "for_partner": true
+}

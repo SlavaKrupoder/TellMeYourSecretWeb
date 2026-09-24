@@ -1,0 +1,11 @@
+{
+  "id": "food_004",
+  "type": "single",
+  "options": [
+    { "id": "me", "tags": ["cook_me"] },
+    { "id": "partner", "tags": ["cook_partner"] },
+    { "id": "together", "tags": ["cooking_together"] },
+    { "id": "turns", "tags": ["cook_turns"] },
+    { "id": "nobody", "tags": ["delivery"] }
+  ]
+}

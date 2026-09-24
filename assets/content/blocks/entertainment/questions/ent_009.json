@@ -1,0 +1,9 @@
+{
+  "id": "ent_009",
+  "type": "single",
+  "options": [
+    { "id": "us", "tags": ["just_us"] },
+    { "id": "friends", "tags": ["with_friends"] },
+    { "id": "mixed", "tags": ["mixed_company"] }
+  ]
+}

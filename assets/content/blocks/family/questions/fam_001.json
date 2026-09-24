@@ -1,0 +1,11 @@
+{
+  "id": "fam_001",
+  "type": "single",
+  "options": [
+    { "id": "weekly", "tags": ["parents_weekly"] },
+    { "id": "monthly", "tags": ["parents_monthly"] },
+    { "id": "holidays", "tags": ["parents_holidays"] },
+    { "id": "rarely", "tags": ["parents_rarely"] }
+  ],
+  "talk_if_differs": true
+}

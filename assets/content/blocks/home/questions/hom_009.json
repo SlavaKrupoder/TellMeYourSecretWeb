@@ -1,0 +1,12 @@
+{
+  "id": "hom_009",
+  "type": "scale",
+  "options": [
+    { "id": "cool", "tags": ["sleep_cool"] },
+    { "id": "blankets", "tags": ["sleep_blankets"] },
+    { "id": "hug", "tags": ["sleep_hug", "touch"] },
+    { "id": "window", "tags": ["sleep_window"] },
+    { "id": "dark", "tags": ["sleep_dark"] }
+  ],
+  "for_partner": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "food_001",
+  "type": "scale",
+  "options": [
+    { "id": "italian", "tags": ["italian"] },
+    { "id": "asian", "tags": ["asian"] },
+    { "id": "georgian", "tags": ["georgian"] },
+    { "id": "ukrainian", "tags": ["ukrainian"] },
+    { "id": "mexican", "tags": ["mexican"] }
+  ]
+}

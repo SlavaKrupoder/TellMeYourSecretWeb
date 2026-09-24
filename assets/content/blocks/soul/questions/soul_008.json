@@ -1,0 +1,11 @@
+{
+  "id": "soul_008",
+  "type": "scale",
+  "options": [
+    { "id": "rituals", "tags": ["close_rituals"] },
+    { "id": "talks", "tags": ["close_talks", "talk"] },
+    { "id": "goals", "tags": ["close_goals"] },
+    { "id": "touch", "tags": ["close_touch", "touch"] },
+    { "id": "laugh", "tags": ["close_laugh", "comedy"] }
+  ]
+}

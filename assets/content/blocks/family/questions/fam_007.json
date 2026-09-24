@@ -1,0 +1,11 @@
+{
+  "id": "fam_007",
+  "type": "scale",
+  "options": [
+    { "id": "chores", "tags": ["help_chores"] },
+    { "id": "care", "tags": ["help_care"] },
+    { "id": "money", "tags": ["help_money"] },
+    { "id": "near", "tags": ["help_near"] }
+  ],
+  "ask_reason_on_taboo": true
+}

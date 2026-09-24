@@ -1,0 +1,12 @@
+{
+  "id": "wrk_006",
+  "type": "scale",
+  "options": [
+    { "id": "city", "tags": ["career_move_city"] },
+    { "id": "country", "tags": ["career_move_country"] },
+    { "id": "travel", "tags": ["career_travel"] },
+    { "id": "less_free", "tags": ["career_less_free"] },
+    { "id": "study", "tags": ["career_study"] }
+  ],
+  "ask_reason_on_taboo": true
+}

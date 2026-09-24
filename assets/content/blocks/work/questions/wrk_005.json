@@ -1,0 +1,9 @@
+{
+  "id": "wrk_005",
+  "type": "single",
+  "options": [
+    { "id": "love", "tags": ["remote_love"] },
+    { "id": "sometimes", "tags": ["remote_sometimes"] },
+    { "id": "office", "tags": ["remote_no"] }
+  ]
+}

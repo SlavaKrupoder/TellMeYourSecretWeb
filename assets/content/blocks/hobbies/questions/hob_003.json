@@ -1,0 +1,11 @@
+{
+  "id": "hob_003",
+  "type": "scale",
+  "options": [
+    { "id": "reading", "tags": ["reading"] },
+    { "id": "gardening", "tags": ["gardening", "nature"] },
+    { "id": "baking", "tags": ["baking", "home_cooking"] },
+    { "id": "puzzles", "tags": ["puzzles", "play"] },
+    { "id": "collecting", "tags": ["collecting"] }
+  ]
+}

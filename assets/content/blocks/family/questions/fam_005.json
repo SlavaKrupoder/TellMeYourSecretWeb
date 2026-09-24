@@ -1,0 +1,9 @@
+{
+  "id": "fam_005",
+  "type": "single",
+  "options": [
+    { "id": "close", "tags": ["inlaws_close"] },
+    { "id": "polite", "tags": ["inlaws_polite"] },
+    { "id": "hard", "tags": ["inlaws_hard"] }
+  ]
+}

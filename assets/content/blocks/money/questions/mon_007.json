@@ -1,0 +1,11 @@
+{
+  "id": "mon_007",
+  "type": "scale",
+  "options": [
+    { "id": "home", "tags": ["goal_home"] },
+    { "id": "car", "tags": ["goal_car"] },
+    { "id": "dream_trip", "tags": ["goal_trip"] },
+    { "id": "cushion", "tags": ["goal_cushion"] },
+    { "id": "invest", "tags": ["goal_invest"] }
+  ]
+}

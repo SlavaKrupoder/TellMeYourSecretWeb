@@ -1,0 +1,9 @@
+{
+  "id": "wrk_009",
+  "type": "single",
+  "options": [
+    { "id": "friends", "tags": ["colleagues_friends"] },
+    { "id": "events", "tags": ["colleagues_events"] },
+    { "id": "apart", "tags": ["colleagues_apart"] }
+  ]
+}

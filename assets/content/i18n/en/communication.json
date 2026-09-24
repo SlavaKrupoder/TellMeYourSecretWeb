@@ -1,0 +1,67 @@
+{
+  "block.title": "Talking and arguing",
+  "block.subtitle": "How you talk, argue and make up",
+
+  "com_001.title": "How do you like to settle disagreements?",
+  "com_001.now": "Talk it through right away",
+  "com_001.cool": "Cool down first, then talk",
+  "com_001.text": "Write a message",
+  "com_001.wait": "Let it pass on its own",
+
+  "com_002.title": "What helps you make up?",
+  "com_002.hug": "A hug",
+  "com_002.sorry": "An apology in words",
+  "com_002.gesture": "A small gesture or gift",
+  "com_002.joke": "A joke that breaks the tension",
+  "com_002.space": "A little time alone",
+
+  "com_003.title": "What hurts you most in an argument?",
+  "com_003.loud": "A raised voice",
+  "com_003.silence": "Silence and being ignored",
+  "com_003.sarcasm": "Sarcasm",
+  "com_003.past": "Bringing up the past",
+  "com_003.public": "Arguing in front of others",
+
+  "com_004.title": "How do you show you're not okay?",
+  "com_004.say": "I say so directly",
+  "com_004.hint": "I drop hints",
+  "com_004.withdraw": "I withdraw",
+  "com_004.irritated": "I get irritated over small things",
+
+  "com_005.title": "How do you prefer to hear criticism?",
+  "com_005.direct": "Directly",
+  "com_005.soft": "Gently, with examples",
+  "com_005.later": "In private and not right away",
+  "com_005.written": "In writing",
+
+  "com_006.title": "What would you like to talk about more?",
+  "com_006.dreams": "Dreams and plans",
+  "com_006.feelings": "Feelings",
+  "com_006.day": "How the day went",
+  "com_006.memories": "Memories",
+  "com_006.ideas": "Books, films, ideas",
+
+  "com_007.title": "How often do you want to talk about your relationship?",
+  "com_007.daily": "A little every day",
+  "com_007.weekly": "Once a week",
+  "com_007.needed": "When something comes up",
+  "com_007.rarely": "Rarely, please",
+
+  "com_008.title": "How should you stay in touch during the day?",
+  "com_008.often": "Text often",
+  "com_008.some": "A few messages",
+  "com_008.needed": "Only when needed",
+  "com_008.calls": "Calls rather than texts",
+
+  "com_009.title": "Which compliments do you like most?",
+  "com_009.looks": "About my looks",
+  "com_009.mind": "About my mind",
+  "com_009.care": "About how I care",
+  "com_009.success": "About my achievements",
+  "com_009.humor": "About my sense of humour",
+
+  "com_010.title": "How do you feel about couples therapy?",
+  "com_010.yes": "Happy to, even just as a check-up",
+  "com_010.serious": "If there's a serious problem",
+  "com_010.no": "No, we'll manage ourselves"
+}

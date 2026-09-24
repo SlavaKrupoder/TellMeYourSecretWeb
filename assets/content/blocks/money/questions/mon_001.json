@@ -1,0 +1,11 @@
+{
+  "id": "mon_001",
+  "type": "single",
+  "options": [
+    { "id": "all", "tags": ["money_all_shared"] },
+    { "id": "pot", "tags": ["money_pot"] },
+    { "id": "split", "tags": ["money_split"] },
+    { "id": "one", "tags": ["money_one"] }
+  ],
+  "talk_if_differs": true
+}

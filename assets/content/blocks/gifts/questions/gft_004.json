@@ -1,0 +1,11 @@
+{
+  "id": "gft_004",
+  "type": "scale",
+  "options": [
+    { "id": "words", "tags": ["love_words"] },
+    { "id": "time", "tags": ["love_time"] },
+    { "id": "help", "tags": ["love_help"] },
+    { "id": "touch", "tags": ["love_touch", "touch"] },
+    { "id": "gifts", "tags": ["love_gifts"] }
+  ]
+}

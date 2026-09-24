@@ -1,0 +1,9 @@
+{
+  "id": "mon_008",
+  "type": "single",
+  "options": [
+    { "id": "ok", "tags": ["family_help_ok"] },
+    { "id": "hard", "tags": ["family_help_hard"] },
+    { "id": "no", "tags": ["family_help_no"] }
+  ]
+}

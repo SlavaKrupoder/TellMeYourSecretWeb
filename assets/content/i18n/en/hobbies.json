@@ -1,0 +1,65 @@
+{
+  "block.title": "Hobbies",
+  "block.subtitle": "What you love doing and what to share",
+
+  "hob_001.title": "Which active hobbies do you enjoy?",
+  "hob_001.running": "Running or fitness",
+  "hob_001.cycling": "Cycling",
+  "hob_001.swimming": "Swimming",
+  "hob_001.yoga": "Yoga",
+  "hob_001.team": "Team sports",
+
+  "hob_002.title": "And creative ones?",
+  "hob_002.drawing": "Drawing and painting",
+  "hob_002.music": "Music (playing, singing)",
+  "hob_002.photo": "Photo and video",
+  "hob_002.crafts": "Crafts",
+  "hob_002.writing": "Writing (journal, stories)",
+
+  "hob_003.title": "And calm ones?",
+  "hob_003.reading": "Reading",
+  "hob_003.gardening": "Plants and gardening",
+  "hob_003.baking": "Baking",
+  "hob_003.puzzles": "Puzzles and building sets",
+  "hob_003.collecting": "Collecting",
+
+  "hob_004.title": "Which of these could you do together?",
+  "hob_004.dancing": "Dancing",
+  "hob_004.gym": "The gym",
+  "hob_004.hiking": "Hiking",
+  "hob_004.language": "Learning a language",
+  "hob_004.volunteering": "Volunteering",
+
+  "hob_005.title": "What would you like to try?",
+  "hob_005.pottery": "Pottery",
+  "hob_005.climbing": "Climbing",
+  "hob_005.surfing": "Surfing",
+  "hob_005.guitar": "Playing the guitar",
+  "hob_005.horse": "Horse riding",
+
+  "hob_006.title": "Do you want a shared hobby?",
+  "hob_006.yes": "Yes, very much",
+  "hob_006.some": "One or two shared, the rest separate",
+  "hob_006.own": "I prefer we each have our own",
+
+  "hob_007.title": "How much time a week do you need for hobbies?",
+  "hob_007.little": "Hardly any",
+  "hob_007.hours": "A few hours",
+  "hob_007.evenings": "An evening or two",
+  "hob_007.daily": "A little every day",
+
+  "hob_008.title": "How do you feel when your partner's hobby takes a lot of time?",
+  "hob_008.fine": "Fine, as long as they're happy",
+  "hob_008.balance": "Fine, if there's still time for us",
+  "hob_008.upset": "It upsets me",
+
+  "hob_009.title": "How much are you willing to spend on hobbies?",
+  "hob_009.low": "Almost nothing",
+  "hob_009.mid": "A moderate amount",
+  "hob_009.high": "I don't hold back on what I love",
+
+  "hob_010.title": "Do you want your partner to take an interest in your hobby?",
+  "hob_010.yes": "Yes, it matters to me",
+  "hob_010.some": "A little, to have something to talk about",
+  "hob_010.no": "No, it's my own thing"
+}

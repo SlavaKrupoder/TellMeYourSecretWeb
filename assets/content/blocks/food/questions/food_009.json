@@ -1,0 +1,10 @@
+{
+  "id": "food_009",
+  "type": "scale",
+  "options": [
+    { "id": "candles", "tags": ["candles", "romance", "atmosphere"] },
+    { "id": "view", "tags": ["restaurant", "romance"] },
+    { "id": "tasting", "tags": ["tasting", "restaurant"] },
+    { "id": "cook_new", "tags": ["cooking_together", "novelty"] }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "block.title": "Friends and holidays",
+  "block.subtitle": "Company, guests and how to celebrate",
+
+  "soc_001.title": "How often do you want to see friends?",
+  "soc_001.often": "A few times a week",
+  "soc_001.weekly": "Once a week",
+  "soc_001.monthly": "A few times a month",
+  "soc_001.rarely": "Rarely",
+
+  "soc_002.title": "Where do you like to meet friends?",
+  "soc_002.ours": "At our place",
+  "soc_002.theirs": "At friends' places",
+  "soc_002.bar": "At a cafe or bar",
+  "soc_002.nature": "Outdoors",
+  "soc_002.active": "Something active (sports, escape room)",
+
+  "soc_003.title": "Your friends and your partner…",
+  "soc_003.all": "I want us all to be friends",
+  "soc_003.mix": "Some shared, some our own",
+  "soc_003.own": "Each has their own",
+
+  "soc_004.title": "Having guests over is…",
+  "soc_004.love": "I love hosting",
+  "soc_004.sometimes": "Sometimes fine",
+  "soc_004.no": "I'd rather not",
+
+  "soc_005.title": "How do you want to celebrate your birthday?",
+  "soc_005.party": "A big party",
+  "soc_005.close": "A few close friends",
+  "soc_005.us": "Just the two of us",
+  "soc_005.trip": "A trip",
+  "soc_005.none": "Not celebrate at all",
+
+  "soc_006.title": "How do you want to spend New Year's Eve?",
+  "soc_006.us": "At home, the two of us",
+  "soc_006.family": "With family",
+  "soc_006.friends": "With friends",
+  "soc_006.trip": "On a trip",
+  "soc_006.square": "At the city square",
+
+  "soc_007.title": "Your relationship anniversary is…",
+  "soc_007.must": "A must to celebrate",
+  "soc_007.small": "Something small to remember it",
+  "soc_007.no": "Not important",
+
+  "soc_008.title": "Which holidays matter to you?",
+  "soc_008.valentine": "Valentine's Day",
+  "soc_008.xmas": "Christmas and Easter",
+  "soc_008.partner_bday": "Your partner's birthday",
+  "soc_008.met": "The day you met",
+  "soc_008.halloween": "Halloween and theme parties",
+
+  "soc_009.title": "A surprise party for you…",
+  "soc_009.love": "I'd love it!",
+  "soc_009.close": "Only with my closest people",
+  "soc_009.no": "Please no, I get anxious",
+
+  "soc_010.title": "Holiday gifts…",
+  "soc_010.must": "A must",
+  "soc_010.small": "Small tokens",
+  "soc_010.exp": "Experiences instead",
+  "soc_010.none": "We agree on no gifts"
+}

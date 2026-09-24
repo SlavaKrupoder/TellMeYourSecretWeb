@@ -1,0 +1,11 @@
+{
+  "id": "entertainment",
+  "order": 1,
+  "emoji": "🎉",
+  "paid": false,
+  "theme": {
+    "gradient": ["#FF7043", "#FF4081", "#AB47BC"],
+    "accent": "#D81B60"
+  },
+  "questions": ["ent_001", "ent_002", "ent_003", "ent_004", "ent_005", "ent_006", "ent_007", "ent_008", "ent_009", "ent_010"]
+}

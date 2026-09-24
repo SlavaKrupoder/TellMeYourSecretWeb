@@ -1,0 +1,9 @@
+{
+  "id": "food_008",
+  "type": "single",
+  "options": [
+    { "id": "table", "tags": ["meals_table"] },
+    { "id": "tv", "tags": ["meals_tv"] },
+    { "id": "flexible", "tags": ["meals_flexible"] }
+  ]
+}

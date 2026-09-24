@@ -1,0 +1,12 @@
+{
+  "id": "mon_004",
+  "type": "scale",
+  "options": [
+    { "id": "travel", "tags": ["spend_travel"] },
+    { "id": "food", "tags": ["spend_food", "restaurant"] },
+    { "id": "clothes", "tags": ["spend_clothes"] },
+    { "id": "tech", "tags": ["spend_tech"] },
+    { "id": "growth", "tags": ["spend_growth"] },
+    { "id": "health", "tags": ["spend_health"] }
+  ]
+}

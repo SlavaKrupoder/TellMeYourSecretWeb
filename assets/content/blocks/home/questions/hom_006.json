@@ -1,0 +1,11 @@
+{
+  "id": "hom_006",
+  "type": "scale",
+  "options": [
+    { "id": "minimal", "tags": ["decor_minimal"] },
+    { "id": "cozy", "tags": ["decor_cozy", "atmosphere"] },
+    { "id": "scandi", "tags": ["decor_scandi"] },
+    { "id": "loft", "tags": ["decor_loft"] },
+    { "id": "classic", "tags": ["decor_classic"] }
+  ]
+}

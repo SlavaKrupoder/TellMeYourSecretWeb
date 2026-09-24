@@ -1,0 +1,10 @@
+{
+  "id": "ent_006",
+  "type": "scale",
+  "options": [
+    { "id": "video", "tags": ["video_games", "play"] },
+    { "id": "board", "tags": ["board_games", "play"] },
+    { "id": "quiz", "tags": ["quiz", "play"] },
+    { "id": "sport", "tags": ["sport_games", "active"] }
+  ]
+}

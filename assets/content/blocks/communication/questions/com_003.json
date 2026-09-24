@@ -1,0 +1,11 @@
+{
+  "id": "com_003",
+  "type": "single",
+  "options": [
+    { "id": "loud", "tags": ["hurt_loud"] },
+    { "id": "silence", "tags": ["hurt_silence"] },
+    { "id": "sarcasm", "tags": ["hurt_sarcasm"] },
+    { "id": "past", "tags": ["hurt_past"] },
+    { "id": "public", "tags": ["hurt_public"] }
+  ]
+}

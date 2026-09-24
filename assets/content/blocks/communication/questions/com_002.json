@@ -1,0 +1,12 @@
+{
+  "id": "com_002",
+  "type": "scale",
+  "options": [
+    { "id": "hug", "tags": ["makeup_hug"] },
+    { "id": "sorry", "tags": ["makeup_sorry"] },
+    { "id": "gesture", "tags": ["makeup_gesture"] },
+    { "id": "joke", "tags": ["makeup_joke"] },
+    { "id": "space", "tags": ["makeup_space"] }
+  ],
+  "for_partner": true
+}

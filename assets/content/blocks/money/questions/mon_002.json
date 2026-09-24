@@ -1,0 +1,11 @@
+{
+  "id": "mon_002",
+  "type": "single",
+  "options": [
+    { "id": "any", "tags": ["spend_free_any"] },
+    { "id": "small", "tags": ["spend_free_small"] },
+    { "id": "big", "tags": ["spend_free_big"] },
+    { "id": "all", "tags": ["spend_free_none"] }
+  ],
+  "talk_if_differs": true
+}

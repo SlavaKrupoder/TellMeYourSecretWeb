@@ -1,0 +1,10 @@
+{
+  "id": "soc_010",
+  "type": "single",
+  "options": [
+    { "id": "must", "tags": ["holiday_gifts_must"] },
+    { "id": "small", "tags": ["holiday_gifts_small"] },
+    { "id": "exp", "tags": ["holiday_gifts_experience"] },
+    { "id": "none", "tags": ["holiday_gifts_none"] }
+  ]
+}

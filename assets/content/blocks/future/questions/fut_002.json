@@ -1,0 +1,11 @@
+{
+  "id": "fut_002",
+  "type": "single",
+  "options": [
+    { "id": "one", "tags": ["kids_one"] },
+    { "id": "two", "tags": ["kids_two"] },
+    { "id": "three", "tags": ["kids_three"] },
+    { "id": "unknown", "tags": ["kids_count_unknown"] }
+  ],
+  "show_if": { "question": "fut_001", "any": ["yes", "later", "unsure"] }
+}

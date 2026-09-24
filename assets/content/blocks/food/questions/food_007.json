@@ -1,0 +1,10 @@
+{
+  "id": "food_007",
+  "type": "single",
+  "options": [
+    { "id": "slow", "tags": ["breakfast_together"] },
+    { "id": "quick", "tags": ["breakfast_quick"] },
+    { "id": "brunch", "tags": ["brunch"] },
+    { "id": "none", "tags": ["no_breakfast"] }
+  ]
+}

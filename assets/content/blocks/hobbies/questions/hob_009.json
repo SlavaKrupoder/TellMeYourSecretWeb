@@ -1,0 +1,9 @@
+{
+  "id": "hob_009",
+  "type": "single",
+  "options": [
+    { "id": "low", "tags": ["hobby_budget_low"] },
+    { "id": "mid", "tags": ["hobby_budget_mid"] },
+    { "id": "high", "tags": ["hobby_budget_high"] }
+  ]
+}

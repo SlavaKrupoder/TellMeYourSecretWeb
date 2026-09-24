@@ -1,0 +1,12 @@
+{
+  "id": "soul_006",
+  "type": "scale",
+  "options": [
+    { "id": "money", "tags": ["worry_money"] },
+    { "id": "health", "tags": ["worry_health"] },
+    { "id": "work", "tags": ["worry_work"] },
+    { "id": "us", "tags": ["worry_us"] },
+    { "id": "family", "tags": ["worry_family"] }
+  ],
+  "scale_labels": "intensity"
+}

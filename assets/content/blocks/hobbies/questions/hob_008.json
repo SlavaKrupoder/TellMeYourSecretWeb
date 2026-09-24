@@ -1,0 +1,9 @@
+{
+  "id": "hob_008",
+  "type": "single",
+  "options": [
+    { "id": "fine", "tags": ["hobby_ok"] },
+    { "id": "balance", "tags": ["hobby_balance"] },
+    { "id": "upset", "tags": ["hobby_jealous"] }
+  ]
+}

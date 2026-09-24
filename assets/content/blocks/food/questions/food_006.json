@@ -1,0 +1,13 @@
+{
+  "id": "food_006",
+  "type": "scale",
+  "options": [
+    { "id": "wine", "tags": ["wine"] },
+    { "id": "cocktails", "tags": ["cocktails"] },
+    { "id": "beer", "tags": ["beer"] },
+    { "id": "spirits", "tags": ["spirits"] },
+    { "id": "coffee", "tags": ["coffee"] },
+    { "id": "soft", "tags": ["no_alcohol"] }
+  ],
+  "ask_reason_on_taboo": true
+}

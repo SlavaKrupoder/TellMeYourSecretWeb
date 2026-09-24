@@ -1,0 +1,10 @@
+{
+  "id": "soc_007",
+  "type": "single",
+  "options": [
+    { "id": "must", "tags": ["anniversary_must"] },
+    { "id": "small", "tags": ["anniversary_small"] },
+    { "id": "no", "tags": ["anniversary_no"] }
+  ],
+  "for_partner": true
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hob_005",
+  "type": "scale",
+  "options": [
+    { "id": "pottery", "tags": ["workshop", "novelty"] },
+    { "id": "climbing", "tags": ["climbing", "heights", "active"] },
+    { "id": "surfing", "tags": ["surfing", "sea", "active"] },
+    { "id": "guitar", "tags": ["music_play", "creative"] },
+    { "id": "horse", "tags": ["horse_riding", "nature"] }
+  ],
+  "ask_reason_on_taboo": true
+}

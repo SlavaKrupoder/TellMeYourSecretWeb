@@ -1,0 +1,12 @@
+{
+  "id": "spc_009",
+  "type": "scale",
+  "options": [
+    { "id": "coffee", "tags": ["ritual_coffee", "coffee"] },
+    { "id": "bath", "tags": ["ritual_bath", "relax"] },
+    { "id": "walk", "tags": ["ritual_walk", "walking"] },
+    { "id": "music", "tags": ["ritual_music"] },
+    { "id": "journal", "tags": ["ritual_journal", "writing"] }
+  ],
+  "for_partner": true
+}

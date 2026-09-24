@@ -1,0 +1,11 @@
+{
+  "id": "int_002",
+  "type": "scale",
+  "options": [
+    { "id": "new_place", "tags": ["novelty"] },
+    { "id": "lingerie", "tags": ["novelty", "visual"] },
+    { "id": "roleplay", "tags": ["novelty", "play"] },
+    { "id": "fantasies_talk", "tags": ["talk", "play"] }
+  ],
+  "ask_reason_on_taboo": true
+}

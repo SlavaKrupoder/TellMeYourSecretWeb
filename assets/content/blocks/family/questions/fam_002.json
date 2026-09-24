@@ -1,0 +1,12 @@
+{
+  "id": "fam_002",
+  "type": "scale",
+  "options": [
+    { "id": "drop_in", "tags": ["parents_drop_in"] },
+    { "id": "stay", "tags": ["parents_stay"] },
+    { "id": "trip", "tags": ["parents_trip"] },
+    { "id": "calls", "tags": ["parents_calls"] },
+    { "id": "live", "tags": ["parents_live"] }
+  ],
+  "ask_reason_on_taboo": true
+}

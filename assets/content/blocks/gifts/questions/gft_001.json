@@ -1,0 +1,13 @@
+{
+  "id": "gft_001",
+  "type": "scale",
+  "options": [
+    { "id": "tulips", "tags": ["flower_tulips", "flowers"] },
+    { "id": "peonies", "tags": ["flower_peonies", "flowers"] },
+    { "id": "roses", "tags": ["flower_roses", "flowers"] },
+    { "id": "sunflowers", "tags": ["flower_sunflowers", "flowers"] },
+    { "id": "wild", "tags": ["flower_wild", "flowers"] },
+    { "id": "orchid", "tags": ["flower_orchid", "flowers"] }
+  ],
+  "for_partner": true
+}

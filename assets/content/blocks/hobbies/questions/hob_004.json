@@ -1,0 +1,12 @@
+{
+  "id": "hob_004",
+  "type": "scale",
+  "options": [
+    { "id": "dancing", "tags": ["dancing"] },
+    { "id": "gym", "tags": ["gym_together", "active"] },
+    { "id": "hiking", "tags": ["hiking", "nature", "active"] },
+    { "id": "language", "tags": ["language"] },
+    { "id": "volunteering", "tags": ["volunteering"] }
+  ],
+  "ask_reason_on_taboo": true
+}

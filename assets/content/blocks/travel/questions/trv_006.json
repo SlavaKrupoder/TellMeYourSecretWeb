@@ -1,0 +1,12 @@
+{
+  "id": "trv_006",
+  "type": "scale",
+  "options": [
+    { "id": "all_inclusive", "tags": ["all_inclusive", "relax"] },
+    { "id": "apartment", "tags": ["apartment"] },
+    { "id": "hostel", "tags": ["hostel", "budget_low"] },
+    { "id": "camping", "tags": ["camping", "nature"] },
+    { "id": "unusual", "tags": ["unusual_stay", "novelty"] }
+  ],
+  "ask_reason_on_taboo": true
+}

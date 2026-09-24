@@ -1,0 +1,9 @@
+{
+  "id": "hom_010",
+  "type": "single",
+  "options": [
+    { "id": "me", "tags": ["tech_me"] },
+    { "id": "partner", "tags": ["tech_partner"] },
+    { "id": "both", "tags": ["tech_both"] }
+  ]
+}

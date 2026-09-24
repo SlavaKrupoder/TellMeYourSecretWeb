@@ -1,0 +1,9 @@
+{
+  "id": "com_010",
+  "type": "single",
+  "options": [
+    { "id": "yes", "tags": ["therapy_yes"] },
+    { "id": "serious", "tags": ["therapy_serious"] },
+    { "id": "no", "tags": ["therapy_no"] }
+  ]
+}

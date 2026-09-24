@@ -1,0 +1,12 @@
+{
+  "id": "wrk_004",
+  "type": "scale",
+  "options": [
+    { "id": "quiet", "tags": ["after_work_quiet"] },
+    { "id": "hug", "tags": ["after_work_hug", "touch"] },
+    { "id": "dinner", "tags": ["after_work_dinner"] },
+    { "id": "talk", "tags": ["after_work_talk", "talk"] },
+    { "id": "sport", "tags": ["after_work_sport", "active"] }
+  ],
+  "for_partner": true
+}

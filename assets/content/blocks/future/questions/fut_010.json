@@ -1,0 +1,11 @@
+{
+  "id": "fut_010",
+  "type": "single",
+  "options": [
+    { "id": "house", "tags": ["old_house"] },
+    { "id": "kids", "tags": ["old_near_kids"] },
+    { "id": "travel", "tags": ["old_travel"] },
+    { "id": "dont_know", "tags": ["old_unknown"] }
+  ],
+  "talk_if_differs": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": "soc_009",
+  "type": "single",
+  "options": [
+    { "id": "love", "tags": ["party_surprise_love"] },
+    { "id": "close", "tags": ["party_surprise_close"] },
+    { "id": "no", "tags": ["party_surprise_no"] }
+  ]
+}

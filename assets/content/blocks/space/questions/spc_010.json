@@ -1,0 +1,9 @@
+{
+  "id": "spc_010",
+  "type": "single",
+  "options": [
+    { "id": "shared", "tags": ["pass_shared"] },
+    { "id": "important", "tags": ["pass_important"] },
+    { "id": "own", "tags": ["pass_own"] }
+  ]
+}

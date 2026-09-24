@@ -1,0 +1,60 @@
+{
+  "block.title": "Personal space",
+  "block.subtitle": "How much freedom and alone time you need",
+
+  "spc_001.title": "How much alone time do you need?",
+  "spc_001.none": "Hardly any",
+  "spc_001.hour": "An hour a day",
+  "spc_001.evening": "An evening a week",
+  "spc_001.day": "Sometimes a whole day",
+
+  "spc_002.title": "How do you feel about this?",
+  "spc_002.friends": "Separate nights out with friends",
+  "spc_002.trip": "A separate trip with friends",
+  "spc_002.room": "A room or corner of your own",
+  "spc_002.hobby": "Separate hobbies",
+  "spc_002.money": "Separate money",
+
+  "spc_003.title": "Your phone, for your partner, is…",
+  "spc_003.open": "Open, feel free",
+  "spc_003.trust": "Mine, but nothing to hide",
+  "spc_003.private": "Private, hands off",
+
+  "spc_004.title": "Should you say where you are and with whom?",
+  "spc_004.always": "Yes, always",
+  "spc_004.late": "Only if I'm running late",
+  "spc_004.no": "No, we trust each other",
+
+  "spc_005.title": "Staying in touch with exes is…",
+  "spc_005.ok": "Fine",
+  "spc_005.polite": "Only polite if we meet",
+  "spc_005.no": "Better not",
+
+  "spc_006.title": "Your partner's close friendship with someone you don't know?",
+  "spc_006.ok": "Fine",
+  "spc_006.meet": "Fine, once we're introduced",
+  "spc_006.uneasy": "It makes me uneasy",
+
+  "spc_007.title": "When you're down, you want…",
+  "spc_007.near": "Someone close by",
+  "spc_007.alone": "To be left alone for a while",
+  "spc_007.talk": "To talk",
+  "spc_007.distract": "A distraction",
+
+  "spc_008.title": "When your partner borrows your things…",
+  "spc_008.shared": "Fine, everything is shared",
+  "spc_008.ask": "Ask first, then go ahead",
+  "spc_008.no": "I don't like it",
+
+  "spc_009.title": "Which personal rituals matter to you?",
+  "spc_009.coffee": "Morning coffee in silence",
+  "spc_009.bath": "A long shower or bath",
+  "spc_009.walk": "A walk alone",
+  "spc_009.music": "Music on headphones",
+  "spc_009.journal": "Journaling",
+
+  "spc_010.title": "Passwords and accounts…",
+  "spc_010.shared": "Sharing them is fine",
+  "spc_010.important": "Only the important ones (bank, home)",
+  "spc_010.own": "Each keeps their own"
+}

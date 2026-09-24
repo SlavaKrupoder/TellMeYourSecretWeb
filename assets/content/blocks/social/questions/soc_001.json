@@ -1,0 +1,10 @@
+{
+  "id": "soc_001",
+  "type": "single",
+  "options": [
+    { "id": "often", "tags": ["friends_often"] },
+    { "id": "weekly", "tags": ["friends_weekly"] },
+    { "id": "monthly", "tags": ["friends_monthly"] },
+    { "id": "rarely", "tags": ["friends_rarely"] }
+  ]
+}

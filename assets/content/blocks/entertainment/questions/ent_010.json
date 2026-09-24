@@ -1,0 +1,9 @@
+{
+  "id": "ent_010",
+  "type": "single",
+  "options": [
+    { "id": "planned", "tags": ["planned"] },
+    { "id": "spontaneous", "tags": ["spontaneous"] },
+    { "id": "surprise", "tags": ["surprise"] }
+  ]
+}

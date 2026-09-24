@@ -1,0 +1,9 @@
+{
+  "id": "spc_008",
+  "type": "single",
+  "options": [
+    { "id": "shared", "tags": ["things_shared"] },
+    { "id": "ask", "tags": ["things_ask"] },
+    { "id": "no", "tags": ["things_mine"] }
+  ]
+}

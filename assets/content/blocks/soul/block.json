@@ -1,0 +1,11 @@
+{
+  "id": "soul",
+  "order": 14,
+  "emoji": "🤍",
+  "paid": false,
+  "theme": {
+    "gradient": ["#F8BBD0", "#CE93D8", "#90CAF9"],
+    "accent": "#AD1457"
+  },
+  "questions": ["soul_001", "soul_002", "soul_003", "soul_004", "soul_005", "soul_006", "soul_007", "soul_008", "soul_009", "soul_010"]
+}

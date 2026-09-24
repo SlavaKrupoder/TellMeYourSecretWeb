@@ -1,0 +1,11 @@
+{
+  "id": "soc_006",
+  "type": "scale",
+  "options": [
+    { "id": "us", "tags": ["ny_us"] },
+    { "id": "family", "tags": ["ny_family"] },
+    { "id": "friends", "tags": ["ny_friends"] },
+    { "id": "trip", "tags": ["ny_trip"] },
+    { "id": "square", "tags": ["ny_square"] }
+  ]
+}

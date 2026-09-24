@@ -1,0 +1,12 @@
+{
+  "id": "fut_005",
+  "type": "scale",
+  "options": [
+    { "id": "rules", "tags": ["parent_rules"] },
+    { "id": "freedom", "tags": ["parent_freedom"] },
+    { "id": "clubs", "tags": ["parent_clubs"] },
+    { "id": "gadgets", "tags": ["parent_gadgets"] },
+    { "id": "faith", "tags": ["parent_faith"] }
+  ],
+  "ask_reason_on_taboo": true
+}

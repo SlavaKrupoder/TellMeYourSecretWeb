@@ -1,0 +1,9 @@
+{
+  "id": "fam_006",
+  "type": "single",
+  "options": [
+    { "id": "defend", "tags": ["defend_now"] },
+    { "id": "private", "tags": ["defend_private"] },
+    { "id": "stay_out", "tags": ["defend_none"] }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "intimacy",
+  "order": 15,
+  "emoji": "🔥",
+  "paid": true,
+  "theme": {
+    "gradient": ["#4A148C", "#8E24AA", "#EC407A"],
+    "accent": "#AD1457"
+  },
+  "questions": ["int_001", "int_002"]
+}

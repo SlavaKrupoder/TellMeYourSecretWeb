@@ -1,0 +1,67 @@
+{
+  "block.title": "Kids and the future",
+  "block.subtitle": "Kids, home and where you'll be in 10 years",
+
+  "fut_001.title": "Do you want children?",
+  "fut_001.yes": "Yes",
+  "fut_001.later": "Yes, but later",
+  "fut_001.unsure": "Not sure",
+  "fut_001.no": "No",
+
+  "fut_002.title": "How many?",
+  "fut_002.one": "One",
+  "fut_002.two": "Two",
+  "fut_002.three": "Three or more",
+  "fut_002.unknown": "Don't know yet",
+
+  "fut_003.title": "When?",
+  "fut_003.soon": "Soon",
+  "fut_003.1_3": "In 1–3 years",
+  "fut_003.3_5": "In 3–5 years",
+  "fut_003.unknown": "Don't know",
+
+  "fut_004.title": "How do you feel about this?",
+  "fut_004.adopt": "Adoption",
+  "fut_004.dad_leave": "Paternity leave",
+  "fut_004.nanny": "A nanny",
+  "fut_004.grandparents": "Help from grandparents",
+  "fut_004.kindergarten": "Nursery from an early age",
+
+  "fut_005.title": "How do you feel about these in parenting?",
+  "fut_005.rules": "Clear rules",
+  "fut_005.freedom": "Lots of freedom",
+  "fut_005.clubs": "Sports and clubs",
+  "fut_005.gadgets": "Gadgets from an early age",
+  "fut_005.faith": "A religious upbringing",
+
+  "fut_006.title": "Where do you want to live?",
+  "fut_006.city": "A big city",
+  "fut_006.suburb": "Suburbs, our own house",
+  "fut_006.town": "A small town",
+  "fut_006.abroad": "Another country",
+  "fut_006.sea": "By the sea",
+
+  "fut_007.title": "Housing…",
+  "fut_007.own": "Our own, even with a mortgage",
+  "fut_007.rent": "Renting is fine",
+  "fut_007.parents": "Living with parents",
+
+  "fut_008.title": "A wedding…",
+  "fut_008.big": "I want a big celebration",
+  "fut_008.small": "Small, for close people",
+  "fut_008.sign": "Just sign the papers",
+  "fut_008.no": "Not needed",
+
+  "fut_009.title": "How do you see your life in 10 years?",
+  "fut_009.business": "Our own business",
+  "fut_009.house": "A big house",
+  "fut_009.abroad": "Living abroad",
+  "fut_009.travel": "Lots of travel",
+  "fut_009.calm": "Calm stability",
+
+  "fut_010.title": "Your dream old age…",
+  "fut_010.house": "Together in a country house",
+  "fut_010.kids": "Close to the kids",
+  "fut_010.travel": "Travelling",
+  "fut_010.dont_know": "I don't think about it"
+}

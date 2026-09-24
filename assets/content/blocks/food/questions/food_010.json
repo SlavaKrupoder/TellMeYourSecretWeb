@@ -1,0 +1,10 @@
+{
+  "id": "food_010",
+  "type": "scale",
+  "options": [
+    { "id": "class", "tags": ["workshop", "cooking_together"] },
+    { "id": "market", "tags": ["market", "food_local"] },
+    { "id": "festival", "tags": ["festival", "street_food"] },
+    { "id": "food_trip", "tags": ["food_trip", "restaurant"] }
+  ]
+}

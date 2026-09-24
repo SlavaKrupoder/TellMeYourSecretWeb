@@ -1,0 +1,11 @@
+{
+  "id": "soul_009",
+  "type": "scale",
+  "options": [
+    { "id": "dates", "tags": ["more_dates"] },
+    { "id": "calm", "tags": ["more_calm", "relax"] },
+    { "id": "talks", "tags": ["more_talks", "talk"] },
+    { "id": "projects", "tags": ["more_projects"] },
+    { "id": "surprises", "tags": ["more_surprises", "surprise"] }
+  ]
+}

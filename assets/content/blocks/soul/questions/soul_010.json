@@ -1,0 +1,11 @@
+{
+  "id": "soul_010",
+  "type": "scale",
+  "options": [
+    { "id": "trip", "tags": ["dream_trip", "flight"] },
+    { "id": "home", "tags": ["dream_home"] },
+    { "id": "business", "tags": ["dream_shared_business"] },
+    { "id": "kids", "tags": ["dream_kids"] },
+    { "id": "happy", "tags": ["dream_happy"] }
+  ]
+}

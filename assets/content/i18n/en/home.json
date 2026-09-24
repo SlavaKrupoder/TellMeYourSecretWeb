@@ -1,0 +1,68 @@
+{
+  "block.title": "Home life",
+  "block.subtitle": "Chores, tidiness and comfort at home",
+
+  "hom_001.title": "How do you feel about these chores?",
+  "hom_001.cook": "Cooking",
+  "hom_001.clean": "Cleaning",
+  "hom_001.laundry": "Laundry and ironing",
+  "hom_001.dishes": "Doing the dishes",
+  "hom_001.shopping": "Grocery shopping",
+
+  "hom_002.title": "And these?",
+  "hom_002.repair": "Small repairs",
+  "hom_002.bills": "Paying the bills",
+  "hom_002.plants": "Caring for plants and pets",
+  "hom_002.trash": "Taking out the trash",
+  "hom_002.planning": "Planning meals and shopping",
+
+  "hom_003.title": "How should you split the chores?",
+  "hom_003.equal": "Equally, by a list",
+  "hom_003.skill": "Each does what they're good at",
+  "hom_003.rotate": "Taking turns by week",
+  "hom_003.hire": "Hire a cleaner",
+
+  "hom_004.title": "How important is tidiness to you?",
+  "hom_004.perfect": "Always spotless",
+  "hom_004.clean": "Clean, but not obsessive",
+  "hom_004.creative": "Creative mess is fine",
+  "hom_004.guests": "Tidy before guests come",
+
+  "hom_005.title": "How do you feel about pets?",
+  "hom_005.cat": "A cat",
+  "hom_005.dog": "A dog",
+  "hom_005.fish": "Fish or birds",
+  "hom_005.rodent": "Rodents",
+  "hom_005.exotic": "Exotic (reptiles)",
+
+  "hom_006.title": "What interior style do you like?",
+  "hom_006.minimal": "Minimalism",
+  "hom_006.cozy": "Cosy, lots of textiles",
+  "hom_006.scandi": "Scandinavian",
+  "hom_006.loft": "Loft",
+  "hom_006.classic": "Classic",
+
+  "hom_007.title": "What matters most to you at home?",
+  "hom_007.quiet": "Quiet",
+  "hom_007.order": "Order",
+  "hom_007.cozy": "Warm light and nice scents",
+  "hom_007.food": "Good food",
+  "hom_007.corner": "A corner of my own",
+
+  "hom_008.title": "Are you a morning person or a night owl?",
+  "hom_008.lark": "A morning person",
+  "hom_008.owl": "A night owl",
+  "hom_008.flex": "It varies",
+
+  "hom_009.title": "How do you sleep best?",
+  "hom_009.cool": "In a cool bedroom",
+  "hom_009.blankets": "Under separate blankets",
+  "hom_009.hug": "Falling asleep in each other's arms",
+  "hom_009.window": "With the window open",
+  "hom_009.dark": "In total darkness",
+
+  "hom_010.title": "Who handles gadgets and the internet at home?",
+  "hom_010.me": "Me",
+  "hom_010.partner": "My partner",
+  "hom_010.both": "We figure it out together"
+}

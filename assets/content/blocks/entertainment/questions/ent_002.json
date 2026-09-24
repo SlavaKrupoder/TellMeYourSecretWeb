@@ -1,0 +1,12 @@
+{
+  "id": "ent_002",
+  "type": "scale",
+  "options": [
+    { "id": "restaurant", "tags": ["restaurant"] },
+    { "id": "cinema", "tags": ["cinema", "movie"] },
+    { "id": "concert", "tags": ["concert"] },
+    { "id": "bar", "tags": ["nightlife"] },
+    { "id": "walk", "tags": ["walking", "city"] }
+  ],
+  "ask_reason_on_taboo": true
+}

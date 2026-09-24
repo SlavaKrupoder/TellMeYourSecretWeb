@@ -1,0 +1,11 @@
+{
+  "id": "trv_002",
+  "type": "scale",
+  "options": [
+    { "id": "beach_lazy", "tags": ["beach", "relax"] },
+    { "id": "hiking", "tags": ["hiking", "active", "nature"] },
+    { "id": "sightseeing", "tags": ["sightseeing", "culture", "walking"] },
+    { "id": "extreme", "tags": ["extreme", "active"] }
+  ],
+  "ask_reason_on_taboo": true
+}

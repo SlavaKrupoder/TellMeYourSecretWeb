@@ -1,0 +1,11 @@
+{
+  "id": "communication",
+  "order": 6,
+  "emoji": "💬",
+  "paid": false,
+  "theme": {
+    "gradient": ["#5C6BC0", "#42A5F5", "#80DEEA"],
+    "accent": "#3949AB"
+  },
+  "questions": ["com_001", "com_002", "com_003", "com_004", "com_005", "com_006", "com_007", "com_008", "com_009", "com_010"]
+}

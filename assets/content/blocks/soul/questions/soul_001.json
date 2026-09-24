@@ -1,0 +1,10 @@
+{
+  "id": "soul_001",
+  "type": "single",
+  "options": [
+    { "id": "happy", "tags": ["mood_happy"] },
+    { "id": "missing", "tags": ["mood_missing"] },
+    { "id": "mixed", "tags": ["mood_mixed"] },
+    { "id": "hard", "tags": ["mood_hard"] }
+  ]
+}

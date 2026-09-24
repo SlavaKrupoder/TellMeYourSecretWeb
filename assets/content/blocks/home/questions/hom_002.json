@@ -1,0 +1,12 @@
+{
+  "id": "hom_002",
+  "type": "scale",
+  "options": [
+    { "id": "repair", "tags": ["chore_repair"] },
+    { "id": "bills", "tags": ["chore_bills"] },
+    { "id": "plants", "tags": ["chore_plants"] },
+    { "id": "trash", "tags": ["chore_trash"] },
+    { "id": "planning", "tags": ["chore_planning"] }
+  ],
+  "ask_reason_on_taboo": true
+}

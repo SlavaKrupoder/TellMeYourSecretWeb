@@ -1,0 +1,9 @@
+{
+  "id": "trv_008",
+  "type": "single",
+  "options": [
+    { "id": "planned", "tags": ["planned"] },
+    { "id": "semi", "tags": ["semi_planned"] },
+    { "id": "spontaneous", "tags": ["spontaneous"] }
+  ]
+}

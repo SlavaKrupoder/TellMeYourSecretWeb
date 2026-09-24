@@ -1,0 +1,9 @@
+{
+  "id": "soc_003",
+  "type": "single",
+  "options": [
+    { "id": "all", "tags": ["friends_all"] },
+    { "id": "mix", "tags": ["friends_mix"] },
+    { "id": "own", "tags": ["friends_own"] }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "spc_007",
+  "type": "single",
+  "options": [
+    { "id": "near", "tags": ["upset_near"] },
+    { "id": "alone", "tags": ["upset_alone"] },
+    { "id": "talk", "tags": ["upset_talk"] },
+    { "id": "distract", "tags": ["upset_distract"] }
+  ],
+  "for_partner": true
+}

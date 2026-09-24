@@ -1,0 +1,70 @@
+{
+  "block.title": "What's on your mind",
+  "block.subtitle": "Feelings, worries and what's missing",
+
+  "soul_001.title": "How do you feel in your relationship right now?",
+  "soul_001.happy": "Happy and calm",
+  "soul_001.missing": "Good, but something is missing",
+  "soul_001.mixed": "It varies",
+  "soul_001.hard": "It's hard for me",
+
+  "soul_002.title": "What are you missing?",
+  "soul_002.attention": "Attention",
+  "soul_002.tenderness": "Tenderness",
+  "soul_002.time": "Time together",
+  "soul_002.support": "Support",
+  "soul_002.adventure": "Adventure and novelty",
+
+  "soul_003.title": "What do you love most about your partner?",
+  "soul_003.care": "Their care",
+  "soul_003.humor": "Their humour",
+  "soul_003.mind": "Their mind",
+  "soul_003.looks": "Their looks",
+  "soul_003.reliable": "Their reliability",
+
+  "soul_004.title": "When do you feel most loved?",
+  "soul_004.heard": "When I'm listened to",
+  "soul_004.hugged": "When I'm hugged",
+  "soul_004.surprised": "When I'm surprised",
+  "soul_004.helped": "When I'm helped",
+  "soul_004.told": "When I hear \"I love you\"",
+
+  "soul_005.title": "How often do you want to hear \"I love you\"?",
+  "soul_005.daily": "Every day",
+  "soul_005.often": "Often",
+  "soul_005.sometimes": "Sometimes",
+  "soul_005.actions": "Actions matter more than words",
+
+  "soul_006.title": "What worries you right now?",
+  "soul_006.money": "Money",
+  "soul_006.health": "Health",
+  "soul_006.work": "Work",
+  "soul_006.us": "The future of us",
+  "soul_006.family": "Family",
+
+  "soul_007.title": "Is there something that's hard to tell your partner?",
+  "soul_007.lot": "Yes, a lot",
+  "soul_007.some": "A few things",
+  "soul_007.no": "No, I say everything",
+
+  "soul_008.title": "What helps you feel closer?",
+  "soul_008.rituals": "Shared rituals",
+  "soul_008.talks": "Honest talks",
+  "soul_008.goals": "Shared goals",
+  "soul_008.touch": "Touch",
+  "soul_008.laugh": "Laughing together",
+
+  "soul_009.title": "What do you want more of next month?",
+  "soul_009.dates": "Dates",
+  "soul_009.calm": "Calm",
+  "soul_009.talks": "Talks",
+  "soul_009.projects": "Shared projects",
+  "soul_009.surprises": "Surprises",
+
+  "soul_010.title": "What do you dream of together?",
+  "soul_010.trip": "A dream trip",
+  "soul_010.home": "A home of our own",
+  "soul_010.business": "A shared business",
+  "soul_010.kids": "Children",
+  "soul_010.happy": "Just being happy"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "spc_005",
+  "type": "single",
+  "options": [
+    { "id": "ok", "tags": ["exes_ok"] },
+    { "id": "polite", "tags": ["exes_polite"] },
+    { "id": "no", "tags": ["exes_no"] }
+  ],
+  "talk_if_differs": true
+}

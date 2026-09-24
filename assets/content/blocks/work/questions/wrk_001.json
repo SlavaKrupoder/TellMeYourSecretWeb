@@ -1,0 +1,9 @@
+{
+  "id": "wrk_001",
+  "type": "single",
+  "options": [
+    { "id": "main", "tags": ["work_main"] },
+    { "id": "important", "tags": ["work_important"] },
+    { "id": "means", "tags": ["work_means"] }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fut_001",
+  "type": "single",
+  "options": [
+    { "id": "yes", "tags": ["kids_yes"] },
+    { "id": "later", "tags": ["kids_later"] },
+    { "id": "unsure", "tags": ["kids_unsure"] },
+    { "id": "no", "tags": ["kids_no"] }
+  ],
+  "talk_if_differs": true
+}

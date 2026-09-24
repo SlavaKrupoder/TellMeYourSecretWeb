@@ -1,0 +1,10 @@
+{
+  "id": "fut_007",
+  "type": "single",
+  "options": [
+    { "id": "own", "tags": ["housing_own"] },
+    { "id": "rent", "tags": ["housing_rent"] },
+    { "id": "parents", "tags": ["housing_parents"] }
+  ],
+  "talk_if_differs": true
+}

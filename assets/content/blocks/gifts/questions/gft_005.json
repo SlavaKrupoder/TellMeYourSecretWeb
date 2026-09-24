@@ -1,0 +1,11 @@
+{
+  "id": "gft_005",
+  "type": "scale",
+  "options": [
+    { "id": "chocolate", "tags": ["sweet_chocolate", "sweets"] },
+    { "id": "pastry", "tags": ["sweet_pastry", "sweets"] },
+    { "id": "icecream", "tags": ["sweet_icecream", "sweets"] },
+    { "id": "fruit", "tags": ["sweet_fruit", "sweets"] }
+  ],
+  "for_partner": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "hobbies",
+  "order": 4,
+  "emoji": "🎨",
+  "paid": false,
+  "theme": {
+    "gradient": ["#26C6DA", "#66BB6A", "#D4E157"],
+    "accent": "#00897B"
+  },
+  "questions": ["hob_001", "hob_002", "hob_003", "hob_004", "hob_005", "hob_006", "hob_007", "hob_008", "hob_009", "hob_010"]
+}

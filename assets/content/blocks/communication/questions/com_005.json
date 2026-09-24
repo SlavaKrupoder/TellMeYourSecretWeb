@@ -1,0 +1,10 @@
+{
+  "id": "com_005",
+  "type": "single",
+  "options": [
+    { "id": "direct", "tags": ["feedback_direct"] },
+    { "id": "soft", "tags": ["feedback_soft"] },
+    { "id": "later", "tags": ["feedback_later"] },
+    { "id": "written", "tags": ["feedback_written"] }
+  ]
+}

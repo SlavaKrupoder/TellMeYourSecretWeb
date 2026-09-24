@@ -1,0 +1,10 @@
+{
+  "id": "ent_008",
+  "type": "single",
+  "options": [
+    { "id": "often", "tags": ["out_often"] },
+    { "id": "weekly", "tags": ["out_weekly"] },
+    { "id": "monthly", "tags": ["out_monthly"] },
+    { "id": "rarely", "tags": ["homebody"] }
+  ]
+}

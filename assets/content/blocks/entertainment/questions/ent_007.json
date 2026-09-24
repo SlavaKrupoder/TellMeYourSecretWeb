@@ -1,0 +1,11 @@
+{
+  "id": "ent_007",
+  "type": "scale",
+  "options": [
+    { "id": "workshop", "tags": ["workshop", "novelty"] },
+    { "id": "tasting", "tags": ["tasting", "novelty"] },
+    { "id": "jump", "tags": ["extreme", "heights"] },
+    { "id": "surprise_trip", "tags": ["surprise_trip", "novelty", "surprise"] }
+  ],
+  "ask_reason_on_taboo": true
+}

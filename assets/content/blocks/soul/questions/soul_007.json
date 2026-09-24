@@ -1,0 +1,9 @@
+{
+  "id": "soul_007",
+  "type": "single",
+  "options": [
+    { "id": "lot", "tags": ["hard_to_say_lot"] },
+    { "id": "some", "tags": ["hard_to_say_some"] },
+    { "id": "no", "tags": ["hard_to_say_none"] }
+  ]
+}

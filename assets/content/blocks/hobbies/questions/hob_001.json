@@ -1,0 +1,11 @@
+{
+  "id": "hob_001",
+  "type": "scale",
+  "options": [
+    { "id": "running", "tags": ["running", "active"] },
+    { "id": "cycling", "tags": ["cycling", "active"] },
+    { "id": "swimming", "tags": ["swimming", "active"] },
+    { "id": "yoga", "tags": ["yoga", "relax"] },
+    { "id": "team", "tags": ["team_sports", "active"] }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "fam_004",
+  "type": "single",
+  "options": [
+    { "id": "all", "tags": ["family_holidays_all"] },
+    { "id": "alternate", "tags": ["family_holidays_alternate"] },
+    { "id": "us", "tags": ["family_holidays_us"] }
+  ],
+  "talk_if_differs": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": "fam_003",
+  "type": "single",
+  "options": [
+    { "id": "listen", "tags": ["advice_listen"] },
+    { "id": "ours", "tags": ["advice_ours"] },
+    { "id": "no", "tags": ["advice_no"] }
+  ]
+}

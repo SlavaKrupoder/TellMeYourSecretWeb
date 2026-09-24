@@ -1,0 +1,11 @@
+{
+  "id": "social",
+  "order": 9,
+  "emoji": "🥳",
+  "paid": false,
+  "theme": {
+    "gradient": ["#FFCA28", "#FF7043", "#EC407A"],
+    "accent": "#F4511E"
+  },
+  "questions": ["soc_001", "soc_002", "soc_003", "soc_004", "soc_005", "soc_006", "soc_007", "soc_008", "soc_009", "soc_010"]
+}

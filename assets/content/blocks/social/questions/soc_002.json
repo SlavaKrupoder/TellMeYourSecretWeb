@@ -1,0 +1,11 @@
+{
+  "id": "soc_002",
+  "type": "scale",
+  "options": [
+    { "id": "ours", "tags": ["friends_home"] },
+    { "id": "theirs", "tags": ["friends_visit"] },
+    { "id": "bar", "tags": ["friends_bar", "nightlife"] },
+    { "id": "nature", "tags": ["friends_nature", "nature"] },
+    { "id": "active", "tags": ["friends_active", "active"] }
+  ]
+}

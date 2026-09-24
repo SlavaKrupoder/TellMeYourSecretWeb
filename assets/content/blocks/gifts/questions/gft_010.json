@@ -1,0 +1,15 @@
+{
+  "id": "gft_010",
+  "type": "single",
+  "options": [
+    { "id": "red", "tags": ["color_red"] },
+    { "id": "pink", "tags": ["color_pink"] },
+    { "id": "white", "tags": ["color_white"] },
+    { "id": "black", "tags": ["color_black"] },
+    { "id": "blue", "tags": ["color_blue"] },
+    { "id": "green", "tags": ["color_green"] },
+    { "id": "yellow", "tags": ["color_yellow"] },
+    { "id": "purple", "tags": ["color_purple"] }
+  ],
+  "for_partner": true
+}

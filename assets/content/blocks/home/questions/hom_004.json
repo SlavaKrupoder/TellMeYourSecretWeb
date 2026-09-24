@@ -1,0 +1,11 @@
+{
+  "id": "hom_004",
+  "type": "single",
+  "options": [
+    { "id": "perfect", "tags": ["tidy_high"] },
+    { "id": "clean", "tags": ["tidy_mid"] },
+    { "id": "creative", "tags": ["tidy_low"] },
+    { "id": "guests", "tags": ["tidy_guests"] }
+  ],
+  "talk_if_differs": true
+}

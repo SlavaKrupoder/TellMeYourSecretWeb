@@ -1,0 +1,11 @@
+{
+  "id": "hom_003",
+  "type": "single",
+  "options": [
+    { "id": "equal", "tags": ["chores_equal"] },
+    { "id": "skill", "tags": ["chores_skill"] },
+    { "id": "rotate", "tags": ["chores_rotate"] },
+    { "id": "hire", "tags": ["chores_hire"] }
+  ],
+  "talk_if_differs": true
+}

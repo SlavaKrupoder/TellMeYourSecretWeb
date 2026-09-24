@@ -1,0 +1,12 @@
+{
+  "id": "hom_005",
+  "type": "scale",
+  "options": [
+    { "id": "cat", "tags": ["pet_cat"] },
+    { "id": "dog", "tags": ["pet_dog"] },
+    { "id": "fish", "tags": ["pet_fish"] },
+    { "id": "rodent", "tags": ["pet_rodent"] },
+    { "id": "exotic", "tags": ["pet_exotic"] }
+  ],
+  "ask_reason_on_taboo": true
+}

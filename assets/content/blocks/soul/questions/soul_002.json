@@ -1,0 +1,12 @@
+{
+  "id": "soul_002",
+  "type": "scale",
+  "options": [
+    { "id": "attention", "tags": ["need_attention"] },
+    { "id": "tenderness", "tags": ["need_tenderness", "touch"] },
+    { "id": "time", "tags": ["need_time"] },
+    { "id": "support", "tags": ["need_support"] },
+    { "id": "adventure", "tags": ["need_adventure", "novelty"] }
+  ],
+  "scale_labels": "intensity"
+}
