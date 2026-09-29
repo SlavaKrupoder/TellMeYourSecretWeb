@@ -1,0 +1,11 @@
+{
+  "id": "fut_015",
+  "type": "scale",
+  "options": [
+    { "id": "build", "tags": ["future_house"] },
+    { "id": "world", "tags": ["future_travel"] },
+    { "id": "business", "tags": ["future_business"] },
+    { "id": "learn", "tags": ["learn_together"] },
+    { "id": "sea", "tags": ["live_sea", "sea"] }
+  ]
+}

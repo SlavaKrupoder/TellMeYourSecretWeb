@@ -1,0 +1,9 @@
+{
+  "id": "soc_019",
+  "type": "single",
+  "options": [
+    { "id": "love", "tags": ["couples_trip_love"] },
+    { "id": "sometimes", "tags": ["couples_trip_some"] },
+    { "id": "no", "tags": ["couples_trip_no"] }
+  ]
+}

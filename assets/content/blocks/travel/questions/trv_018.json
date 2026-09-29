@@ -1,0 +1,11 @@
+{
+  "id": "trv_018",
+  "type": "scale",
+  "options": [
+    { "id": "view", "tags": ["room_view", "romance"] },
+    { "id": "breakfast", "tags": ["hotel_breakfast"] },
+    { "id": "pool", "tags": ["pool", "relax"] },
+    { "id": "adults", "tags": ["adults_only", "relax"] },
+    { "id": "central", "tags": ["walking", "city"] }
+  ]
+}

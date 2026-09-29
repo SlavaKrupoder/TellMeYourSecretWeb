@@ -1,0 +1,11 @@
+{
+  "id": "trv_019",
+  "type": "single",
+  "options": [
+    { "id": "split", "tags": ["trip_split"] },
+    { "id": "income", "tags": ["trip_proportional"] },
+    { "id": "one", "tags": ["trip_one_pays"] },
+    { "id": "shared", "tags": ["trip_shared_budget"] }
+  ],
+  "talk_if_differs": true
+}

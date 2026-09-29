@@ -4,6 +4,7 @@
   "options": [
     { "id": "main", "tags": ["work_main"] },
     { "id": "important", "tags": ["work_important"] },
-    { "id": "means", "tags": ["work_means"] }
+    { "id": "means", "tags": ["work_means"] },
+    { "id": "searching", "tags": ["work_searching"] }
   ]
 }

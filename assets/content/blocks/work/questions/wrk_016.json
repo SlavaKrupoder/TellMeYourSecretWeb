@@ -1,0 +1,10 @@
+{
+  "id": "wrk_016",
+  "type": "single",
+  "options": [
+    { "id": "ok", "tags": ["one_income_ok"] },
+    { "id": "short", "tags": ["one_income_short"] },
+    { "id": "no", "tags": ["one_income_no"] }
+  ],
+  "talk_if_differs": true
+}

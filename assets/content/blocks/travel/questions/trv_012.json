@@ -1,0 +1,12 @@
+{
+  "id": "trv_012",
+  "type": "scale",
+  "options": [
+    { "id": "road", "tags": ["road_trip"] },
+    { "id": "backpack", "tags": ["hostel", "spontaneous"] },
+    { "id": "wellness", "tags": ["spa", "relax"] },
+    { "id": "detox", "tags": ["detox", "nature"] },
+    { "id": "festival", "tags": ["festival"] }
+  ],
+  "ask_reason_on_taboo": true
+}

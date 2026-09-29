@@ -1,0 +1,12 @@
+{
+  "id": "soul_019",
+  "type": "scale",
+  "options": [
+    { "id": "care", "tags": ["love_care"] },
+    { "id": "patience", "tags": ["thanks_patience"] },
+    { "id": "fun", "tags": ["love_humor"] },
+    { "id": "support", "tags": ["need_support"] },
+    { "id": "help", "tags": ["love_help"] }
+  ],
+  "scale_labels": "intensity"
+}

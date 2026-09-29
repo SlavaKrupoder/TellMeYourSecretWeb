@@ -1,0 +1,10 @@
+{
+  "id": "soul_017",
+  "type": "single",
+  "options": [
+    { "id": "always", "tags": ["heard_always"] },
+    { "id": "mostly", "tags": ["heard_mostly"] },
+    { "id": "sometimes", "tags": ["heard_sometimes"] },
+    { "id": "rarely", "tags": ["heard_rarely"] }
+  ]
+}

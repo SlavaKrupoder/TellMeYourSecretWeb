@@ -1,0 +1,11 @@
+{
+  "id": "wrk_018",
+  "type": "single",
+  "options": [
+    { "id": "silent", "tags": ["burnout_silent"] },
+    { "id": "irritated", "tags": ["burnout_irritated"] },
+    { "id": "overwork", "tags": ["burnout_overwork"] },
+    { "id": "sleep", "tags": ["burnout_sleep"] }
+  ],
+  "for_partner": true
+}

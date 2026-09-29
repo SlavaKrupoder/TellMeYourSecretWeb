@@ -1,0 +1,11 @@
+{
+  "id": "mon_011",
+  "type": "single",
+  "options": [
+    { "id": "none", "tags": ["cushion_none"] },
+    { "id": "month", "tags": ["cushion_month"] },
+    { "id": "three", "tags": ["cushion_three"] },
+    { "id": "six", "tags": ["cushion_six"] }
+  ],
+  "talk_if_differs": true
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fut_017",
+  "type": "scale",
+  "options": [
+    { "id": "sport", "tags": ["sport_together", "active"] },
+    { "id": "food", "tags": ["healthy"] },
+    { "id": "habits", "tags": ["quit_habits"] },
+    { "id": "checkups", "tags": ["checkups"] },
+    { "id": "sleep", "tags": ["more_sleep"] }
+  ],
+  "ask_reason_on_taboo": true
+}

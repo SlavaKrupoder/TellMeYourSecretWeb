@@ -1,0 +1,10 @@
+{
+  "id": "hob_016",
+  "type": "single",
+  "options": [
+    { "id": "morning", "tags": ["hobby_morning"] },
+    { "id": "evening", "tags": ["hobby_evening"] },
+    { "id": "weekend", "tags": ["hobby_weekend"] },
+    { "id": "whenever", "tags": ["hobby_flexible"] }
+  ]
+}

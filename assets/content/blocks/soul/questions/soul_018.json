@@ -1,0 +1,12 @@
+{
+  "id": "soul_018",
+  "type": "scale",
+  "options": [
+    { "id": "routine", "tags": ["fear_routine"] },
+    { "id": "self", "tags": ["fear_self"] },
+    { "id": "cheating", "tags": ["fear_cheating"] },
+    { "id": "apart", "tags": ["fear_apart"] },
+    { "id": "money", "tags": ["fear_money"] }
+  ],
+  "scale_labels": "intensity"
+}

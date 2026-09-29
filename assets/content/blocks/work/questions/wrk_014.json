@@ -1,0 +1,12 @@
+{
+  "id": "wrk_014",
+  "type": "scale",
+  "options": [
+    { "id": "cv", "tags": ["support_cv"] },
+    { "id": "listen", "tags": ["support_listen"] },
+    { "id": "celebrate", "tags": ["celebrate_wins"] },
+    { "id": "chores", "tags": ["love_help"] },
+    { "id": "motivate", "tags": ["support_motivate"] }
+  ],
+  "for_partner": true
+}

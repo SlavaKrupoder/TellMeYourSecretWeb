@@ -1,0 +1,10 @@
+{
+  "id": "fut_016",
+  "type": "single",
+  "options": [
+    { "id": "detailed", "tags": ["plan_detailed"] },
+    { "id": "rough", "tags": ["plan_rough"] },
+    { "id": "none", "tags": ["plan_none"] }
+  ],
+  "talk_if_differs": true
+}

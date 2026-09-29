@@ -1,0 +1,13 @@
+{
+  "id": "gft_012",
+  "type": "scale",
+  "options": [
+    { "id": "spa", "tags": ["spa", "relax"] },
+    { "id": "concert", "tags": ["concert"] },
+    { "id": "workshop", "tags": ["workshop", "novelty"] },
+    { "id": "weekend", "tags": ["surprise_trip", "trip_weekend"] },
+    { "id": "balloon", "tags": ["balloon", "heights"] },
+    { "id": "photoshoot", "tags": ["photoshoot"] }
+  ],
+  "for_partner": true
+}

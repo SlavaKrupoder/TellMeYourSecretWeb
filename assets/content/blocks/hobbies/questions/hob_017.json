@@ -1,0 +1,10 @@
+{
+  "id": "hob_017",
+  "type": "single",
+  "options": [
+    { "id": "often", "tags": ["hobby_new_often"] },
+    { "id": "sometimes", "tags": ["hobby_new_some"] },
+    { "id": "rarely", "tags": ["hobby_new_rare"] },
+    { "id": "none", "tags": ["hobby_new_none"] }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "soc_018",
+  "type": "scale",
+  "options": [
+    { "id": "volunteer", "tags": ["volunteering"] },
+    { "id": "club", "tags": ["community"] },
+    { "id": "sports", "tags": ["team_sports", "active"] },
+    { "id": "faith", "tags": ["faith_community"] },
+    { "id": "online", "tags": ["online_community"] }
+  ]
+}

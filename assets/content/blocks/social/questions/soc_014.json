@@ -1,0 +1,11 @@
+{
+  "id": "soc_014",
+  "type": "single",
+  "options": [
+    { "id": "love", "tags": ["new_people_love"] },
+    { "id": "sometimes", "tags": ["new_people_some"] },
+    { "id": "hard", "tags": ["new_people_hard"] },
+    { "id": "no", "tags": ["new_people_no"] }
+  ],
+  "talk_if_differs": true
+}

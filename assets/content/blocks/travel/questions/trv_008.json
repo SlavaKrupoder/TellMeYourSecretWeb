@@ -4,6 +4,7 @@
   "options": [
     { "id": "planned", "tags": ["planned"] },
     { "id": "semi", "tags": ["semi_planned"] },
-    { "id": "spontaneous", "tags": ["spontaneous"] }
+    { "id": "spontaneous", "tags": ["spontaneous"] },
+    { "id": "agent", "tags": ["travel_agent"] }
   ]
 }

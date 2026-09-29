@@ -1,0 +1,12 @@
+{
+  "id": "mon_012",
+  "type": "scale",
+  "options": [
+    { "id": "car", "tags": ["goal_car"] },
+    { "id": "phone", "tags": ["spend_tech"] },
+    { "id": "designer", "tags": ["luxury_items"] },
+    { "id": "renovation", "tags": ["renovation"] },
+    { "id": "hobby", "tags": ["hobby_budget_high"] }
+  ],
+  "ask_reason_on_taboo": true
+}

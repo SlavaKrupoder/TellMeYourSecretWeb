@@ -1,0 +1,12 @@
+{
+  "id": "soc_015",
+  "type": "scale",
+  "options": [
+    { "id": "weddings", "tags": ["weddings"] },
+    { "id": "corporate", "tags": ["corporate_party"] },
+    { "id": "kids", "tags": ["kids_party"] },
+    { "id": "reunion", "tags": ["reunion"] },
+    { "id": "networking", "tags": ["networking"] }
+  ],
+  "ask_reason_on_taboo": true
+}

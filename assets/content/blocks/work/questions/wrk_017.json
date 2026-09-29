@@ -1,0 +1,11 @@
+{
+  "id": "wrk_017",
+  "type": "scale",
+  "options": [
+    { "id": "early", "tags": ["early_bird"] },
+    { "id": "late", "tags": ["night_owl"] },
+    { "id": "lunch", "tags": ["lunch_together"] },
+    { "id": "workout", "tags": ["after_work_sport", "active"] },
+    { "id": "commute", "tags": ["commute_together"] }
+  ]
+}

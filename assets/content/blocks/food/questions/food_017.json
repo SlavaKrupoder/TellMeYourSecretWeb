@@ -1,0 +1,11 @@
+{
+  "id": "food_017",
+  "type": "single",
+  "options": [
+    { "id": "list", "tags": ["shop_list"] },
+    { "id": "impulse", "tags": ["shop_impulse"] },
+    { "id": "delivery", "tags": ["shop_delivery"] },
+    { "id": "market", "tags": ["market"] }
+  ],
+  "talk_if_differs": true
+}

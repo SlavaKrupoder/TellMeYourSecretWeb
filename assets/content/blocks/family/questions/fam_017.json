@@ -1,0 +1,10 @@
+{
+  "id": "fam_017",
+  "type": "single",
+  "options": [
+    { "id": "share", "tags": ["family_share_all"] },
+    { "id": "some", "tags": ["family_share_some"] },
+    { "id": "nothing", "tags": ["family_share_none"] }
+  ],
+  "talk_if_differs": true
+}

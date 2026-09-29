@@ -1,0 +1,12 @@
+{
+  "id": "gft_014",
+  "type": "scale",
+  "options": [
+    { "id": "coffee_bed", "tags": ["breakfast_in_bed", "coffee"] },
+    { "id": "notes", "tags": ["love_notes"] },
+    { "id": "messages", "tags": ["texting_often"] },
+    { "id": "massage", "tags": ["massage", "touch"] },
+    { "id": "chore", "tags": ["love_help"] }
+  ],
+  "for_partner": true
+}

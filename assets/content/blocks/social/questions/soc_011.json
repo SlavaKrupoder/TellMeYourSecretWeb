@@ -1,0 +1,13 @@
+{
+  "id": "soc_011",
+  "type": "scale",
+  "options": [
+    { "id": "house", "tags": ["house_party"] },
+    { "id": "dinner", "tags": ["dinner_party", "home_cooking"] },
+    { "id": "games", "tags": ["board_games", "play"] },
+    { "id": "bbq", "tags": ["bbq", "nature"] },
+    { "id": "club", "tags": ["club", "nightlife"] },
+    { "id": "theme", "tags": ["theme_party"] }
+  ],
+  "ask_reason_on_taboo": true
+}

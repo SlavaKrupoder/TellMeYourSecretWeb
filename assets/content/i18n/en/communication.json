@@ -63,5 +63,71 @@
   "com_010.title": "How do you feel about couples therapy?",
   "com_010.yes": "Happy to, even just as a check-up",
   "com_010.serious": "If there's a serious problem",
-  "com_010.no": "No, we'll manage ourselves"
+  "com_010.no": "No, we'll manage ourselves",
+  "com_010.books": "Books or courses for couples first",
+
+  "com_011.title": "What do you need when you're angry?",
+  "com_011.space": "Some space",
+  "com_011.listen": "To be heard out",
+  "com_011.solution": "A quick solution",
+  "com_011.humor": "A joke to break the ice",
+  "com_011.calm": "A calm voice",
+
+  "com_012.title": "Going to bed after a fight…",
+  "com_012.never": "Never, we make up first",
+  "com_012.pause": "OK if we agree to talk tomorrow",
+  "com_012.ok": "It happens, morning is wiser",
+
+  "com_013.title": "Which talk rituals would you like?",
+  "com_013.coffee": "A chat over morning coffee",
+  "com_013.walk": "Talking on an evening walk",
+  "com_013.weekly": "A weekly \"how are we?\"",
+  "com_013.dinner": "Dinner without phones",
+  "com_013.bed": "Whispering before sleep",
+
+  "com_014.title": "Who usually apologizes first?",
+  "com_014.me": "Me",
+  "com_014.partner": "My partner",
+  "com_014.whoever": "Whoever is wrong",
+  "com_014.rarely": "We rarely apologize",
+
+  "com_015.title": "How hard is it for you to talk about…",
+  "com_015.money": "Money",
+  "com_015.intimacy": "Intimacy",
+  "com_015.family": "Family",
+  "com_015.future": "The future",
+  "com_015.past": "Past relationships",
+  "com_015.health": "Health",
+
+  "com_016.title": "When you have a problem, you want your partner to…",
+  "com_016.listen": "Just listen",
+  "com_016.advice": "Give advice",
+  "com_016.act": "Help solve it",
+  "com_016.distract": "Help me switch off",
+
+  "com_017.title": "How do you feel about this kind of humor?",
+  "com_017.teasing": "Teasing each other",
+  "com_017.dark": "Dark humor",
+  "com_017.memes": "Sending memes",
+  "com_017.pranks": "Pranks",
+  "com_017.inside": "Our inside jokes",
+
+  "com_018.title": "Your relationship on social media…",
+  "com_018.share": "Happy to share",
+  "com_018.little": "A little now and then",
+  "com_018.private": "Private, not for everyone",
+  "com_018.none": "I don't use social media",
+
+  "com_019.title": "Jealousy for you is…",
+  "com_019.ok": "A little is normal",
+  "com_019.rare": "Rare, I trust",
+  "com_019.no": "Not for me at all",
+  "com_019.hard": "Something I struggle with",
+
+  "com_020.title": "Which of these are nice to you?",
+  "com_020.pet_names": "Pet names",
+  "com_020.thanks": "Being thanked",
+  "com_020.pda": "Holding hands in public",
+  "com_020.praise": "Praise in front of friends",
+  "com_020.sorry": "Hearing \"you were right\""
 }

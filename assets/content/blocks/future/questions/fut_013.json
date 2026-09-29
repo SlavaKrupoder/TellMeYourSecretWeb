@@ -1,0 +1,13 @@
+{
+  "id": "fut_013",
+  "type": "single",
+  "options": [
+    { "id": "public", "tags": ["school_public"] },
+    { "id": "private", "tags": ["school_private"] },
+    { "id": "home", "tags": ["school_home"] },
+    { "id": "abroad", "tags": ["school_abroad"] },
+    { "id": "unknown", "tags": ["school_unknown"] }
+  ],
+  "talk_if_differs": true,
+  "show_if": {"question": "fut_001", "any": ["yes", "later", "unsure"]}
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hob_014",
+  "type": "scale",
+  "options": [
+    { "id": "games", "tags": ["video_games", "play"] },
+    { "id": "blog", "tags": ["blogging", "creative"] },
+    { "id": "coding", "tags": ["coding"] },
+    { "id": "video", "tags": ["photo", "creative"] },
+    { "id": "streams", "tags": ["streaming"] }
+  ],
+  "ask_reason_on_taboo": true
+}

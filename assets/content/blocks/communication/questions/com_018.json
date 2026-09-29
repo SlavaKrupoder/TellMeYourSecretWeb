@@ -1,0 +1,11 @@
+{
+  "id": "com_018",
+  "type": "single",
+  "options": [
+    { "id": "share", "tags": ["social_share"] },
+    { "id": "little", "tags": ["social_little"] },
+    { "id": "private", "tags": ["social_private"] },
+    { "id": "none", "tags": ["social_none"] }
+  ],
+  "talk_if_differs": true
+}

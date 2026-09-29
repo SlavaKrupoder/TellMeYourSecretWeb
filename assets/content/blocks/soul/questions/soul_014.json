@@ -1,0 +1,12 @@
+{
+  "id": "soul_014",
+  "type": "scale",
+  "options": [
+    { "id": "desired", "tags": ["need_desired"] },
+    { "id": "admired", "tags": ["need_admired"] },
+    { "id": "safe", "tags": ["need_safe"] },
+    { "id": "free", "tags": ["need_freedom"] },
+    { "id": "growing", "tags": ["need_growth"] }
+  ],
+  "scale_labels": "intensity"
+}

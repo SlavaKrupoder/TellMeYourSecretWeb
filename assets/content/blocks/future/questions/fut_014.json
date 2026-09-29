@@ -1,0 +1,11 @@
+{
+  "id": "fut_014",
+  "type": "single",
+  "options": [
+    { "id": "yes", "tags": ["future_pet_yes"] },
+    { "id": "later", "tags": ["future_pet_later"] },
+    { "id": "have", "tags": ["future_pet_have"] },
+    { "id": "no", "tags": ["future_pet_no"] }
+  ],
+  "talk_if_differs": true
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ent_011",
+  "type": "scale",
+  "options": [
+    { "id": "pop", "tags": ["music_pop"] },
+    { "id": "rock", "tags": ["music_rock"] },
+    { "id": "electronic", "tags": ["music_electronic"] },
+    { "id": "hiphop", "tags": ["music_hiphop"] },
+    { "id": "classical", "tags": ["music_classical", "culture"] },
+    { "id": "ukrainian", "tags": ["music_ukrainian"] }
+  ]
+}

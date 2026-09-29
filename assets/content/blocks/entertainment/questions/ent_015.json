@@ -1,0 +1,11 @@
+{
+  "id": "ent_015",
+  "type": "scale",
+  "options": [
+    { "id": "bake", "tags": ["baking", "cooking_together"] },
+    { "id": "spa_home", "tags": ["spa_home", "relax", "touch"] },
+    { "id": "puzzle", "tags": ["puzzles", "play"] },
+    { "id": "photos", "tags": ["memories", "talk"] },
+    { "id": "kitchen_dance", "tags": ["dancing", "play"] }
+  ]
+}

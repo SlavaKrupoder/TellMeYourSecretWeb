@@ -1,0 +1,9 @@
+{
+  "id": "wrk_015",
+  "type": "single",
+  "options": [
+    { "id": "all", "tags": ["vacation_all"] },
+    { "id": "some", "tags": ["vacation_some"] },
+    { "id": "rarely", "tags": ["vacation_rare"] }
+  ]
+}

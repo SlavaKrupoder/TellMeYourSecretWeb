@@ -1,0 +1,12 @@
+{
+  "id": "food_016",
+  "type": "scale",
+  "options": [
+    { "id": "bread", "tags": ["baking"] },
+    { "id": "sushi", "tags": ["sushi_home", "asian", "cooking_together"] },
+    { "id": "varenyky", "tags": ["ukrainian", "cooking_together"] },
+    { "id": "grill", "tags": ["bbq", "nature"] },
+    { "id": "foreign", "tags": ["cooking_together", "novelty"] }
+  ],
+  "ask_reason_on_taboo": true
+}

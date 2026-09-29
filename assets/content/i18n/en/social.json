@@ -19,11 +19,13 @@
   "soc_003.all": "I want us all to be friends",
   "soc_003.mix": "Some shared, some our own",
   "soc_003.own": "Each has their own",
+  "soc_003.couples": "Friends with other couples",
 
   "soc_004.title": "Having guests over is…",
   "soc_004.love": "I love hosting",
   "soc_004.sometimes": "Sometimes fine",
   "soc_004.no": "I'd rather not",
+  "soc_004.planned": "Only when planned ahead",
 
   "soc_005.title": "How do you want to celebrate your birthday?",
   "soc_005.party": "A big party",
@@ -43,6 +45,7 @@
   "soc_007.must": "A must to celebrate",
   "soc_007.small": "Something small to remember it",
   "soc_007.no": "Not important",
+  "soc_007.trip": "A trip for the occasion",
 
   "soc_008.title": "Which holidays matter to you?",
   "soc_008.valentine": "Valentine's Day",
@@ -55,10 +58,74 @@
   "soc_009.love": "I'd love it!",
   "soc_009.close": "Only with my closest people",
   "soc_009.no": "Please no, I get anxious",
+  "soc_009.hint": "Only if I'm quietly warned",
 
   "soc_010.title": "Holiday gifts…",
   "soc_010.must": "A must",
   "soc_010.small": "Small tokens",
   "soc_010.exp": "Experiences instead",
-  "soc_010.none": "We agree on no gifts"
+  "soc_010.none": "We agree on no gifts",
+
+  "soc_011.title": "Which parties do you like?",
+  "soc_011.house": "A house party",
+  "soc_011.dinner": "A dinner party",
+  "soc_011.games": "A game night",
+  "soc_011.bbq": "A barbecue",
+  "soc_011.club": "A club night",
+  "soc_011.theme": "A theme party",
+
+  "soc_012.title": "At a party, you prefer to…",
+  "soc_012.early": "Leave early",
+  "soc_012.last": "Stay till the end",
+  "soc_012.together": "Leave together, whenever",
+  "soc_012.separately": "Leave separately if we want",
+
+  "soc_013.title": "Which holiday traditions do you love?",
+  "soc_013.tree": "Decorating the tree",
+  "soc_013.movies": "Holiday movies",
+  "soc_013.baking": "Holiday baking",
+  "soc_013.wishes": "Writing wishes",
+  "soc_013.fireworks": "Fireworks",
+
+  "soc_014.title": "Meeting new people…",
+  "soc_014.love": "I love it",
+  "soc_014.sometimes": "Now and then",
+  "soc_014.hard": "Is hard for me",
+  "soc_014.no": "I'd rather not",
+
+  "soc_015.title": "How do you feel about these events?",
+  "soc_015.weddings": "Friends' weddings",
+  "soc_015.corporate": "Work parties with partners",
+  "soc_015.kids": "Kids' birthday parties",
+  "soc_015.reunion": "School reunions",
+  "soc_015.networking": "Networking events",
+
+  "soc_016.title": "How do you like to be greeted on your birthday?",
+  "soc_016.morning": "First thing in the morning",
+  "soc_016.surprise": "With a surprise",
+  "soc_016.public": "Loudly, for everyone to hear",
+  "soc_016.quiet": "Quietly, just the two of us",
+
+  "soc_017.title": "When friends ask for help (moving, a loan)…",
+  "soc_017.always": "We always help",
+  "soc_017.discuss": "We decide together",
+  "soc_017.rarely": "Only in real need",
+
+  "soc_018.title": "Which communities would you join?",
+  "soc_018.volunteer": "Volunteering",
+  "soc_018.club": "A club by interest",
+  "soc_018.sports": "A sports team",
+  "soc_018.faith": "A church community",
+  "soc_018.online": "Online communities",
+
+  "soc_019.title": "Trips with other couples…",
+  "soc_019.love": "Love them",
+  "soc_019.sometimes": "Now and then",
+  "soc_019.no": "I'd rather go just us",
+
+  "soc_020.title": "Which season feels like yours?",
+  "soc_020.spring": "Spring",
+  "soc_020.summer": "Summer",
+  "soc_020.autumn": "Autumn",
+  "soc_020.winter": "Winter"
 }

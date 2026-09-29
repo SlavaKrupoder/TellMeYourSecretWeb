@@ -1,0 +1,12 @@
+{
+  "id": "food_011",
+  "type": "scale",
+  "options": [
+    { "id": "steak", "tags": ["steak", "meat"] },
+    { "id": "bbq", "tags": ["bbq", "meat", "nature"] },
+    { "id": "fish", "tags": ["fish"] },
+    { "id": "pasta", "tags": ["pasta", "italian"] },
+    { "id": "bowls", "tags": ["healthy"] }
+  ],
+  "ask_reason_on_taboo": true
+}

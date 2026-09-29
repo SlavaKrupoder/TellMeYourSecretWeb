@@ -1,0 +1,12 @@
+{
+  "id": "com_017",
+  "type": "scale",
+  "options": [
+    { "id": "teasing", "tags": ["teasing"] },
+    { "id": "dark", "tags": ["dark_humor"] },
+    { "id": "memes", "tags": ["memes"] },
+    { "id": "pranks", "tags": ["pranks"] },
+    { "id": "inside", "tags": ["inside_jokes"] }
+  ],
+  "ask_reason_on_taboo": true
+}

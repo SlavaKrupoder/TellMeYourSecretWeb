@@ -1,0 +1,12 @@
+{
+  "id": "soul_011",
+  "type": "scale",
+  "options": [
+    { "id": "tired", "tags": ["state_tired"] },
+    { "id": "stressed", "tags": ["state_stressed"] },
+    { "id": "inspired", "tags": ["state_inspired"] },
+    { "id": "lonely", "tags": ["state_lonely"] },
+    { "id": "calm", "tags": ["state_calm"] }
+  ],
+  "scale_labels": "intensity"
+}

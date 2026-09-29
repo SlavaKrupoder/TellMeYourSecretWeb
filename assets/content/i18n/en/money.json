@@ -18,6 +18,7 @@
   "mon_003.regular": "I save regularly",
   "mon_003.sometimes": "When I can",
   "mon_003.today": "I live for today",
+  "mon_003.invest": "I invest",
 
   "mon_004.title": "What are you happy to spend on?",
   "mon_004.travel": "Travel",
@@ -37,6 +38,7 @@
   "mon_006.ok": "Fine, if sensible",
   "mon_006.mortgage": "Only a mortgage",
   "mon_006.never": "Never",
+  "mon_006.small": "Only small installments",
 
   "mon_007.title": "Which big goals matter to you?",
   "mon_007.home": "Our own home",
@@ -49,14 +51,79 @@
   "mon_008.ok": "Fine",
   "mon_008.hard": "Only in hard times",
   "mon_008.no": "Everyone takes care of themselves",
+  "mon_008.agree": "Only if we agree together",
 
   "mon_009.title": "How should you talk about money?",
   "mon_009.open": "Openly, we know everything",
   "mon_009.general": "In general numbers",
   "mon_009.rarely": "I'd rather not talk about it",
+  "mon_009.monthly": "A monthly money chat",
 
   "mon_010.title": "Charity…",
   "mon_010.regular": "Regularly",
   "mon_010.sometimes": "Sometimes",
-  "mon_010.no": "No"
+  "mon_010.no": "No",
+  "mon_010.time": "Time rather than money",
+
+  "mon_011.title": "A safety cushion should cover…",
+  "mon_011.none": "We'll manage without one",
+  "mon_011.month": "A month of living",
+  "mon_011.three": "Three months",
+  "mon_011.six": "Six months or more",
+
+  "mon_012.title": "How do you feel about spending on these?",
+  "mon_012.car": "A new car",
+  "mon_012.phone": "The latest phone",
+  "mon_012.designer": "Designer things",
+  "mon_012.renovation": "A home renovation",
+  "mon_012.hobby": "Expensive hobby gear",
+
+  "mon_013.title": "Who pays on a date?",
+  "mon_013.turns": "We take turns",
+  "mon_013.split": "We split",
+  "mon_013.me": "Me",
+  "mon_013.partner": "My partner",
+  "mon_013.shared": "From our shared budget",
+
+  "mon_014.title": "Lending money to friends…",
+  "mon_014.yes": "Sure, if they need it",
+  "mon_014.small": "Only small amounts",
+  "mon_014.discuss": "Only after we talk it over",
+  "mon_014.no": "Never",
+
+  "mon_015.title": "Which money habits are yours?",
+  "mon_015.app": "Tracking spending in an app",
+  "mon_015.cashback": "Hunting for cashback",
+  "mon_015.impulse": "Impulse buys",
+  "mon_015.sales": "Waiting for sales",
+  "mon_015.subscriptions": "Lots of subscriptions",
+
+  "mon_016.title": "If you had money trouble, you would…",
+  "mon_016.tell": "Tell right away",
+  "mon_016.solve": "Try to fix it, then tell",
+  "mon_016.hide": "Keep it to myself",
+
+  "mon_017.title": "A prenup…",
+  "mon_017.yes": "Is sensible",
+  "mon_017.maybe": "Maybe, depends",
+  "mon_017.no": "Is not for us",
+  "mon_017.unknown": "Never thought about it",
+
+  "mon_018.title": "What would you spend a bonus on?",
+  "mon_018.trip": "A trip",
+  "mon_018.savings": "Savings",
+  "mon_018.gift": "A gift for my partner",
+  "mon_018.myself": "Something for myself",
+  "mon_018.family": "Helping family",
+
+  "mon_019.title": "Personal money without reporting…",
+  "mon_019.must": "A must",
+  "mon_019.nice": "Nice to have",
+  "mon_019.no": "Not needed, everything is shared",
+
+  "mon_020.title": "Money for you is…",
+  "mon_020.security": "Security",
+  "mon_020.freedom": "Freedom",
+  "mon_020.joy": "Joy and pleasure",
+  "mon_020.tool": "Just a tool"
 }

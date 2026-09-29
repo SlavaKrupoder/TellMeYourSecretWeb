@@ -64,5 +64,71 @@
   "hom_010.title": "Who handles gadgets and the internet at home?",
   "hom_010.me": "Me",
   "hom_010.partner": "My partner",
-  "hom_010.both": "We figure it out together"
+  "hom_010.both": "We figure it out together",
+  "hom_010.pro": "We call a pro",
+
+  "hom_011.title": "The temperature at home should be…",
+  "hom_011.cool": "Cool",
+  "hom_011.warm": "Warm",
+  "hom_011.hot": "Really warm",
+  "hom_011.any": "I don't mind",
+
+  "hom_012.title": "How do you feel about these bedtime habits?",
+  "hom_012.same_bed": "Always one bed",
+  "hom_012.tv": "Falling asleep to TV",
+  "hom_012.phone": "Phones in bed",
+  "hom_012.pets": "Pets on the bed",
+  "hom_012.separate": "Separate bedrooms sometimes",
+
+  "hom_013.title": "Weekend mornings are for…",
+  "hom_013.sleep_in": "Sleeping in",
+  "hom_013.early": "Getting up early",
+  "hom_013.breakfast": "A long breakfast together",
+  "hom_013.plans": "Heading out on plans",
+
+  "hom_014.title": "What makes home feel right?",
+  "hom_014.plants": "Lots of plants",
+  "hom_014.candles": "Candles",
+  "hom_014.music": "Music playing",
+  "hom_014.tv": "TV on in the background",
+  "hom_014.smart": "Smart home gadgets",
+
+  "hom_015.title": "How often should there be a big clean?",
+  "hom_015.weekly": "Every week",
+  "hom_015.monthly": "Once a month",
+  "hom_015.needed": "When it's needed",
+  "hom_015.hire": "We hire someone",
+
+  "hom_016.title": "How much do these annoy you?",
+  "hom_016.dishes": "Dishes left in the sink",
+  "hom_016.clothes": "Clothes lying around",
+  "hom_016.loud": "Loud calls",
+  "hom_016.lights": "Lights left on",
+  "hom_016.late": "Being late",
+
+  "hom_017.title": "Furniture and things for the home are chosen by…",
+  "hom_017.together": "Both of us",
+  "hom_017.me": "Me",
+  "hom_017.partner": "My partner",
+  "hom_017.whoever": "Whoever cares more",
+
+  "hom_018.title": "What would your dream home have?",
+  "hom_018.balcony": "A balcony or terrace",
+  "hom_018.kitchen": "A big kitchen",
+  "hom_018.bathtub": "A bathtub",
+  "hom_018.office": "A home office",
+  "hom_018.garden": "A garden",
+  "hom_018.fireplace": "A fireplace",
+
+  "hom_019.title": "Sound at home…",
+  "hom_019.music": "Music, always",
+  "hom_019.sometimes": "Sometimes music",
+  "hom_019.quiet": "Silence, please",
+  "hom_019.headphones": "Everyone in their headphones",
+
+  "hom_020.title": "How do you feel about moving house?",
+  "hom_020.stay": "I'd rather stay put",
+  "hom_020.sometimes": "Every few years is fine",
+  "hom_020.often": "I love a change",
+  "hom_020.dream": "Until we find the dream home"
 }

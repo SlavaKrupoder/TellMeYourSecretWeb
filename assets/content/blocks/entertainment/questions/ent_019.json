@@ -1,0 +1,12 @@
+{
+  "id": "ent_019",
+  "type": "single",
+  "options": [
+    { "id": "couch", "tags": ["relax", "movie"] },
+    { "id": "walk", "tags": ["walking"] },
+    { "id": "friends", "tags": ["with_friends"] },
+    { "id": "alone", "tags": ["own_time"] },
+    { "id": "cuddles", "tags": ["touch"] }
+  ],
+  "for_partner": true
+}

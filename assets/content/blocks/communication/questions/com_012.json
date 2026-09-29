@@ -1,0 +1,10 @@
+{
+  "id": "com_012",
+  "type": "single",
+  "options": [
+    { "id": "never", "tags": ["bed_angry_never"] },
+    { "id": "pause", "tags": ["bed_angry_pause"] },
+    { "id": "ok", "tags": ["bed_angry_ok"] }
+  ],
+  "talk_if_differs": true
+}

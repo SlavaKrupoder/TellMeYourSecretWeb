@@ -1,0 +1,10 @@
+{
+  "id": "soc_017",
+  "type": "single",
+  "options": [
+    { "id": "always", "tags": ["help_friends_always"] },
+    { "id": "discuss", "tags": ["help_friends_discuss"] },
+    { "id": "rarely", "tags": ["help_friends_rare"] }
+  ],
+  "talk_if_differs": true
+}

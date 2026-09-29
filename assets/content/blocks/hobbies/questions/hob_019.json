@@ -1,0 +1,11 @@
+{
+  "id": "hob_019",
+  "type": "single",
+  "options": [
+    { "id": "corner", "tags": ["hobby_corner"] },
+    { "id": "anywhere", "tags": ["hobby_anywhere"] },
+    { "id": "outside", "tags": ["hobby_outside"] },
+    { "id": "quiet", "tags": ["hobby_quiet"] }
+  ],
+  "talk_if_differs": true
+}

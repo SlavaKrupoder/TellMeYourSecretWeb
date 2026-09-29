@@ -1,0 +1,13 @@
+{
+  "id": "food_012",
+  "type": "scale",
+  "options": [
+    { "id": "french", "tags": ["french"] },
+    { "id": "japanese", "tags": ["japanese", "asian"] },
+    { "id": "indian", "tags": ["indian", "spicy"] },
+    { "id": "middle_east", "tags": ["middle_eastern"] },
+    { "id": "burgers", "tags": ["burgers"] },
+    { "id": "thai", "tags": ["thai", "asian"] }
+  ],
+  "ask_reason_on_taboo": true
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ent_012",
+  "type": "scale",
+  "options": [
+    { "id": "club", "tags": ["club", "nightlife", "dancing"] },
+    { "id": "rooftop", "tags": ["rooftop", "nightlife", "atmosphere"] },
+    { "id": "live_music", "tags": ["live_music", "concert"] },
+    { "id": "wine_bar", "tags": ["wine", "tasting"] },
+    { "id": "hookah", "tags": ["hookah", "relax"] }
+  ],
+  "ask_reason_on_taboo": true
+}

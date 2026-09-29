@@ -1,0 +1,12 @@
+{
+  "id": "gft_017",
+  "type": "scale",
+  "options": [
+    { "id": "casual", "tags": ["style_casual"] },
+    { "id": "sport", "tags": ["style_sport"] },
+    { "id": "classic", "tags": ["style_classic"] },
+    { "id": "bold", "tags": ["style_bold"] },
+    { "id": "cozy", "tags": ["style_cozy"] }
+  ],
+  "for_partner": true
+}

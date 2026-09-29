@@ -1,0 +1,12 @@
+{
+  "id": "trv_015",
+  "type": "scale",
+  "options": [
+    { "id": "diving", "tags": ["diving", "sea", "active"] },
+    { "id": "safari", "tags": ["safari", "nature", "exotic"] },
+    { "id": "bike_tour", "tags": ["cycling", "active"] },
+    { "id": "sailing", "tags": ["sailing", "sea"] },
+    { "id": "paragliding", "tags": ["paragliding", "heights", "extreme"] }
+  ],
+  "ask_reason_on_taboo": true
+}

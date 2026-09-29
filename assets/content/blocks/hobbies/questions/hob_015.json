@@ -1,0 +1,12 @@
+{
+  "id": "hob_015",
+  "type": "scale",
+  "options": [
+    { "id": "tennis", "tags": ["tennis", "sport_games", "active"] },
+    { "id": "ski", "tags": ["ski", "snow", "active"] },
+    { "id": "diving", "tags": ["diving", "sea"] },
+    { "id": "martial", "tags": ["martial_arts", "active"] },
+    { "id": "kayak", "tags": ["kayak", "nature", "active"] }
+  ],
+  "ask_reason_on_taboo": true
+}

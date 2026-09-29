@@ -4,6 +4,7 @@
   "options": [
     { "id": "love", "tags": ["remote_love"] },
     { "id": "sometimes", "tags": ["remote_sometimes"] },
-    { "id": "office", "tags": ["remote_no"] }
+    { "id": "office", "tags": ["remote_no"] },
+    { "id": "hybrid", "tags": ["remote_hybrid"] }
   ]
 }

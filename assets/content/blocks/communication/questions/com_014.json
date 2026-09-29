@@ -1,0 +1,10 @@
+{
+  "id": "com_014",
+  "type": "single",
+  "options": [
+    { "id": "me", "tags": ["sorry_me"] },
+    { "id": "partner", "tags": ["sorry_partner"] },
+    { "id": "whoever", "tags": ["sorry_whoever"] },
+    { "id": "rarely", "tags": ["sorry_rarely"] }
+  ]
+}

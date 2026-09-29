@@ -1,0 +1,10 @@
+{
+  "id": "gft_013",
+  "type": "single",
+  "options": [
+    { "id": "no", "tags": ["gift_thought"] },
+    { "id": "some", "tags": ["gift_mid"] },
+    { "id": "yes", "tags": ["gift_value"] },
+    { "id": "cert", "tags": ["gift_cert"] }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hom_016",
+  "type": "scale",
+  "options": [
+    { "id": "dishes", "tags": ["annoy_dishes"] },
+    { "id": "clothes", "tags": ["annoy_clothes"] },
+    { "id": "loud", "tags": ["annoy_loud"] },
+    { "id": "lights", "tags": ["annoy_lights"] },
+    { "id": "late", "tags": ["annoy_late"] }
+  ],
+  "scale_labels": "intensity"
+}

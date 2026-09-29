@@ -1,0 +1,10 @@
+{
+  "id": "mon_019",
+  "type": "single",
+  "options": [
+    { "id": "must", "tags": ["own_money"] },
+    { "id": "nice", "tags": ["own_money_nice"] },
+    { "id": "no", "tags": ["own_money_no"] }
+  ],
+  "talk_if_differs": true
+}

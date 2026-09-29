@@ -1,0 +1,13 @@
+{
+  "id": "com_015",
+  "type": "scale",
+  "options": [
+    { "id": "money", "tags": ["hard_money"] },
+    { "id": "intimacy", "tags": ["hard_intimacy"] },
+    { "id": "family", "tags": ["hard_family"] },
+    { "id": "future", "tags": ["hard_future"] },
+    { "id": "past", "tags": ["hard_past"] },
+    { "id": "health", "tags": ["hard_health"] }
+  ],
+  "scale_labels": "intensity"
+}

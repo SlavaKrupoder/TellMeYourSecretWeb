@@ -1,0 +1,12 @@
+{
+  "id": "fam_020",
+  "type": "single",
+  "options": [
+    { "id": "mom", "tags": ["closest_mom"] },
+    { "id": "dad", "tags": ["closest_dad"] },
+    { "id": "sibling", "tags": ["closest_sibling"] },
+    { "id": "grandparent", "tags": ["closest_grandparent"] },
+    { "id": "other", "tags": ["closest_other"] }
+  ],
+  "for_partner": true
+}

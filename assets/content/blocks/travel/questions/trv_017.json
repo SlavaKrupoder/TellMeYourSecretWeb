@@ -1,0 +1,11 @@
+{
+  "id": "trv_017",
+  "type": "single",
+  "options": [
+    { "id": "lots", "tags": ["photo"] },
+    { "id": "some", "tags": ["photo_some"] },
+    { "id": "none", "tags": ["photo_none"] },
+    { "id": "me", "tags": ["photo_me"] }
+  ],
+  "for_partner": true
+}

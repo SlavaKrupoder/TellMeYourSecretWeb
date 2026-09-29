@@ -1,0 +1,13 @@
+{
+  "id": "gft_011",
+  "type": "scale",
+  "options": [
+    { "id": "tech", "tags": ["gift_tech"] },
+    { "id": "clothes", "tags": ["gift_clothes"] },
+    { "id": "cosmetics", "tags": ["gift_cosmetics"] },
+    { "id": "home", "tags": ["gift_home"] },
+    { "id": "sport", "tags": ["gift_sport"] },
+    { "id": "games", "tags": ["gift_games"] }
+  ],
+  "for_partner": true
+}

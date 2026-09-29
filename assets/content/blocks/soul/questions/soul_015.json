@@ -1,0 +1,10 @@
+{
+  "id": "soul_015",
+  "type": "single",
+  "options": [
+    { "id": "week", "tags": ["good_week"] },
+    { "id": "month", "tags": ["good_month"] },
+    { "id": "long", "tags": ["good_long"] },
+    { "id": "always", "tags": ["good_always"] }
+  ]
+}

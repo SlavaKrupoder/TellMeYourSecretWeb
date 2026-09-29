@@ -1,0 +1,12 @@
+{
+  "id": "food_013",
+  "type": "scale",
+  "options": [
+    { "id": "popcorn", "tags": ["popcorn", "movie"] },
+    { "id": "chips", "tags": ["chips"] },
+    { "id": "cheese", "tags": ["cheese", "wine"] },
+    { "id": "fruit", "tags": ["sweet_fruit"] },
+    { "id": "nuts", "tags": ["nuts"] }
+  ],
+  "for_partner": true
+}

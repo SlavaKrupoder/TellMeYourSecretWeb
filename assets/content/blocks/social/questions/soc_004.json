@@ -4,7 +4,8 @@
   "options": [
     { "id": "love", "tags": ["guests_love"] },
     { "id": "sometimes", "tags": ["guests_sometimes"] },
-    { "id": "no", "tags": ["guests_no"] }
+    { "id": "no", "tags": ["guests_no"] },
+    { "id": "planned", "tags": ["guests_planned"] }
   ],
   "talk_if_differs": true
 }

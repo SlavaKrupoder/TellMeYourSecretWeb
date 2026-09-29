@@ -1,0 +1,12 @@
+{
+  "id": "fam_013",
+  "type": "scale",
+  "options": [
+    { "id": "near", "tags": ["inlaws_near"] },
+    { "id": "short", "tags": ["inlaws_short"] },
+    { "id": "neutral", "tags": ["inlaws_neutral"] },
+    { "id": "topics", "tags": ["inlaws_topics"] },
+    { "id": "handles", "tags": ["inlaws_partner_handles"] }
+  ],
+  "for_partner": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "mon_017",
+  "type": "single",
+  "options": [
+    { "id": "yes", "tags": ["prenup_yes"] },
+    { "id": "maybe", "tags": ["prenup_maybe"] },
+    { "id": "no", "tags": ["prenup_no"] },
+    { "id": "unknown", "tags": ["prenup_unknown"] }
+  ],
+  "talk_if_differs": true
+}

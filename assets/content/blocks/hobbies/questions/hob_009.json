@@ -4,6 +4,7 @@
   "options": [
     { "id": "low", "tags": ["hobby_budget_low"] },
     { "id": "mid", "tags": ["hobby_budget_mid"] },
-    { "id": "high", "tags": ["hobby_budget_high"] }
+    { "id": "high", "tags": ["hobby_budget_high"] },
+    { "id": "save", "tags": ["hobby_budget_save"] }
   ]
 }

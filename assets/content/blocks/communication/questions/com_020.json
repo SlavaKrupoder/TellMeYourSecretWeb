@@ -1,0 +1,12 @@
+{
+  "id": "com_020",
+  "type": "scale",
+  "options": [
+    { "id": "pet_names", "tags": ["pet_names"] },
+    { "id": "thanks", "tags": ["thanks"] },
+    { "id": "pda", "tags": ["pda", "touch"] },
+    { "id": "praise", "tags": ["praise_public"] },
+    { "id": "sorry", "tags": ["makeup_sorry"] }
+  ],
+  "for_partner": true
+}

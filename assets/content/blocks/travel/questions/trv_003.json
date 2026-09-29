@@ -4,6 +4,7 @@
   "options": [
     { "id": "budget", "tags": ["budget_low"] },
     { "id": "comfort", "tags": ["budget_mid"] },
-    { "id": "luxury", "tags": ["budget_high"] }
+    { "id": "luxury", "tags": ["budget_high"] },
+    { "id": "mixed", "tags": ["budget_mixed"] }
   ]
 }

@@ -4,7 +4,8 @@
   "options": [
     { "id": "own", "tags": ["housing_own"] },
     { "id": "rent", "tags": ["housing_rent"] },
-    { "id": "parents", "tags": ["housing_parents"] }
+    { "id": "parents", "tags": ["housing_parents"] },
+    { "id": "house", "tags": ["housing_house"] }
   ],
   "talk_if_differs": true
 }

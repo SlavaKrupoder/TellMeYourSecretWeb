@@ -4,6 +4,7 @@
   "options": [
     { "id": "friends", "tags": ["colleagues_friends"] },
     { "id": "events", "tags": ["colleagues_events"] },
-    { "id": "apart", "tags": ["colleagues_apart"] }
+    { "id": "apart", "tags": ["colleagues_apart"] },
+    { "id": "some", "tags": ["colleagues_some"] }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "id": "gft_016",
+  "type": "scale",
+  "options": [
+    { "id": "ring", "tags": ["jewelry_ring", "gift_jewelry"] },
+    { "id": "earrings", "tags": ["jewelry_earrings", "gift_jewelry"] },
+    { "id": "necklace", "tags": ["jewelry_necklace", "gift_jewelry"] },
+    { "id": "bracelet", "tags": ["jewelry_bracelet", "gift_jewelry"] },
+    { "id": "watch", "tags": ["watch"] }
+  ],
+  "for_partner": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "food_014",
+  "type": "single",
+  "options": [
+    { "id": "share", "tags": ["food_share"] },
+    { "id": "ask", "tags": ["food_ask"] },
+    { "id": "two", "tags": ["food_share_plan"] },
+    { "id": "mine", "tags": ["food_mine"] }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "mon_018",
+  "type": "scale",
+  "options": [
+    { "id": "trip", "tags": ["spend_travel"] },
+    { "id": "savings", "tags": ["goal_cushion"] },
+    { "id": "gift", "tags": ["love_gifts"] },
+    { "id": "myself", "tags": ["treat_self"] },
+    { "id": "family", "tags": ["family_help_ok"] }
+  ]
+}

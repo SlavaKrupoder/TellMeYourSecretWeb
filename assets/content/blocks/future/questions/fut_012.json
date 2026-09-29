@@ -1,0 +1,13 @@
+{
+  "id": "fut_012",
+  "type": "scale",
+  "options": [
+    { "id": "nights", "tags": ["night_feeds"] },
+    { "id": "walks", "tags": ["kids_walks"] },
+    { "id": "doctor", "tags": ["kids_doctor"] },
+    { "id": "play", "tags": ["kids_play"] },
+    { "id": "homework", "tags": ["kids_homework"] }
+  ],
+  "ask_reason_on_taboo": true,
+  "show_if": {"question": "fut_001", "any": ["yes", "later", "unsure"]}
+}

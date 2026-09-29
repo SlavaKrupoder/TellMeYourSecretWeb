@@ -1,0 +1,10 @@
+{
+  "id": "fam_015",
+  "type": "single",
+  "options": [
+    { "id": "lots", "tags": ["grandparents_lots"] },
+    { "id": "some", "tags": ["grandparents_some"] },
+    { "id": "rarely", "tags": ["grandparents_rare"] }
+  ],
+  "talk_if_differs": true
+}

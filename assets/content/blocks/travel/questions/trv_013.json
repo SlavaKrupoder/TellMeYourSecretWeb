@@ -1,0 +1,11 @@
+{
+  "id": "trv_013",
+  "type": "scale",
+  "options": [
+    { "id": "sunset", "tags": ["sunset", "romance"] },
+    { "id": "bars", "tags": ["nightlife"] },
+    { "id": "dinner", "tags": ["restaurant", "food_local"] },
+    { "id": "early", "tags": ["early_bird"] },
+    { "id": "stroll", "tags": ["walking", "city"] }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "hob_013",
+  "type": "scale",
+  "options": [
+    { "id": "recipes", "tags": ["cooking_new", "home_cooking"] },
+    { "id": "diy", "tags": ["diy"] },
+    { "id": "candles", "tags": ["candle_making", "creative"] },
+    { "id": "knitting", "tags": ["crafts", "creative"] },
+    { "id": "decor", "tags": ["decor"] }
+  ]
+}

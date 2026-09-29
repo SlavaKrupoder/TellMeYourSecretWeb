@@ -4,6 +4,7 @@
   "options": [
     { "id": "regular", "tags": ["save_regular"] },
     { "id": "sometimes", "tags": ["save_sometimes"] },
-    { "id": "today", "tags": ["save_none"] }
+    { "id": "today", "tags": ["save_none"] },
+    { "id": "invest", "tags": ["save_invest"] }
   ]
 }

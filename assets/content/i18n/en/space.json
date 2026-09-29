@@ -19,21 +19,25 @@
   "spc_003.open": "Open, feel free",
   "spc_003.trust": "Mine, but nothing to hide",
   "spc_003.private": "Private, hands off",
+  "spc_003.emergency": "Private, but fine in an emergency",
 
   "spc_004.title": "Should you say where you are and with whom?",
   "spc_004.always": "Yes, always",
   "spc_004.late": "Only if I'm running late",
   "spc_004.no": "No, we trust each other",
+  "spc_004.location": "We share locations",
 
   "spc_005.title": "Staying in touch with exes is…",
   "spc_005.ok": "Fine",
   "spc_005.polite": "Only polite if we meet",
   "spc_005.no": "Better not",
+  "spc_005.depends": "Depends on how it ended",
 
   "spc_006.title": "Your partner's close friendship with someone you don't know?",
   "spc_006.ok": "Fine",
   "spc_006.meet": "Fine, once we're introduced",
   "spc_006.uneasy": "It makes me uneasy",
+  "spc_006.know": "Fine, if I know who it is",
 
   "spc_007.title": "When you're down, you want…",
   "spc_007.near": "Someone close by",
@@ -45,6 +49,7 @@
   "spc_008.shared": "Fine, everything is shared",
   "spc_008.ask": "Ask first, then go ahead",
   "spc_008.no": "I don't like it",
+  "spc_008.some": "Some things are shared, some are mine",
 
   "spc_009.title": "Which personal rituals matter to you?",
   "spc_009.coffee": "Morning coffee in silence",
@@ -56,5 +61,70 @@
   "spc_010.title": "Passwords and accounts…",
   "spc_010.shared": "Sharing them is fine",
   "spc_010.important": "Only the important ones (bank, home)",
-  "spc_010.own": "Each keeps their own"
+  "spc_010.own": "Each keeps their own",
+  "spc_010.emergency": "Our own, but we know them for emergencies",
+
+  "spc_011.title": "How do you feel about time apart like this?",
+  "spc_011.solo_trip": "A short trip alone",
+  "spc_011.solo_out": "An evening out on your own",
+  "spc_011.parents": "A weekend at your parents'",
+  "spc_011.games": "A long gaming session",
+  "spc_011.rooms": "An evening in separate rooms",
+
+  "spc_012.title": "Likes and follows on other people…",
+  "spc_012.ok": "It's normal",
+  "spc_012.some": "Depends on who",
+  "spc_012.no": "Makes me uneasy",
+
+  "spc_013.title": "Replying to your partner's messages…",
+  "spc_013.fast": "Right away",
+  "spc_013.when_can": "When I can",
+  "spc_013.no_rush": "No rush, we'll talk tonight",
+  "spc_013.call": "I'd rather call",
+
+  "spc_014.title": "How do you feel about these?",
+  "spc_014.bathroom": "An open bathroom door",
+  "spc_014.guests": "Inviting guests without asking",
+  "spc_014.plans": "Changing plans at the last minute",
+  "spc_014.share": "Telling friends about our problems",
+  "spc_014.diary": "Reading each other's messages",
+
+  "spc_015.title": "After work you need…",
+  "spc_015.short": "15–30 minutes to myself",
+  "spc_015.hour": "An hour of quiet",
+  "spc_015.none": "Nothing, straight to us",
+  "spc_015.talk": "To talk it all out",
+
+  "spc_016.title": "Close friends of the opposite sex…",
+  "spc_016.ok": "Totally fine",
+  "spc_016.meet": "Fine, if we all know each other",
+  "spc_016.uneasy": "A bit uneasy",
+  "spc_016.no": "Better not",
+
+  "spc_017.title": "What do you want to keep your own?",
+  "spc_017.desk": "A desk",
+  "spc_017.shelf": "A shelf in the bathroom",
+  "spc_017.blanket": "A blanket",
+  "spc_017.car": "A car",
+  "spc_017.money": "Money for fun",
+
+  "spc_018.title": "When your partner is out with friends, you…",
+  "spc_018.enjoy": "Enjoy the time for myself",
+  "spc_018.text": "Like a message now and then",
+  "spc_018.miss": "Miss them",
+  "spc_018.join": "Want to come along",
+
+  "spc_019.title": "Weekends are…",
+  "spc_019.together": "All together",
+  "spc_019.half": "Half together, half each on our own",
+  "spc_019.own": "Mostly each on our own",
+  "spc_019.depends": "Depends on the week",
+
+  "spc_020.title": "What recharges you?",
+  "spc_020.sleep": "A good sleep",
+  "spc_020.nature": "Nature",
+  "spc_020.people": "People",
+  "spc_020.sport": "Sport",
+  "spc_020.creative": "Something creative",
+  "spc_020.quiet": "Silence"
 }

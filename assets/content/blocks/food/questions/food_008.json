@@ -4,6 +4,7 @@
   "options": [
     { "id": "table", "tags": ["meals_table"] },
     { "id": "tv", "tags": ["meals_tv"] },
-    { "id": "flexible", "tags": ["meals_flexible"] }
+    { "id": "flexible", "tags": ["meals_flexible"] },
+    { "id": "weekend", "tags": ["meals_weekend"] }
   ]
 }

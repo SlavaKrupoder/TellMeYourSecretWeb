@@ -1,0 +1,12 @@
+{
+  "id": "mon_013",
+  "type": "single",
+  "options": [
+    { "id": "turns", "tags": ["pay_turns"] },
+    { "id": "split", "tags": ["pay_split"] },
+    { "id": "me", "tags": ["pay_me"] },
+    { "id": "partner", "tags": ["pay_partner"] },
+    { "id": "shared", "tags": ["pay_shared"] }
+  ],
+  "talk_if_differs": true
+}

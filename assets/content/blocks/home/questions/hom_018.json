@@ -1,0 +1,12 @@
+{
+  "id": "hom_018",
+  "type": "scale",
+  "options": [
+    { "id": "balcony", "tags": ["balcony"] },
+    { "id": "kitchen", "tags": ["big_kitchen", "home_cooking"] },
+    { "id": "bathtub", "tags": ["bathtub", "relax"] },
+    { "id": "office", "tags": ["home_office"] },
+    { "id": "garden", "tags": ["garden", "nature"] },
+    { "id": "fireplace", "tags": ["fireplace", "atmosphere"] }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "mon_014",
+  "type": "single",
+  "options": [
+    { "id": "yes", "tags": ["lend_yes"] },
+    { "id": "small", "tags": ["lend_small"] },
+    { "id": "discuss", "tags": ["lend_discuss"] },
+    { "id": "no", "tags": ["lend_no"] }
+  ],
+  "talk_if_differs": true
+}

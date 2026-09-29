@@ -1,0 +1,12 @@
+{
+  "id": "fam_009",
+  "type": "single",
+  "options": [
+    { "id": "mine", "tags": ["holidays_my_parents"] },
+    { "id": "partner", "tags": ["holidays_partner_parents"] },
+    { "id": "alternate", "tags": ["family_holidays_alternate"] },
+    { "id": "both", "tags": ["holidays_both"] },
+    { "id": "ours", "tags": ["family_holidays_us"] }
+  ],
+  "talk_if_differs": true
+}

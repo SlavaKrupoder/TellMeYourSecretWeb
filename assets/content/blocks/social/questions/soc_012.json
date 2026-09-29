@@ -1,0 +1,11 @@
+{
+  "id": "soc_012",
+  "type": "single",
+  "options": [
+    { "id": "early", "tags": ["party_early"] },
+    { "id": "last", "tags": ["party_last"] },
+    { "id": "together", "tags": ["party_together"] },
+    { "id": "separately", "tags": ["party_separate"] }
+  ],
+  "talk_if_differs": true
+}

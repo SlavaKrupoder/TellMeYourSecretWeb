@@ -1,0 +1,11 @@
+{
+  "id": "com_013",
+  "type": "scale",
+  "options": [
+    { "id": "coffee", "tags": ["talk_morning", "coffee"] },
+    { "id": "walk", "tags": ["walking", "talk"] },
+    { "id": "weekly", "tags": ["relationship_talk_weekly"] },
+    { "id": "dinner", "tags": ["meals_table"] },
+    { "id": "bed", "tags": ["talk_bed", "talk"] }
+  ]
+}

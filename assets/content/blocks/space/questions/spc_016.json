@@ -1,0 +1,11 @@
+{
+  "id": "spc_016",
+  "type": "single",
+  "options": [
+    { "id": "ok", "tags": ["opposite_friends_ok"] },
+    { "id": "meet", "tags": ["opposite_friends_meet"] },
+    { "id": "uneasy", "tags": ["opposite_friends_uneasy"] },
+    { "id": "no", "tags": ["opposite_friends_no"] }
+  ],
+  "talk_if_differs": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "gft_015",
+  "type": "single",
+  "options": [
+    { "id": "list", "tags": ["wishlist"] },
+    { "id": "hints", "tags": ["gift_hints"] },
+    { "id": "guess", "tags": ["gift_guess"] },
+    { "id": "ask", "tags": ["gift_ask"] }
+  ]
+}

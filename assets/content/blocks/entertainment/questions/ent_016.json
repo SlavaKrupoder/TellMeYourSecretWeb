@@ -1,0 +1,11 @@
+{
+  "id": "ent_016",
+  "type": "scale",
+  "options": [
+    { "id": "series", "tags": ["series", "movie"] },
+    { "id": "animation", "tags": ["animation"] },
+    { "id": "reality", "tags": ["reality_tv"] },
+    { "id": "sports", "tags": ["sports_watch"] },
+    { "id": "youtube", "tags": ["podcasts"] }
+  ]
+}

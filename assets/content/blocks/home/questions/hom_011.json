@@ -1,0 +1,11 @@
+{
+  "id": "hom_011",
+  "type": "single",
+  "options": [
+    { "id": "cool", "tags": ["temp_cool"] },
+    { "id": "warm", "tags": ["temp_warm"] },
+    { "id": "hot", "tags": ["temp_hot"] },
+    { "id": "any", "tags": ["temp_any"] }
+  ],
+  "talk_if_differs": true
+}

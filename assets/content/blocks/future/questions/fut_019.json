@@ -1,0 +1,11 @@
+{
+  "id": "fut_019",
+  "type": "single",
+  "options": [
+    { "id": "take", "tags": ["surname_take"] },
+    { "id": "double", "tags": ["surname_double"] },
+    { "id": "keep", "tags": ["surname_keep"] },
+    { "id": "any", "tags": ["surname_any"] }
+  ],
+  "talk_if_differs": true
+}

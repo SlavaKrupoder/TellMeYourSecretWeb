@@ -4,6 +4,7 @@
   "options": [
     { "id": "me", "tags": ["tech_me"] },
     { "id": "partner", "tags": ["tech_partner"] },
-    { "id": "both", "tags": ["tech_both"] }
+    { "id": "both", "tags": ["tech_both"] },
+    { "id": "pro", "tags": ["tech_pro"] }
   ]
 }

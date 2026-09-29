@@ -1,0 +1,10 @@
+{
+  "id": "spc_018",
+  "type": "single",
+  "options": [
+    { "id": "enjoy", "tags": ["alone_enjoy"] },
+    { "id": "text", "tags": ["alone_text"] },
+    { "id": "miss", "tags": ["alone_miss"] },
+    { "id": "join", "tags": ["alone_join"] }
+  ]
+}

@@ -4,7 +4,8 @@
   "options": [
     { "id": "must", "tags": ["anniversary_must"] },
     { "id": "small", "tags": ["anniversary_small"] },
-    { "id": "no", "tags": ["anniversary_no"] }
+    { "id": "no", "tags": ["anniversary_no"] },
+    { "id": "trip", "tags": ["anniversary_trip", "surprise_trip"] }
   ],
   "for_partner": true
 }

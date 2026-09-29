@@ -1,0 +1,11 @@
+{
+  "id": "wrk_012",
+  "type": "scale",
+  "options": [
+    { "id": "flex", "tags": ["flex_hours"] },
+    { "id": "salary", "tags": ["salary"] },
+    { "id": "meaning", "tags": ["meaningful_work"] },
+    { "id": "team", "tags": ["team"] },
+    { "id": "stability", "tags": ["stability"] }
+  ]
+}

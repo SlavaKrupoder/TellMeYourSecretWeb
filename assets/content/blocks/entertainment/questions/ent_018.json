@@ -1,0 +1,10 @@
+{
+  "id": "ent_018",
+  "type": "single",
+  "options": [
+    { "id": "short", "tags": ["date_short"] },
+    { "id": "evening", "tags": ["date_evening"] },
+    { "id": "day", "tags": ["date_day"] },
+    { "id": "weekend", "tags": ["date_weekend", "trip_weekend"] }
+  ]
+}

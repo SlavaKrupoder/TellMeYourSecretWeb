@@ -4,6 +4,7 @@
   "options": [
     { "id": "fine", "tags": ["overtime_ok"] },
     { "id": "rare", "tags": ["overtime_rare"] },
-    { "id": "never", "tags": ["overtime_never"] }
+    { "id": "never", "tags": ["overtime_never"] },
+    { "id": "agree", "tags": ["overtime_agree"] }
   ]
 }

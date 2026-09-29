@@ -1,0 +1,12 @@
+{
+  "id": "com_011",
+  "type": "scale",
+  "options": [
+    { "id": "space", "tags": ["angry_space"] },
+    { "id": "listen", "tags": ["angry_listen"] },
+    { "id": "solution", "tags": ["angry_solution"] },
+    { "id": "humor", "tags": ["angry_humor"] },
+    { "id": "calm", "tags": ["angry_calm"] }
+  ],
+  "for_partner": true
+}

@@ -1,0 +1,12 @@
+{
+  "id": "spc_014",
+  "type": "scale",
+  "options": [
+    { "id": "bathroom", "tags": ["bathroom_open"] },
+    { "id": "guests", "tags": ["guests_no_ask"] },
+    { "id": "plans", "tags": ["plans_change"] },
+    { "id": "share", "tags": ["share_issues"] },
+    { "id": "diary", "tags": ["read_private"] }
+  ],
+  "ask_reason_on_taboo": true
+}

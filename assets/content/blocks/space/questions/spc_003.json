@@ -4,7 +4,8 @@
   "options": [
     { "id": "open", "tags": ["phone_open"] },
     { "id": "trust", "tags": ["phone_trust"] },
-    { "id": "private", "tags": ["phone_private"] }
+    { "id": "private", "tags": ["phone_private"] },
+    { "id": "emergency", "tags": ["phone_emergency"] }
   ],
   "talk_if_differs": true
 }

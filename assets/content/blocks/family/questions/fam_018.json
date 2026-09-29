@@ -1,0 +1,10 @@
+{
+  "id": "fam_018",
+  "type": "single",
+  "options": [
+    { "id": "talk", "tags": ["family_past_talk"] },
+    { "id": "forgiven", "tags": ["family_past_forgiven"] },
+    { "id": "avoid", "tags": ["family_past_avoid"] },
+    { "id": "none", "tags": ["family_past_none"] }
+  ]
+}

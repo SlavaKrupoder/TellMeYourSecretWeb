@@ -1,0 +1,11 @@
+{
+  "id": "hom_020",
+  "type": "single",
+  "options": [
+    { "id": "stay", "tags": ["move_rarely"] },
+    { "id": "sometimes", "tags": ["move_sometimes"] },
+    { "id": "often", "tags": ["move_often"] },
+    { "id": "dream", "tags": ["move_until_dream"] }
+  ],
+  "talk_if_differs": true
+}

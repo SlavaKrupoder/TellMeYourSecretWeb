@@ -1,0 +1,11 @@
+{
+  "id": "hom_015",
+  "type": "single",
+  "options": [
+    { "id": "weekly", "tags": ["cleaning_weekly"] },
+    { "id": "monthly", "tags": ["cleaning_monthly"] },
+    { "id": "needed", "tags": ["cleaning_needed"] },
+    { "id": "hire", "tags": ["chores_hire"] }
+  ],
+  "talk_if_differs": true
+}

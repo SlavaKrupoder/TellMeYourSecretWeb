@@ -1,0 +1,11 @@
+{
+  "id": "food_019",
+  "type": "single",
+  "options": [
+    { "id": "none", "tags": ["spice_none"] },
+    { "id": "mild", "tags": ["spice_mild"] },
+    { "id": "medium", "tags": ["spice_medium", "spicy"] },
+    { "id": "hot", "tags": ["spice_hot", "spicy"] }
+  ],
+  "for_partner": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hom_017",
+  "type": "single",
+  "options": [
+    { "id": "together", "tags": ["home_choose_together"] },
+    { "id": "me", "tags": ["home_choose_me"] },
+    { "id": "partner", "tags": ["home_choose_partner"] },
+    { "id": "whoever", "tags": ["home_choose_whoever"] }
+  ]
+}

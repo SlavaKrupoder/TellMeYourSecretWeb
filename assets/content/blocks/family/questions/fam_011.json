@@ -1,0 +1,11 @@
+{
+  "id": "fam_011",
+  "type": "single",
+  "options": [
+    { "id": "close", "tags": ["siblings_close"] },
+    { "id": "sometimes", "tags": ["siblings_some"] },
+    { "id": "distant", "tags": ["siblings_distant"] },
+    { "id": "none", "tags": ["siblings_none"] }
+  ],
+  "for_partner": true
+}

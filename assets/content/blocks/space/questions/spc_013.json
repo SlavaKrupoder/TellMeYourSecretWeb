@@ -1,0 +1,11 @@
+{
+  "id": "spc_013",
+  "type": "single",
+  "options": [
+    { "id": "fast", "tags": ["reply_fast"] },
+    { "id": "when_can", "tags": ["reply_when_can"] },
+    { "id": "no_rush", "tags": ["reply_no_rush"] },
+    { "id": "call", "tags": ["reply_call"] }
+  ],
+  "talk_if_differs": true
+}

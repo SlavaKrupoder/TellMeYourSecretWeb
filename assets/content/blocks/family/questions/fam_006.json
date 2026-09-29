@@ -4,6 +4,7 @@
   "options": [
     { "id": "defend", "tags": ["defend_now"] },
     { "id": "private", "tags": ["defend_private"] },
-    { "id": "stay_out", "tags": ["defend_none"] }
+    { "id": "stay_out", "tags": ["defend_none"] },
+    { "id": "both", "tags": ["defend_listen"] }
   ]
 }

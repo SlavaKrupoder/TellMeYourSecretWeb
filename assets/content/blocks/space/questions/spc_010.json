@@ -4,6 +4,7 @@
   "options": [
     { "id": "shared", "tags": ["pass_shared"] },
     { "id": "important", "tags": ["pass_important"] },
-    { "id": "own", "tags": ["pass_own"] }
+    { "id": "own", "tags": ["pass_own"] },
+    { "id": "emergency", "tags": ["pass_emergency"] }
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "id": "wrk_019",
+  "type": "single",
+  "options": [
+    { "id": "yes", "tags": ["business_together_yes"] },
+    { "id": "maybe", "tags": ["business_together_maybe"] },
+    { "id": "no", "tags": ["business_together_no"] }
+  ],
+  "talk_if_differs": true
+}

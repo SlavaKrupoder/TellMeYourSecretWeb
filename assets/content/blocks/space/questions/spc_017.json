@@ -1,0 +1,11 @@
+{
+  "id": "spc_017",
+  "type": "scale",
+  "options": [
+    { "id": "desk", "tags": ["own_desk"] },
+    { "id": "shelf", "tags": ["own_shelf"] },
+    { "id": "blanket", "tags": ["sleep_blankets"] },
+    { "id": "car", "tags": ["own_car"] },
+    { "id": "money", "tags": ["own_money"] }
+  ]
+}

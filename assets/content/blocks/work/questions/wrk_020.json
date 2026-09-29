@@ -1,0 +1,11 @@
+{
+  "id": "wrk_020",
+  "type": "scale",
+  "options": [
+    { "id": "part_time", "tags": ["part_time"] },
+    { "id": "sabbatical", "tags": ["sabbatical", "flight"] },
+    { "id": "teach", "tags": ["teaching"] },
+    { "id": "hobby", "tags": ["hobby_job"] },
+    { "id": "abroad", "tags": ["dream_anywhere"] }
+  ]
+}

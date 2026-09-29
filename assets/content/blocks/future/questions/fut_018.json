@@ -1,0 +1,11 @@
+{
+  "id": "fut_018",
+  "type": "single",
+  "options": [
+    { "id": "important", "tags": ["faith_important"] },
+    { "id": "traditions", "tags": ["faith_traditions"] },
+    { "id": "each", "tags": ["faith_each"] },
+    { "id": "none", "tags": ["faith_none"] }
+  ],
+  "talk_if_differs": true
+}

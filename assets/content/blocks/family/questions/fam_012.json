@@ -1,0 +1,10 @@
+{
+  "id": "fam_012",
+  "type": "single",
+  "options": [
+    { "id": "yes", "tags": ["parents_keys_yes"] },
+    { "id": "emergency", "tags": ["parents_keys_emergency"] },
+    { "id": "no", "tags": ["parents_keys_no"] }
+  ],
+  "talk_if_differs": true
+}

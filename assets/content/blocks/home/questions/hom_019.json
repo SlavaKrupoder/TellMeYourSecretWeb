@@ -1,0 +1,10 @@
+{
+  "id": "hom_019",
+  "type": "single",
+  "options": [
+    { "id": "music", "tags": ["music_home"] },
+    { "id": "sometimes", "tags": ["music_some"] },
+    { "id": "quiet", "tags": ["home_quiet"] },
+    { "id": "headphones", "tags": ["headphones"] }
+  ]
+}

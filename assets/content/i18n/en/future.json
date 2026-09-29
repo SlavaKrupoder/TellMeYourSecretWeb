@@ -45,6 +45,7 @@
   "fut_007.own": "Our own, even with a mortgage",
   "fut_007.rent": "Renting is fine",
   "fut_007.parents": "Living with parents",
+  "fut_007.house": "Our own house outside the city",
 
   "fut_008.title": "A wedding…",
   "fut_008.big": "I want a big celebration",
@@ -63,5 +64,70 @@
   "fut_010.house": "Together in a country house",
   "fut_010.kids": "Close to the kids",
   "fut_010.travel": "Travelling",
-  "fut_010.dont_know": "I don't think about it"
+  "fut_010.dont_know": "I don't think about it",
+
+  "fut_011.title": "The next big step for you two…",
+  "fut_011.wedding": "A wedding",
+  "fut_011.home": "Our own home",
+  "fut_011.kids": "Kids",
+  "fut_011.trip": "A big trip",
+  "fut_011.none": "Nothing, we're good as we are",
+
+  "fut_012.title": "What would you gladly do with a child?",
+  "fut_012.nights": "Night feeds",
+  "fut_012.walks": "Walks",
+  "fut_012.doctor": "Doctor visits",
+  "fut_012.play": "Playing",
+  "fut_012.homework": "Homework",
+
+  "fut_013.title": "Your children's school…",
+  "fut_013.public": "A public school",
+  "fut_013.private": "A private school",
+  "fut_013.home": "Home schooling",
+  "fut_013.abroad": "Abroad",
+  "fut_013.unknown": "Too early to say",
+
+  "fut_014.title": "A pet in the future…",
+  "fut_014.yes": "Yes, soon",
+  "fut_014.later": "Yes, later",
+  "fut_014.have": "We already have one",
+  "fut_014.no": "No",
+
+  "fut_015.title": "Which big life projects appeal to you?",
+  "fut_015.build": "Building a house",
+  "fut_015.world": "Traveling the world",
+  "fut_015.business": "Starting a business",
+  "fut_015.learn": "Learning something together",
+  "fut_015.sea": "Moving by the sea",
+
+  "fut_016.title": "A five-year plan…",
+  "fut_016.detailed": "Should be detailed",
+  "fut_016.rough": "A rough idea is enough",
+  "fut_016.none": "Life will show",
+
+  "fut_017.title": "Which lifestyle changes would you make together?",
+  "fut_017.sport": "Working out together",
+  "fut_017.food": "Eating healthier",
+  "fut_017.habits": "Quitting bad habits",
+  "fut_017.checkups": "Regular checkups",
+  "fut_017.sleep": "Sleeping more",
+
+  "fut_018.title": "Faith in your family…",
+  "fut_018.important": "Is important",
+  "fut_018.traditions": "Only traditions and holidays",
+  "fut_018.each": "Is everyone's own business",
+  "fut_018.none": "Isn't part of our life",
+
+  "fut_019.title": "Surname after marriage…",
+  "fut_019.take": "One common surname",
+  "fut_019.double": "A double surname",
+  "fut_019.keep": "Each keeps their own",
+  "fut_019.any": "I don't mind",
+
+  "fut_020.title": "What do you want to leave behind?",
+  "fut_020.family": "A big family",
+  "fut_020.business": "A business",
+  "fut_020.creative": "Creative work",
+  "fut_020.help": "Help to others",
+  "fut_020.memories": "Good memories"
 }

@@ -1,0 +1,11 @@
+{
+  "id": "soul_016",
+  "type": "scale",
+  "options": [
+    { "id": "notes", "tags": ["love_notes"] },
+    { "id": "dates", "tags": ["more_dates"] },
+    { "id": "talks", "tags": ["talk"] },
+    { "id": "flirt", "tags": ["flirt"] },
+    { "id": "adventures", "tags": ["novelty"] }
+  ]
+}

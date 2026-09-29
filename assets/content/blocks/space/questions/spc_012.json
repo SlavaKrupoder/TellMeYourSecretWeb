@@ -1,0 +1,10 @@
+{
+  "id": "spc_012",
+  "type": "single",
+  "options": [
+    { "id": "ok", "tags": ["likes_ok"] },
+    { "id": "some", "tags": ["likes_some"] },
+    { "id": "no", "tags": ["likes_no"] }
+  ],
+  "talk_if_differs": true
+}

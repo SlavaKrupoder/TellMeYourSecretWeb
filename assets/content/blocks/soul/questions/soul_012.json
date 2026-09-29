@@ -1,0 +1,11 @@
+{
+  "id": "soul_012",
+  "type": "scale",
+  "options": [
+    { "id": "sleep", "tags": ["more_sleep"] },
+    { "id": "hugs", "tags": ["touch"] },
+    { "id": "date", "tags": ["more_dates"] },
+    { "id": "help", "tags": ["love_help"] },
+    { "id": "alone", "tags": ["own_time"] }
+  ]
+}

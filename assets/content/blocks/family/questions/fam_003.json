@@ -4,6 +4,7 @@
   "options": [
     { "id": "listen", "tags": ["advice_listen"] },
     { "id": "ours", "tags": ["advice_ours"] },
-    { "id": "no", "tags": ["advice_no"] }
+    { "id": "no", "tags": ["advice_no"] },
+    { "id": "depends", "tags": ["advice_depends"] }
   ]
 }

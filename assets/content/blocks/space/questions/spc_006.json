@@ -4,6 +4,7 @@
   "options": [
     { "id": "ok", "tags": ["close_friend_ok"] },
     { "id": "meet", "tags": ["close_friend_meet"] },
-    { "id": "uneasy", "tags": ["close_friend_uneasy"] }
+    { "id": "uneasy", "tags": ["close_friend_uneasy"] },
+    { "id": "know", "tags": ["close_friend_know"] }
   ]
 }

@@ -19,6 +19,7 @@
   "fam_003.listen": "I listen",
   "fam_003.ours": "I listen, but we decide",
   "fam_003.no": "I don't like interference",
+  "fam_003.depends": "Depends on who gives it",
 
   "fam_004.title": "Holidays with family…",
   "fam_004.all": "All holidays with family",
@@ -29,11 +30,13 @@
   "fam_005.close": "I want us to be close",
   "fam_005.polite": "Polite, but at a distance",
   "fam_005.hard": "I find them hard",
+  "fam_005.unknown": "I don't know them well yet",
 
   "fam_006.title": "When your family criticises your partner, you…",
   "fam_006.defend": "Defend my partner right away",
   "fam_006.private": "Talk to them privately",
   "fam_006.stay_out": "Stay out of it",
+  "fam_006.both": "Hear both sides first",
 
   "fam_007.title": "How do you feel about helping parents later on?",
   "fam_007.chores": "Help around the house",
@@ -46,5 +49,80 @@
   "fam_008.recipes": "Food and recipes",
   "fam_008.upbringing": "Upbringing",
   "fam_008.faith": "Faith",
-  "fam_008.money": "Attitude to money"
+  "fam_008.money": "Attitude to money",
+
+  "fam_009.title": "Big holidays at whose parents'?",
+  "fam_009.mine": "Mine",
+  "fam_009.partner": "My partner's",
+  "fam_009.alternate": "We alternate",
+  "fam_009.both": "Both families together",
+  "fam_009.ours": "At our place",
+
+  "fam_010.title": "How do you feel about these family gatherings?",
+  "fam_010.big": "Big family parties",
+  "fam_010.sunday": "Sunday dinners",
+  "fam_010.trips": "Trips with family",
+  "fam_010.dacha": "Helping at the country house",
+  "fam_010.chat": "A family group chat",
+
+  "fam_011.title": "Siblings in your life…",
+  "fam_011.close": "We're very close",
+  "fam_011.sometimes": "We talk now and then",
+  "fam_011.distant": "We're distant",
+  "fam_011.none": "I have none",
+
+  "fam_012.title": "Parents having keys to your home…",
+  "fam_012.yes": "Fine",
+  "fam_012.emergency": "Only for emergencies",
+  "fam_012.no": "No",
+
+  "fam_013.title": "What helps you at your partner's family?",
+  "fam_013.near": "My partner stays close",
+  "fam_013.short": "Short visits",
+  "fam_013.neutral": "Meeting on neutral ground",
+  "fam_013.topics": "Knowing what to talk about",
+  "fam_013.handles": "My partner handles tricky moments",
+
+  "fam_014.title": "How do you address your partner's parents?",
+  "fam_014.names": "By first name",
+  "fam_014.mom_dad": "Mom and Dad",
+  "fam_014.formal": "Formally",
+  "fam_014.their_call": "However they like",
+
+  "fam_015.title": "Grandparents and your future kids…",
+  "fam_015.lots": "As much as possible",
+  "fam_015.some": "Regularly, but not every day",
+  "fam_015.rarely": "Now and then",
+
+  "fam_016.title": "Which traditions would you start as a family?",
+  "fam_016.photo": "A family photo every year",
+  "fam_016.brunch": "A weekend brunch",
+  "fam_016.trip": "A yearly trip",
+  "fam_016.cooking": "Cooking for holidays together",
+  "fam_016.games": "Game nights",
+
+  "fam_017.title": "Telling family about your relationship…",
+  "fam_017.share": "I tell them a lot",
+  "fam_017.some": "Only the good things",
+  "fam_017.nothing": "It stays between us",
+
+  "fam_018.title": "Old family hurts…",
+  "fam_018.talk": "I'd like to talk them through",
+  "fam_018.forgiven": "Are forgiven",
+  "fam_018.avoid": "Better left alone",
+  "fam_018.none": "There aren't any",
+
+  "fam_019.title": "How do you feel about these at your partner's family?",
+  "fam_019.gatherings": "Big noisy gatherings",
+  "fam_019.traditions": "Their traditions",
+  "fam_019.food": "Lots of food and \"have some more\"",
+  "fam_019.questions": "Personal questions",
+  "fam_019.gifts": "Gifts for everyone",
+
+  "fam_020.title": "Who in your family is closest to you?",
+  "fam_020.mom": "Mom",
+  "fam_020.dad": "Dad",
+  "fam_020.sibling": "A brother or sister",
+  "fam_020.grandparent": "A grandparent",
+  "fam_020.other": "Someone else"
 }

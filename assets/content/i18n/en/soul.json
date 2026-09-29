@@ -46,6 +46,7 @@
   "soul_007.lot": "Yes, a lot",
   "soul_007.some": "A few things",
   "soul_007.no": "No, I say everything",
+  "soul_007.here": "That's why I'm here 🙂",
 
   "soul_008.title": "What helps you feel closer?",
   "soul_008.rituals": "Shared rituals",
@@ -66,5 +67,73 @@
   "soul_010.home": "A home of our own",
   "soul_010.business": "A shared business",
   "soul_010.kids": "Children",
-  "soul_010.happy": "Just being happy"
+  "soul_010.happy": "Just being happy",
+
+  "soul_011.title": "How are you feeling lately?",
+  "soul_011.tired": "Tired",
+  "soul_011.stressed": "Stressed",
+  "soul_011.inspired": "Inspired",
+  "soul_011.lonely": "Lonely",
+  "soul_011.calm": "Calm",
+
+  "soul_012.title": "What would make this week better?",
+  "soul_012.sleep": "More sleep",
+  "soul_012.hugs": "Hugs",
+  "soul_012.date": "A date",
+  "soul_012.help": "Help at home",
+  "soul_012.alone": "Time alone",
+
+  "soul_013.title": "How do you show love yourself?",
+  "soul_013.words": "With words",
+  "soul_013.time": "With time together",
+  "soul_013.help": "By helping",
+  "soul_013.touch": "With touch",
+  "soul_013.gifts": "With gifts",
+
+  "soul_014.title": "How important is it for you to feel…",
+  "soul_014.desired": "Desired",
+  "soul_014.admired": "Admired",
+  "soul_014.safe": "Safe",
+  "soul_014.free": "Free",
+  "soul_014.growing": "That we grow together",
+
+  "soul_015.title": "When did you last feel really good together?",
+  "soul_015.week": "This week",
+  "soul_015.month": "This month",
+  "soul_015.long": "A long time ago",
+  "soul_015.always": "We always are",
+
+  "soul_016.title": "What from your early days would you bring back?",
+  "soul_016.notes": "Little notes and messages",
+  "soul_016.dates": "Real dates",
+  "soul_016.talks": "Long talks",
+  "soul_016.flirt": "Flirting",
+  "soul_016.adventures": "Adventures",
+
+  "soul_017.title": "Do you feel heard?",
+  "soul_017.always": "Always",
+  "soul_017.mostly": "Mostly",
+  "soul_017.sometimes": "Sometimes",
+  "soul_017.rarely": "Rarely",
+
+  "soul_018.title": "How much do these worry you in a relationship?",
+  "soul_018.routine": "Routine",
+  "soul_018.self": "Losing myself",
+  "soul_018.cheating": "Cheating",
+  "soul_018.apart": "Growing apart",
+  "soul_018.money": "Money trouble",
+
+  "soul_019.title": "How grateful are you to your partner this month for…",
+  "soul_019.care": "Care",
+  "soul_019.patience": "Patience",
+  "soul_019.fun": "Fun",
+  "soul_019.support": "Support",
+  "soul_019.help": "Help",
+
+  "soul_020.title": "If you could change one thing in your relationship…",
+  "soul_020.time": "More time together",
+  "soul_020.calm": "Fewer fights",
+  "soul_020.passion": "More passion",
+  "soul_020.talk": "More honest talks",
+  "soul_020.nothing": "Nothing, it's good"
 }

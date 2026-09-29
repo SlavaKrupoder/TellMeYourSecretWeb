@@ -4,6 +4,7 @@
   "options": [
     { "id": "close", "tags": ["inlaws_close"] },
     { "id": "polite", "tags": ["inlaws_polite"] },
-    { "id": "hard", "tags": ["inlaws_hard"] }
+    { "id": "hard", "tags": ["inlaws_hard"] },
+    { "id": "unknown", "tags": ["inlaws_unknown"] }
   ]
 }

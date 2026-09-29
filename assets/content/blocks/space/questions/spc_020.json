@@ -1,0 +1,13 @@
+{
+  "id": "spc_020",
+  "type": "scale",
+  "options": [
+    { "id": "sleep", "tags": ["recharge_sleep"] },
+    { "id": "nature", "tags": ["nature"] },
+    { "id": "people", "tags": ["recharge_people"] },
+    { "id": "sport", "tags": ["active"] },
+    { "id": "creative", "tags": ["creative"] },
+    { "id": "quiet", "tags": ["home_quiet"] }
+  ],
+  "for_partner": true
+}

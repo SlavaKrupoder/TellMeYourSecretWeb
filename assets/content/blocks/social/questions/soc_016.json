@@ -1,0 +1,11 @@
+{
+  "id": "soc_016",
+  "type": "single",
+  "options": [
+    { "id": "morning", "tags": ["greet_morning"] },
+    { "id": "surprise", "tags": ["surprise"] },
+    { "id": "public", "tags": ["greet_public"] },
+    { "id": "quiet", "tags": ["greet_quiet"] }
+  ],
+  "for_partner": true
+}

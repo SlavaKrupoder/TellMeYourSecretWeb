@@ -1,0 +1,11 @@
+{
+  "id": "fut_020",
+  "type": "scale",
+  "options": [
+    { "id": "family", "tags": ["legacy_family"] },
+    { "id": "business", "tags": ["legacy_business"] },
+    { "id": "creative", "tags": ["legacy_creative"] },
+    { "id": "help", "tags": ["legacy_help"] },
+    { "id": "memories", "tags": ["legacy_memories"] }
+  ]
+}

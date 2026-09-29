@@ -1,0 +1,12 @@
+{
+  "id": "ent_013",
+  "type": "scale",
+  "options": [
+    { "id": "park_picnic", "tags": ["picnic", "nature", "relax"] },
+    { "id": "boat", "tags": ["boat", "nature"] },
+    { "id": "amusement", "tags": ["amusement_park", "play"] },
+    { "id": "zoo", "tags": ["zoo", "walking"] },
+    { "id": "stars", "tags": ["stars", "romance", "nature"] }
+  ],
+  "ask_reason_on_taboo": true
+}

@@ -4,7 +4,8 @@
   "options": [
     { "id": "always", "tags": ["checkin_always"] },
     { "id": "late", "tags": ["checkin_late"] },
-    { "id": "no", "tags": ["checkin_no"] }
+    { "id": "no", "tags": ["checkin_no"] },
+    { "id": "location", "tags": ["checkin_location"] }
   ],
   "talk_if_differs": true
 }

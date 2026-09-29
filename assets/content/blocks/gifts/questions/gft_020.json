@@ -1,0 +1,10 @@
+{
+  "id": "gft_020",
+  "type": "single",
+  "options": [
+    { "id": "say", "tags": ["gift_feedback_say"] },
+    { "id": "pretend", "tags": ["gift_feedback_pretend"] },
+    { "id": "exchange", "tags": ["gift_exchange"] },
+    { "id": "keep", "tags": ["gift_keep"] }
+  ]
+}

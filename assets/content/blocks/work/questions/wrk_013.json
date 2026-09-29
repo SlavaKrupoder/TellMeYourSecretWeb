@@ -1,0 +1,10 @@
+{
+  "id": "wrk_013",
+  "type": "single",
+  "options": [
+    { "id": "yes", "tags": ["career_change_yes"] },
+    { "id": "thinking", "tags": ["career_change_thinking"] },
+    { "id": "no", "tags": ["career_change_no"] }
+  ],
+  "talk_if_differs": true
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hob_018",
+  "type": "scale",
+  "options": [
+    { "id": "language", "tags": ["language"] },
+    { "id": "instrument", "tags": ["music_play", "creative"] },
+    { "id": "driving", "tags": ["driving"] },
+    { "id": "swimming", "tags": ["swimming", "active"] },
+    { "id": "first_aid", "tags": ["first_aid"] },
+    { "id": "cooking", "tags": ["cooking_new", "home_cooking"] }
+  ]
+}

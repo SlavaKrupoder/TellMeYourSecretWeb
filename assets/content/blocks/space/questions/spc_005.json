@@ -4,7 +4,8 @@
   "options": [
     { "id": "ok", "tags": ["exes_ok"] },
     { "id": "polite", "tags": ["exes_polite"] },
-    { "id": "no", "tags": ["exes_no"] }
+    { "id": "no", "tags": ["exes_no"] },
+    { "id": "depends", "tags": ["exes_depends"] }
   ],
   "talk_if_differs": true
 }

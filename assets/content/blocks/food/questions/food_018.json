@@ -1,0 +1,11 @@
+{
+  "id": "food_018",
+  "type": "scale",
+  "options": [
+    { "id": "cafe", "tags": ["cafe"] },
+    { "id": "trendy", "tags": ["novelty", "restaurant"] },
+    { "id": "fine", "tags": ["fine_dining", "restaurant"] },
+    { "id": "favorite", "tags": ["favorite_place"] },
+    { "id": "food_court", "tags": ["street_food"] }
+  ]
+}

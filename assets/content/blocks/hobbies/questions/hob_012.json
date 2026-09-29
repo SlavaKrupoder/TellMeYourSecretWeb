@@ -1,0 +1,11 @@
+{
+  "id": "hob_012",
+  "type": "scale",
+  "options": [
+    { "id": "chess", "tags": ["chess", "play"] },
+    { "id": "courses", "tags": ["courses"] },
+    { "id": "podcasts", "tags": ["podcasts"] },
+    { "id": "history", "tags": ["history", "culture"] },
+    { "id": "astronomy", "tags": ["stars"] }
+  ]
+}

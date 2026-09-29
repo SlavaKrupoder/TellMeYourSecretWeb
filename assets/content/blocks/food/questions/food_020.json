@@ -1,0 +1,10 @@
+{
+  "id": "food_020",
+  "type": "single",
+  "options": [
+    { "id": "yes", "tags": ["night_snack"] },
+    { "id": "sometimes", "tags": ["night_snack_some"] },
+    { "id": "together", "tags": ["night_snack_together"] },
+    { "id": "never", "tags": ["no_night_snack"] }
+  ]
+}

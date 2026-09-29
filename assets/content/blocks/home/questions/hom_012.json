@@ -1,0 +1,12 @@
+{
+  "id": "hom_012",
+  "type": "scale",
+  "options": [
+    { "id": "same_bed", "tags": ["sleep_same_bed"] },
+    { "id": "tv", "tags": ["sleep_tv"] },
+    { "id": "phone", "tags": ["sleep_phone"] },
+    { "id": "pets", "tags": ["sleep_pets"] },
+    { "id": "separate", "tags": ["sleep_separate"] }
+  ],
+  "ask_reason_on_taboo": true
+}

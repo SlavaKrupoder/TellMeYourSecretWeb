@@ -1,0 +1,11 @@
+{
+  "id": "hob_020",
+  "type": "scale",
+  "options": [
+    { "id": "events", "tags": ["support_events"] },
+    { "id": "try", "tags": ["hobby_try_once"] },
+    { "id": "listen", "tags": ["hobby_listen"] },
+    { "id": "gifts", "tags": ["gift_hobby"] },
+    { "id": "time", "tags": ["hobby_give_time"] }
+  ]
+}

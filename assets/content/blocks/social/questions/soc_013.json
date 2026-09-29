@@ -1,0 +1,12 @@
+{
+  "id": "soc_013",
+  "type": "scale",
+  "options": [
+    { "id": "tree", "tags": ["xmas_tree"] },
+    { "id": "movies", "tags": ["xmas_movies", "movie"] },
+    { "id": "baking", "tags": ["baking"] },
+    { "id": "wishes", "tags": ["wishes"] },
+    { "id": "fireworks", "tags": ["fireworks"] }
+  ],
+  "for_partner": true
+}

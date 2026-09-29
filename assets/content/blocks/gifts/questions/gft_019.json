@@ -1,0 +1,13 @@
+{
+  "id": "gft_019",
+  "type": "scale",
+  "options": [
+    { "id": "fiction", "tags": ["book_fiction", "gift_books"] },
+    { "id": "nonfiction", "tags": ["book_nonfiction", "gift_books"] },
+    { "id": "detective", "tags": ["book_detective", "gift_books"] },
+    { "id": "fantasy", "tags": ["book_fantasy", "gift_books"] },
+    { "id": "poetry", "tags": ["book_poetry", "gift_books"] },
+    { "id": "comics", "tags": ["book_comics", "gift_books"] }
+  ],
+  "for_partner": true
+}

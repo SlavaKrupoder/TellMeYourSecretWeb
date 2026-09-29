@@ -1,0 +1,10 @@
+{
+  "id": "soc_020",
+  "type": "scale",
+  "options": [
+    { "id": "spring", "tags": ["season_spring"] },
+    { "id": "summer", "tags": ["season_summer"] },
+    { "id": "autumn", "tags": ["season_autumn"] },
+    { "id": "winter", "tags": ["season_winter"] }
+  ]
+}

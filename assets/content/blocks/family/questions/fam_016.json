@@ -1,0 +1,11 @@
+{
+  "id": "fam_016",
+  "type": "scale",
+  "options": [
+    { "id": "photo", "tags": ["tradition_photo"] },
+    { "id": "brunch", "tags": ["brunch"] },
+    { "id": "trip", "tags": ["tradition_trip"] },
+    { "id": "cooking", "tags": ["tradition_cooking", "home_cooking"] },
+    { "id": "games", "tags": ["board_games", "play"] }
+  ]
+}

@@ -6,16 +6,19 @@
   "wrk_001.main": "The main thing",
   "wrk_001.important": "Important, but not everything",
   "wrk_001.means": "A way to earn money",
+  "wrk_001.searching": "Still looking for my thing",
 
   "wrk_002.title": "Working evenings and weekends…",
   "wrk_002.fine": "Fine when needed",
   "wrk_002.rare": "Only in emergencies",
   "wrk_002.never": "Never",
+  "wrk_002.agree": "Only if we agree first",
 
   "wrk_003.title": "Talking about work at home…",
   "wrk_003.love": "I love sharing",
   "wrk_003.bit": "A little, to let it go",
   "wrk_003.no": "I don't want to bring work home",
+  "wrk_003.ask": "Only when asked",
 
   "wrk_004.title": "What helps you after a hard day?",
   "wrk_004.quiet": "Quiet and being alone",
@@ -28,6 +31,7 @@
   "wrk_005.love": "I love it",
   "wrk_005.sometimes": "Sometimes",
   "wrk_005.office": "I prefer the office",
+  "wrk_005.hybrid": "A mix of home and office",
 
   "wrk_006.title": "What would you do for your career?",
   "wrk_006.city": "Moving to another city",
@@ -46,16 +50,78 @@
   "wrk_008.fine": "Fine",
   "wrk_008.important": "Only important ones",
   "wrk_008.no": "No",
+  "wrk_008.silent": "Phone on silent",
 
   "wrk_009.title": "Colleagues in your life…",
   "wrk_009.friends": "Friends outside work too",
   "wrk_009.events": "Only at work events",
   "wrk_009.apart": "Work stays separate",
+  "wrk_009.some": "A couple of close colleagues",
 
   "wrk_010.title": "What do you dream of at work?",
   "wrk_010.promotion": "A promotion",
   "wrk_010.business": "My own business",
   "wrk_010.anywhere": "Working from anywhere",
   "wrk_010.creative": "Creative fulfilment",
-  "wrk_010.retire": "Retiring early"
+  "wrk_010.retire": "Retiring early",
+
+  "wrk_011.title": "If your partner got a dream job in another country…",
+  "wrk_011.go": "We go together",
+  "wrk_011.discuss": "We weigh it up together",
+  "wrk_011.distance": "We'd try long distance",
+  "wrk_011.no": "Better not",
+
+  "wrk_012.title": "What matters to you in a job?",
+  "wrk_012.flex": "Flexible hours",
+  "wrk_012.salary": "A high salary",
+  "wrk_012.meaning": "Meaning",
+  "wrk_012.team": "A good team",
+  "wrk_012.stability": "Stability",
+
+  "wrk_013.title": "Changing careers…",
+  "wrk_013.yes": "I'm planning to",
+  "wrk_013.thinking": "I'm thinking about it",
+  "wrk_013.no": "No, I'm where I want to be",
+
+  "wrk_014.title": "How can your partner support your work?",
+  "wrk_014.cv": "Help with a CV or a pitch",
+  "wrk_014.listen": "Listen to me vent",
+  "wrk_014.celebrate": "Celebrate wins",
+  "wrk_014.chores": "Take on more chores in busy times",
+  "wrk_014.motivate": "Motivate me",
+
+  "wrk_015.title": "Your vacation days…",
+  "wrk_015.all": "I take every day",
+  "wrk_015.some": "Some, not always all",
+  "wrk_015.rarely": "I rarely take time off",
+
+  "wrk_016.title": "One of you not working for a while (kids, study, a startup)…",
+  "wrk_016.ok": "Fine, we're a team",
+  "wrk_016.short": "Fine for a short while",
+  "wrk_016.no": "Both should earn",
+
+  "wrk_017.title": "Which workday routines appeal to you?",
+  "wrk_017.early": "Starting early",
+  "wrk_017.late": "Working late",
+  "wrk_017.lunch": "Lunch together",
+  "wrk_017.workout": "A workout during the day",
+  "wrk_017.commute": "Commuting together",
+
+  "wrk_018.title": "When you're burning out, you…",
+  "wrk_018.silent": "Go quiet",
+  "wrk_018.irritated": "Get irritated",
+  "wrk_018.overwork": "Work even more",
+  "wrk_018.sleep": "Sleep a lot",
+
+  "wrk_019.title": "A business together…",
+  "wrk_019.yes": "Would love to",
+  "wrk_019.maybe": "Maybe, something small",
+  "wrk_019.no": "Better keep work apart",
+
+  "wrk_020.title": "What would you like to try someday at work?",
+  "wrk_020.part_time": "Working part-time",
+  "wrk_020.sabbatical": "A sabbatical",
+  "wrk_020.teach": "Teaching",
+  "wrk_020.hobby": "Turning a hobby into work",
+  "wrk_020.abroad": "Working from abroad"
 }

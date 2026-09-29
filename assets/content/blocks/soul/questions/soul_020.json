@@ -1,0 +1,11 @@
+{
+  "id": "soul_020",
+  "type": "single",
+  "options": [
+    { "id": "time", "tags": ["wish_time"] },
+    { "id": "calm", "tags": ["wish_calm"] },
+    { "id": "passion", "tags": ["wish_passion"] },
+    { "id": "talk", "tags": ["wish_talk"] },
+    { "id": "nothing", "tags": ["wish_nothing"] }
+  ]
+}

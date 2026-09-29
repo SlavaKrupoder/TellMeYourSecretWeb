@@ -1,0 +1,10 @@
+{
+  "id": "mon_016",
+  "type": "single",
+  "options": [
+    { "id": "tell", "tags": ["money_trouble_tell"] },
+    { "id": "solve", "tags": ["money_trouble_solve"] },
+    { "id": "hide", "tags": ["money_trouble_hide"] }
+  ],
+  "talk_if_differs": true
+}

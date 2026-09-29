@@ -4,6 +4,7 @@
   "options": [
     { "id": "love", "tags": ["party_surprise_love"] },
     { "id": "close", "tags": ["party_surprise_close"] },
-    { "id": "no", "tags": ["party_surprise_no"] }
+    { "id": "no", "tags": ["party_surprise_no"] },
+    { "id": "hint", "tags": ["party_surprise_hint"] }
   ]
 }

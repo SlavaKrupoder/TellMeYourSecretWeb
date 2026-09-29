@@ -1,0 +1,13 @@
+{
+  "id": "trv_011",
+  "type": "scale",
+  "options": [
+    { "id": "south_europe", "tags": ["europe_south", "sea", "culture"] },
+    { "id": "north_europe", "tags": ["europe_north", "cool"] },
+    { "id": "asia", "tags": ["asia_travel", "exotic"] },
+    { "id": "islands", "tags": ["islands", "sea", "hot"] },
+    { "id": "ukraine", "tags": ["ukraine_travel"] },
+    { "id": "america", "tags": ["america_travel", "flight"] }
+  ],
+  "ask_reason_on_taboo": true
+}

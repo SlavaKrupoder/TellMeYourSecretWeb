@@ -4,6 +4,7 @@
   "options": [
     { "id": "planned", "tags": ["planned"] },
     { "id": "spontaneous", "tags": ["spontaneous"] },
-    { "id": "surprise", "tags": ["surprise"] }
+    { "id": "surprise", "tags": ["surprise"] },
+    { "id": "mixed", "tags": ["semi_planned"] }
   ]
 }

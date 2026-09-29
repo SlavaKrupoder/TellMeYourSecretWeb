@@ -1,0 +1,11 @@
+{
+  "id": "wrk_011",
+  "type": "single",
+  "options": [
+    { "id": "go", "tags": ["career_abroad_go"] },
+    { "id": "discuss", "tags": ["career_abroad_discuss"] },
+    { "id": "distance", "tags": ["career_long_distance"] },
+    { "id": "no", "tags": ["career_abroad_no"] }
+  ],
+  "talk_if_differs": true
+}

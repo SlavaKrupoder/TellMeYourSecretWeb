@@ -1,0 +1,12 @@
+{
+  "id": "ent_017",
+  "type": "scale",
+  "options": [
+    { "id": "match", "tags": ["sports_watch", "stadium"] },
+    { "id": "opera", "tags": ["opera", "culture"] },
+    { "id": "show", "tags": ["show"] },
+    { "id": "stadium_concert", "tags": ["concert", "stadium"] },
+    { "id": "open_air", "tags": ["outdoor_cinema", "movie", "nature"] }
+  ],
+  "ask_reason_on_taboo": true
+}

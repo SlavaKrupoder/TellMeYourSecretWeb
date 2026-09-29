@@ -1,0 +1,11 @@
+{
+  "id": "spc_019",
+  "type": "single",
+  "options": [
+    { "id": "together", "tags": ["weekend_together"] },
+    { "id": "half", "tags": ["weekend_half"] },
+    { "id": "own", "tags": ["weekend_own"] },
+    { "id": "depends", "tags": ["weekend_flexible"] }
+  ],
+  "talk_if_differs": true
+}

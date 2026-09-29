@@ -1,0 +1,12 @@
+{
+  "id": "spc_011",
+  "type": "scale",
+  "options": [
+    { "id": "solo_trip", "tags": ["solo_trip"] },
+    { "id": "solo_out", "tags": ["solo_out"] },
+    { "id": "parents", "tags": ["solo_parents"] },
+    { "id": "games", "tags": ["video_games"] },
+    { "id": "rooms", "tags": ["separate_room"] }
+  ],
+  "ask_reason_on_taboo": true
+}

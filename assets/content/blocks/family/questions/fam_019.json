@@ -1,0 +1,12 @@
+{
+  "id": "fam_019",
+  "type": "scale",
+  "options": [
+    { "id": "gatherings", "tags": ["inlaws_gatherings"] },
+    { "id": "traditions", "tags": ["inlaws_traditions"] },
+    { "id": "food", "tags": ["inlaws_food"] },
+    { "id": "questions", "tags": ["inlaws_questions"] },
+    { "id": "gifts", "tags": ["inlaws_gifts"] }
+  ],
+  "ask_reason_on_taboo": true
+}

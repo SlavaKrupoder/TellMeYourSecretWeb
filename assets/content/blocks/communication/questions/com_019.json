@@ -1,0 +1,11 @@
+{
+  "id": "com_019",
+  "type": "single",
+  "options": [
+    { "id": "ok", "tags": ["jealous_ok"] },
+    { "id": "rare", "tags": ["jealous_rare"] },
+    { "id": "no", "tags": ["jealous_no"] },
+    { "id": "hard", "tags": ["jealous_hard"] }
+  ],
+  "talk_if_differs": true
+}

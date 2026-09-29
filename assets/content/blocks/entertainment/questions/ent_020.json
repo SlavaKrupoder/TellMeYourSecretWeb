@@ -1,0 +1,11 @@
+{
+  "id": "ent_020",
+  "type": "single",
+  "options": [
+    { "id": "me", "tags": ["movie_pick_me"] },
+    { "id": "partner", "tags": ["movie_pick_partner"] },
+    { "id": "turns", "tags": ["movie_pick_turns"] },
+    { "id": "list", "tags": ["movie_pick_list"] }
+  ],
+  "talk_if_differs": true
+}

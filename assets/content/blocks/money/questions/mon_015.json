@@ -1,0 +1,11 @@
+{
+  "id": "mon_015",
+  "type": "scale",
+  "options": [
+    { "id": "app", "tags": ["budget_app"] },
+    { "id": "cashback", "tags": ["cashback"] },
+    { "id": "impulse", "tags": ["impulse_buys"] },
+    { "id": "sales", "tags": ["sales"] },
+    { "id": "subscriptions", "tags": ["subscriptions"] }
+  ]
+}

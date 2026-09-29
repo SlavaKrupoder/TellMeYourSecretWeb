@@ -1,0 +1,11 @@
+{
+  "id": "hom_014",
+  "type": "scale",
+  "options": [
+    { "id": "plants", "tags": ["plants_home"] },
+    { "id": "candles", "tags": ["candles", "atmosphere"] },
+    { "id": "music", "tags": ["music_home"] },
+    { "id": "tv", "tags": ["tv_background"] },
+    { "id": "smart", "tags": ["smart_home"] }
+  ]
+}

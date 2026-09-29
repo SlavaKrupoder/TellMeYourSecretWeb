@@ -1,0 +1,12 @@
+{
+  "id": "fut_011",
+  "type": "single",
+  "options": [
+    { "id": "wedding", "tags": ["next_wedding"] },
+    { "id": "home", "tags": ["next_home"] },
+    { "id": "kids", "tags": ["next_kids"] },
+    { "id": "trip", "tags": ["next_trip"] },
+    { "id": "none", "tags": ["next_none"] }
+  ],
+  "talk_if_differs": true
+}

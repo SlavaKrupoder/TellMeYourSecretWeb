@@ -1,0 +1,12 @@
+{
+  "id": "ent_014",
+  "type": "scale",
+  "options": [
+    { "id": "skating", "tags": ["skating", "active"] },
+    { "id": "sledding", "tags": ["sledding", "snow", "play"] },
+    { "id": "xmas_market", "tags": ["christmas_market", "atmosphere"] },
+    { "id": "sauna", "tags": ["sauna", "relax"] },
+    { "id": "hot_springs", "tags": ["spa", "relax"] }
+  ],
+  "ask_reason_on_taboo": true
+}

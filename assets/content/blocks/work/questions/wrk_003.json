@@ -4,6 +4,7 @@
   "options": [
     { "id": "love", "tags": ["work_talk_love"] },
     { "id": "bit", "tags": ["work_talk_bit"] },
-    { "id": "no", "tags": ["work_talk_no"] }
+    { "id": "no", "tags": ["work_talk_no"] },
+    { "id": "ask", "tags": ["work_talk_ask"] }
   ]
 }

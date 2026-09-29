@@ -1,0 +1,12 @@
+{
+  "id": "trv_020",
+  "type": "scale",
+  "options": [
+    { "id": "long_flight", "tags": ["long_flight", "flight"] },
+    { "id": "night_train", "tags": ["train"] },
+    { "id": "layovers", "tags": ["layovers", "budget_low"] },
+    { "id": "far", "tags": ["far_away"] },
+    { "id": "visa", "tags": ["visa_trip"] }
+  ],
+  "ask_reason_on_taboo": true
+}

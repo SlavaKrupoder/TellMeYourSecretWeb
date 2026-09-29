@@ -1,0 +1,11 @@
+{
+  "id": "spc_015",
+  "type": "single",
+  "options": [
+    { "id": "short", "tags": ["decompress_short"] },
+    { "id": "hour", "tags": ["decompress_hour"] },
+    { "id": "none", "tags": ["decompress_none"] },
+    { "id": "talk", "tags": ["decompress_talk"] }
+  ],
+  "for_partner": true
+}

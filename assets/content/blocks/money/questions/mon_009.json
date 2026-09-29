@@ -4,6 +4,7 @@
   "options": [
     { "id": "open", "tags": ["money_talk_open"] },
     { "id": "general", "tags": ["money_talk_general"] },
-    { "id": "rarely", "tags": ["money_talk_rarely"] }
+    { "id": "rarely", "tags": ["money_talk_rarely"] },
+    { "id": "monthly", "tags": ["money_talk_monthly"] }
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "id": "trv_016",
+  "type": "single",
+  "options": [
+    { "id": "often", "tags": ["travel_often"] },
+    { "id": "seasonal", "tags": ["travel_seasonal"] },
+    { "id": "yearly", "tags": ["travel_yearly"] },
+    { "id": "rarely", "tags": ["travel_rare"] }
+  ]
+}

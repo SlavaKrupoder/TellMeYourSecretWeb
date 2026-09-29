@@ -1,0 +1,10 @@
+{
+  "id": "mon_020",
+  "type": "single",
+  "options": [
+    { "id": "security", "tags": ["money_security"] },
+    { "id": "freedom", "tags": ["money_freedom"] },
+    { "id": "joy", "tags": ["money_joy"] },
+    { "id": "tool", "tags": ["money_tool"] }
+  ]
+}

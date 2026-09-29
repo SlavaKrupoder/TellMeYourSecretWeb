@@ -1,0 +1,11 @@
+{
+  "id": "soul_013",
+  "type": "single",
+  "options": [
+    { "id": "words", "tags": ["show_words"] },
+    { "id": "time", "tags": ["show_time"] },
+    { "id": "help", "tags": ["show_help"] },
+    { "id": "touch", "tags": ["show_touch"] },
+    { "id": "gifts", "tags": ["show_gifts"] }
+  ]
+}

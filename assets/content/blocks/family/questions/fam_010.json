@@ -1,0 +1,12 @@
+{
+  "id": "fam_010",
+  "type": "scale",
+  "options": [
+    { "id": "big", "tags": ["family_gatherings"] },
+    { "id": "sunday", "tags": ["family_dinners"] },
+    { "id": "trips", "tags": ["with_family"] },
+    { "id": "dacha", "tags": ["family_dacha", "countryside"] },
+    { "id": "chat", "tags": ["family_chat"] }
+  ],
+  "ask_reason_on_taboo": true
+}

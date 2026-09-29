@@ -4,6 +4,7 @@
   "options": [
     { "id": "yes", "tags": ["therapy_yes"] },
     { "id": "serious", "tags": ["therapy_serious"] },
-    { "id": "no", "tags": ["therapy_no"] }
+    { "id": "no", "tags": ["therapy_no"] },
+    { "id": "books", "tags": ["therapy_self_help"] }
   ]
 }

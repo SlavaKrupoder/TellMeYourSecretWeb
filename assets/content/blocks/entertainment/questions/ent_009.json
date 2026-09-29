@@ -4,6 +4,7 @@
   "options": [
     { "id": "us", "tags": ["just_us"] },
     { "id": "friends", "tags": ["with_friends"] },
-    { "id": "mixed", "tags": ["mixed_company"] }
+    { "id": "mixed", "tags": ["mixed_company"] },
+    { "id": "family", "tags": ["with_family"] }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "id": "hob_011",
+  "type": "scale",
+  "options": [
+    { "id": "fishing", "tags": ["fishing", "nature"] },
+    { "id": "camping", "tags": ["camping", "nature"] },
+    { "id": "foraging", "tags": ["foraging", "nature"] },
+    { "id": "birds", "tags": ["birdwatching", "nature"] },
+    { "id": "rollers", "tags": ["rollers", "active"] }
+  ],
+  "ask_reason_on_taboo": true
+}

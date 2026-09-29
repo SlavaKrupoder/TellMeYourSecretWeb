@@ -1,0 +1,11 @@
+{
+  "id": "com_016",
+  "type": "single",
+  "options": [
+    { "id": "listen", "tags": ["support_listen"] },
+    { "id": "advice", "tags": ["support_advice"] },
+    { "id": "act", "tags": ["support_action"] },
+    { "id": "distract", "tags": ["support_distract"] }
+  ],
+  "for_partner": true
+}

@@ -1,0 +1,12 @@
+{
+  "id": "food_015",
+  "type": "scale",
+  "options": [
+    { "id": "espresso", "tags": ["coffee"] },
+    { "id": "latte", "tags": ["coffee_milk"] },
+    { "id": "tea", "tags": ["tea"] },
+    { "id": "cocoa", "tags": ["cacao"] },
+    { "id": "herbal", "tags": ["herbal_tea"] }
+  ],
+  "for_partner": true
+}
