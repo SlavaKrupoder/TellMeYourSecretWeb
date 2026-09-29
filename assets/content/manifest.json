@@ -1,5 +1,6 @@
 {
   "content_version": 5,
+  "format": 1,
   "default_language": "en",
   "languages": ["en", "uk"],
   "scale": ["taboo", "dislike", "not_against", "curious", "love"],
