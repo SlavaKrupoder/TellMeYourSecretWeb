@@ -1,8 +1,8 @@
 {
-  "content_version": 6,
+  "content_version": 7,
   "format": 2,
   "default_language": "en",
-  "languages": ["en", "uk"],
+  "languages": ["en", "uk", "fr", "pl", "de"],
   "scale": ["taboo", "dislike", "not_against", "curious", "love"],
   "blocks": [
     { "id": "entertainment", "version": 2 },

@@ -14,7 +14,7 @@
   "gft_002.practical": "Practical things",
   "gft_002.experience": "Experiences (tickets, classes)",
   "gft_002.handmade": "Something handmade",
-  "gft_002.jewelry": "Jewellery",
+  "gft_002.jewelry": "Jewelry",
   "gft_002.books": "Books",
 
   "gft_003.title": "How do you feel about surprises?",
@@ -42,10 +42,10 @@
   "gft_006.sweet": "Sweet",
   "gft_006.woody": "Woody and spicy",
 
-  "gft_007.title": "What jewellery do you wear?",
+  "gft_007.title": "What jewelry do you wear?",
   "gft_007.gold": "Gold",
   "gft_007.silver": "Silver",
-  "gft_007.none": "I don't wear jewellery",
+  "gft_007.none": "I don't wear jewelry",
   "gft_007.both": "Both gold and silver",
 
   "gft_008.title": "What is your ring size?",
@@ -70,7 +70,7 @@
   "gft_009.xxl": "XXL",
   "gft_009.private": "I'd rather not say",
 
-  "gft_010.title": "What is your favourite colour?",
+  "gft_010.title": "What is your favorite color?",
   "gft_010.red": "Red",
   "gft_010.pink": "Pink",
   "gft_010.white": "White",
@@ -140,7 +140,7 @@
   "gft_018.s42": "42",
   "gft_018.s43": "43",
   "gft_018.s44": "44+",
-  "gft_018.private": "Rather not say",
+  "gft_018.private": "I'd rather not say",
 
   "gft_019.title": "Which books do you like?",
   "gft_019.fiction": "Novels",
