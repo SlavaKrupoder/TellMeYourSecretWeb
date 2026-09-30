@@ -1,0 +1,11 @@
+{
+  "id": "int_004",
+  "type": "single",
+  "options": [
+    { "id": "morning", "tags": ["time_morning"] },
+    { "id": "day", "tags": ["time_day"] },
+    { "id": "evening", "tags": ["time_evening"] },
+    { "id": "night", "tags": ["time_night"] },
+    { "id": "anytime", "tags": ["spontaneous"] }
+  ]
+}

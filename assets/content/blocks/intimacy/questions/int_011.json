@@ -1,0 +1,11 @@
+{
+  "id": "int_011",
+  "type": "scale",
+  "options": [
+    { "id": "lead", "tags": ["lead"], "emoji": "🦁" },
+    { "id": "be_led", "tags": ["be_led", "trust"], "emoji": "🐱" },
+    { "id": "tender", "tags": ["tender", "slow"], "emoji": "🌸" },
+    { "id": "passionate", "tags": ["passion"], "emoji": "🌶️" }
+  ],
+  "ask_reason_on_taboo": true
+}

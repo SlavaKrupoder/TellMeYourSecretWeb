@@ -1,0 +1,11 @@
+{
+  "id": "int_018",
+  "type": "scale",
+  "options": [
+    { "id": "weekend_away", "tags": ["travel", "romance", "costs"], "emoji": "🧳" },
+    { "id": "couples_spa", "tags": ["relax", "touch", "costs"], "emoji": "🌿" },
+    { "id": "couples_practice", "tags": ["slow", "trust"], "emoji": "🧘" },
+    { "id": "dance_class", "tags": ["dancing", "novelty", "costs"], "emoji": "🕺" }
+  ],
+  "ask_reason_on_taboo": false
+}

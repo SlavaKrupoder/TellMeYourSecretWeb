@@ -1,0 +1,11 @@
+{
+  "id": "int_016",
+  "type": "scale",
+  "options": [
+    { "id": "quick", "tags": ["spontaneous", "passion"], "emoji": "⚡" },
+    { "id": "planned", "tags": ["planned", "romance"], "emoji": "📅" },
+    { "id": "surprise", "tags": ["surprise"], "emoji": "🎁" },
+    { "id": "morning_tender", "tags": ["time_morning", "tender"], "emoji": "☀️" }
+  ],
+  "ask_reason_on_taboo": false
+}

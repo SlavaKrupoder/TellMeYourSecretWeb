@@ -1,0 +1,12 @@
+{
+  "id": "int_014",
+  "type": "scale",
+  "options": [
+    { "id": "cuddles", "tags": ["tender", "touch"], "emoji": "🫂" },
+    { "id": "talk", "tags": ["talk", "tender"], "emoji": "💬" },
+    { "id": "shower_after", "tags": ["romance", "relax"], "emoji": "🫧" },
+    { "id": "snack", "tags": ["food", "relax"], "emoji": "🍫" },
+    { "id": "sleep", "tags": ["relax", "tender"], "emoji": "😴" }
+  ],
+  "ask_reason_on_taboo": false
+}

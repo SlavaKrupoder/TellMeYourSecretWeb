@@ -1,0 +1,11 @@
+{
+  "id": "int_019",
+  "type": "scale",
+  "options": [
+    { "id": "stop_word", "tags": ["trust", "boundaries"] },
+    { "id": "talk_before", "tags": ["talk", "boundaries"] },
+    { "id": "check_in", "tags": ["attention", "boundaries"] },
+    { "id": "share_after", "tags": ["talk", "trust"] }
+  ],
+  "ask_reason_on_taboo": false
+}

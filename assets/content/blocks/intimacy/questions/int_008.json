@@ -1,0 +1,11 @@
+{
+  "id": "int_008",
+  "type": "scale",
+  "options": [
+    { "id": "whisper", "tags": ["words", "romance"], "emoji": "🤫" },
+    { "id": "body_compliments", "tags": ["words", "attention"], "emoji": "😍" },
+    { "id": "say_wishes", "tags": ["talk", "words"], "emoji": "🗣️" },
+    { "id": "silence", "tags": ["silence", "touch"], "emoji": "🤐" }
+  ],
+  "ask_reason_on_taboo": true
+}

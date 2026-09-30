@@ -1,0 +1,14 @@
+{
+  "id": "int_023",
+  "type": "scale",
+  "coded": true,
+  "options": [
+    { "id": "nape", "tags": ["touch", "tender"], "emoji": "🦒" },
+    { "id": "chest", "tags": ["touch", "passion"], "emoji": "🍈" },
+    { "id": "lower_back", "tags": ["touch", "passion"], "emoji": "🌊" },
+    { "id": "buttocks", "tags": ["touch", "passion"], "emoji": "🍑" },
+    { "id": "thighs", "tags": ["touch", "passion"], "emoji": "🍗" },
+    { "id": "feet", "tags": ["touch", "relax"], "emoji": "🦶" }
+  ],
+  "ask_reason_on_taboo": true
+}

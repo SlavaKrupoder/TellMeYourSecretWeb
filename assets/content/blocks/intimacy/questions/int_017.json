@@ -1,0 +1,10 @@
+{
+  "id": "int_017",
+  "type": "single",
+  "options": [
+    { "id": "emotional", "tags": ["value_emotional"] },
+    { "id": "physical", "tags": ["value_physical"] },
+    { "id": "both", "tags": ["value_both"] },
+    { "id": "novelty", "tags": ["value_novelty"] }
+  ]
+}

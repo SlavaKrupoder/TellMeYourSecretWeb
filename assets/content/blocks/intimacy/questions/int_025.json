@@ -1,0 +1,14 @@
+{
+  "id": "int_025",
+  "type": "scale",
+  "coded": true,
+  "options": [
+    { "id": "dirty_talk", "tags": ["rough", "words"], "emoji": "🗯️" },
+    { "id": "spank", "tags": ["rough", "play"], "emoji": "✋🍑" },
+    { "id": "hair_pull", "tags": ["rough", "passion"], "emoji": "🧶" },
+    { "id": "pin_down", "tags": ["rough", "lead"], "emoji": "📌" },
+    { "id": "bite", "tags": ["rough", "passion"], "emoji": "🦷" },
+    { "id": "hand_neck", "tags": ["rough", "no_hint"], "emoji": "🧣" }
+  ],
+  "ask_reason_on_taboo": true
+}

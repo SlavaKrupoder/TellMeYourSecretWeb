@@ -1,0 +1,12 @@
+{
+  "id": "int_005",
+  "type": "scale",
+  "options": [
+    { "id": "compliments", "tags": ["words", "attention"], "emoji": "🌹" },
+    { "id": "flirt_texts", "tags": ["flirt", "words"], "emoji": "📱" },
+    { "id": "long_kisses", "tags": ["touch", "romance"], "emoji": "💋" },
+    { "id": "slow_start", "tags": ["touch", "slow"], "emoji": "🐢" },
+    { "id": "dance", "tags": ["dancing", "romance"], "emoji": "💃" }
+  ],
+  "ask_reason_on_taboo": false
+}

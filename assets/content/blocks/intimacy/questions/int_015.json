@@ -1,0 +1,11 @@
+{
+  "id": "int_015",
+  "type": "scale",
+  "options": [
+    { "id": "lights_on", "tags": ["visual"], "emoji": "💡" },
+    { "id": "dim", "tags": ["atmosphere", "romance"], "emoji": "🌙" },
+    { "id": "mirror", "tags": ["visual", "novelty"], "emoji": "🪞" },
+    { "id": "private_photos", "tags": ["visual", "trust"], "emoji": "📸" }
+  ],
+  "ask_reason_on_taboo": true
+}

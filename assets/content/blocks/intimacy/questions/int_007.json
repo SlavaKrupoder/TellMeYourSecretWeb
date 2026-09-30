@@ -1,0 +1,10 @@
+{
+  "id": "int_007",
+  "type": "single",
+  "options": [
+    { "id": "me", "tags": ["initiate_me"] },
+    { "id": "partner", "tags": ["initiate_partner"] },
+    { "id": "equal", "tags": ["initiate_equal"] },
+    { "id": "mood", "tags": ["initiate_mood"] }
+  ]
+}

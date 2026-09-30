@@ -1,6 +1,6 @@
 {
-  "content_version": 5,
-  "format": 1,
+  "content_version": 6,
+  "format": 2,
   "default_language": "en",
   "languages": ["en", "uk"],
   "scale": ["taboo", "dislike", "not_against", "curious", "love"],
@@ -9,7 +9,7 @@
     { "id": "travel", "version": 4 },
     { "id": "food", "version": 3 },
     { "id": "gifts", "version": 2 },
-    { "id": "intimacy", "version": 2 },
+    { "id": "intimacy", "version": 3 },
     { "id": "hobbies", "version": 2 },
     { "id": "communication", "version": 2 },
     { "id": "home", "version": 2 },

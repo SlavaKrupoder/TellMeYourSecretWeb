@@ -1,0 +1,10 @@
+{
+  "id": "int_013",
+  "type": "single",
+  "options": [
+    { "id": "face_to_face", "tags": ["talk_direct"] },
+    { "id": "texts", "tags": ["talk_texts"] },
+    { "id": "hints", "tags": ["talk_hints"] },
+    { "id": "app", "tags": ["talk_app"] }
+  ]
+}

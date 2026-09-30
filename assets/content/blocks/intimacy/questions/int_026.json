@@ -1,0 +1,13 @@
+{
+  "id": "int_026",
+  "type": "scale",
+  "options": [
+    { "id": "courting", "tags": ["flirt", "attention"], "emoji": "💌" },
+    { "id": "look", "tags": ["visual", "passion"], "emoji": "👀" },
+    { "id": "chance_touch", "tags": ["touch", "spontaneous"], "emoji": "🪄" },
+    { "id": "scent", "tags": ["atmosphere"], "emoji": "👃" },
+    { "id": "being_wanted", "tags": ["attention", "passion"], "emoji": "🧲" },
+    { "id": "act_first", "tags": ["initiate_me"], "emoji": "🏹" }
+  ],
+  "ask_reason_on_taboo": false
+}

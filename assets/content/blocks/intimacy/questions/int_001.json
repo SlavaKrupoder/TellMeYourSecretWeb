@@ -2,10 +2,10 @@
   "id": "int_001",
   "type": "scale",
   "options": [
-    { "id": "candles", "tags": ["romance", "atmosphere"] },
-    { "id": "massage", "tags": ["touch", "relax"] },
-    { "id": "bath", "tags": ["romance", "relax"] },
-    { "id": "music", "tags": ["atmosphere"] }
+    { "id": "candles", "tags": ["romance", "atmosphere"], "emoji": "🕯️" },
+    { "id": "massage", "tags": ["touch", "relax"], "emoji": "💆" },
+    { "id": "bath", "tags": ["romance", "relax"], "emoji": "🛁" },
+    { "id": "music", "tags": ["atmosphere"], "emoji": "🎶" }
   ],
   "ask_reason_on_taboo": false
 }

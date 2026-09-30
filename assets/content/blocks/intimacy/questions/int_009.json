@@ -1,0 +1,12 @@
+{
+  "id": "int_009",
+  "type": "scale",
+  "options": [
+    { "id": "hotel", "tags": ["hotel", "novelty", "costs"], "emoji": "🏨" },
+    { "id": "shower", "tags": ["romance", "novelty"], "emoji": "🚿" },
+    { "id": "cabin", "tags": ["nature", "romance", "costs"], "emoji": "🏡" },
+    { "id": "sauna", "tags": ["relax", "novelty", "costs"], "emoji": "🧖" },
+    { "id": "home_elsewhere", "tags": ["novelty", "spontaneous"], "emoji": "🛋️" }
+  ],
+  "ask_reason_on_taboo": true
+}

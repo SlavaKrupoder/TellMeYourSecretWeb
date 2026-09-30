@@ -1,0 +1,10 @@
+{
+  "id": "int_003",
+  "type": "single",
+  "options": [
+    { "id": "almost_daily", "tags": ["freq_high"] },
+    { "id": "few_week", "tags": ["freq_mid"] },
+    { "id": "weekly", "tags": ["freq_low"] },
+    { "id": "quality", "tags": ["freq_quality"] }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "int_022",
+  "type": "scale",
+  "coded": true,
+  "options": [
+    { "id": "lips", "tags": ["kisses", "romance"], "emoji": "👄" },
+    { "id": "ears", "tags": ["kisses", "tender"], "emoji": "👂" },
+    { "id": "collarbone", "tags": ["kisses", "passion"], "emoji": "🦴" },
+    { "id": "back", "tags": ["kisses", "tender"], "emoji": "🪽" },
+    { "id": "wrists", "tags": ["kisses", "tender"], "emoji": "⌚" },
+    { "id": "tummy", "tags": ["kisses", "passion"], "emoji": "🧁" }
+  ],
+  "ask_reason_on_taboo": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": "int_021",
+  "type": "scale",
+  "scale_labels": "intensity",
+  "coded": true,
+  "options": [
+    { "id": "more_kisses", "tags": ["kisses"], "emoji": "😘" },
+    { "id": "more_touch", "tags": ["touch"], "emoji": "🤲" },
+    { "id": "more_tenderness", "tags": ["tender"], "emoji": "🕊️" },
+    { "id": "more_passion", "tags": ["passion"], "emoji": "🌋" },
+    { "id": "more_initiative", "tags": ["initiate_partner"], "emoji": "🚀" },
+    { "id": "more_time", "tags": ["time_together"], "emoji": "⏰" }
+  ],
+  "ask_reason_on_taboo": false
+}

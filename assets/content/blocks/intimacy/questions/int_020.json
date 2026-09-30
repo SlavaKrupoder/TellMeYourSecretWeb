@@ -1,0 +1,10 @@
+{
+  "id": "int_020",
+  "type": "single",
+  "options": [
+    { "id": "often", "tags": ["novelty_often"] },
+    { "id": "sometimes", "tags": ["novelty_sometimes"] },
+    { "id": "rarely", "tags": ["novelty_rarely"] },
+    { "id": "with_trust", "tags": ["novelty_trust"] }
+  ]
+}

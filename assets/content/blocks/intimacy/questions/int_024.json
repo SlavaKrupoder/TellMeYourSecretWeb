@@ -1,0 +1,14 @@
+{
+  "id": "int_024",
+  "type": "scale",
+  "coded": true,
+  "options": [
+    { "id": "classic", "tags": ["sex_classic"], "emoji": "🍆🌮" },
+    { "id": "oral_give", "tags": ["sex_oral"], "emoji": "👅" },
+    { "id": "oral_receive", "tags": ["sex_oral"], "emoji": "👄🎁" },
+    { "id": "mutual_oral", "tags": ["sex_oral"], "emoji": "6️⃣9️⃣" },
+    { "id": "anal", "tags": ["sex_anal"], "emoji": "🍆🍑" },
+    { "id": "hands", "tags": ["touch"], "emoji": "🖐️💦" }
+  ],
+  "ask_reason_on_taboo": true
+}

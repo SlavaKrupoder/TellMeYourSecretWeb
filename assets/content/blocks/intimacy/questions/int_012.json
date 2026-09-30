@@ -1,0 +1,11 @@
+{
+  "id": "int_012",
+  "type": "scale",
+  "options": [
+    { "id": "massage_oil", "tags": ["touch", "relax"], "emoji": "🫒" },
+    { "id": "toys", "tags": ["novelty", "play"], "emoji": "🧸" },
+    { "id": "ties", "tags": ["trust", "play"], "emoji": "🎗️" },
+    { "id": "costumes", "tags": ["play", "visual"], "emoji": "🦸" }
+  ],
+  "ask_reason_on_taboo": true
+}

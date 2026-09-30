@@ -1,0 +1,11 @@
+{
+  "id": "int_010",
+  "type": "scale",
+  "options": [
+    { "id": "blindfold", "tags": ["play", "trust"], "emoji": "🙈" },
+    { "id": "truth_dare", "tags": ["play", "talk"], "emoji": "❓" },
+    { "id": "dice", "tags": ["play", "novelty"], "emoji": "🎲" },
+    { "id": "strip_game", "tags": ["play", "visual"], "emoji": "🃏" }
+  ],
+  "ask_reason_on_taboo": true
+}

@@ -1,0 +1,12 @@
+{
+  "id": "int_006",
+  "type": "scale",
+  "options": [
+    { "id": "hugs", "tags": ["touch", "tender"], "emoji": "🤗" },
+    { "id": "hair", "tags": ["touch", "tender"], "emoji": "🪶" },
+    { "id": "neck_kisses", "tags": ["touch", "passion"], "emoji": "🧛" },
+    { "id": "back_scratch", "tags": ["touch", "passion"], "emoji": "🐾" },
+    { "id": "hands_public", "tags": ["touch", "public_affection"], "emoji": "🤝" }
+  ],
+  "ask_reason_on_taboo": false
+}
