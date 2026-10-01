@@ -133,12 +133,12 @@
 <div id="toast" class="toast"></div>
 
 <script>
-  const URL = 'https://mydmbbncitwelnerxkdf.supabase.co';
+  const SUPABASE_URL = 'https://mydmbbncitwelnerxkdf.supabase.co';
   const KEY = 'sb_publishable_aSOWWN4bdFSuMi4KeCQGmQ_JKdhflhy';
   const PAGE = 50;
 
   // Its own storage key: the app on the same site keeps its session apart.
-  const db = supabase.createClient(URL, KEY, {
+  const db = supabase.createClient(SUPABASE_URL, KEY, {
     auth: { storageKey: 'tmys-admin-auth', persistSession: true, autoRefreshToken: true },
   });
 
