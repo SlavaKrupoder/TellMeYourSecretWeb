@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>TellMeYourSecret Admin</title>
+  <link rel="icon" type="image/png" href="favicon.png">
+  <!-- Everything here is checked on the server (admin_* functions in
+       supabase/migrations/20261001120000_admin.sql); this page holds no
+       secrets, only the publishable key the app uses too. -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0B0A14; --card: #15131F; --line: #2E2940; --text: #EDE8F5;
+      --muted: #B8AEC8; --accent: #F0A6FF; --accent2: #8B6CFF;
+      --ok: #6FD3A0; --warn: #FFC86B; --bad: #FF7A8A;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; background: var(--bg); color: var(--text);
+      font: 15px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif;
+    }
+    main { max-width: 1200px; margin: 0 auto; padding: 24px 16px 64px; }
+    header { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 20px; }
+    h1 { font-size: 22px; margin: 0; flex: 1; }
+    .muted { color: var(--muted); font-size: 13px; }
+    .card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 20px; }
+    .login { max-width: 380px; margin: 12vh auto 0; }
+    .login h1 { margin-bottom: 12px; }
+    input, select, button { font: inherit; color: inherit; }
+    input, select {
+      background: #0F0D18; border: 1px solid var(--line); border-radius: 10px;
+      padding: 9px 12px; outline: none; width: 100%;
+    }
+    input:focus, select:focus { border-color: var(--accent2); }
+    button {
+      border: 0; border-radius: 999px; padding: 9px 16px; cursor: pointer;
+      background: linear-gradient(90deg, var(--accent2), var(--accent)); color: #14101F; font-weight: 600;
+    }
+    button.ghost { background: transparent; border: 1px solid var(--line); color: var(--text); font-weight: 500; }
+    button.small { padding: 4px 10px; font-size: 13px; }
+    button.danger { background: transparent; border: 1px solid var(--bad); color: var(--bad); }
+    button:disabled { opacity: .5; cursor: default; }
+    .row { display: flex; gap: 8px; margin-top: 10px; }
+    .error { color: var(--bad); font-size: 14px; min-height: 20px; margin-top: 8px; }
+    .stats { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; margin-bottom: 20px; }
+    .stat { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 12px 14px; }
+    .stat b { display: block; font-size: 24px; }
+    .toolbar { display: flex; gap: 8px; margin-bottom: 12px; align-items: center; }
+    .toolbar input { max-width: 360px; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { text-align: left; padding: 10px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+    th { color: var(--muted); font-weight: 500; font-size: 13px; }
+    .id { font-family: ui-monospace, Consolas, monospace; font-size: 12px; color: var(--muted); cursor: copy; }
+    .chip {
+      display: inline-flex; align-items: center; gap: 4px; border-radius: 999px; padding: 1px 9px;
+      font-size: 12px; margin: 0 4px 4px 0; border: 1px solid var(--line);
+    }
+    .chip.bought { border-color: var(--ok); color: var(--ok); }
+    .chip.granted { border-color: var(--accent); color: var(--accent); }
+    .chip.banned { border-color: var(--bad); color: var(--bad); }
+    .chip.anon { color: var(--muted); }
+    .chip button { background: none; color: inherit; padding: 0 0 0 2px; font-weight: 400; }
+    .actions { display: flex; flex-wrap: wrap; gap: 6px; }
+    .actions select { width: auto; padding: 4px 8px; font-size: 13px; }
+    .pager { display: flex; gap: 8px; align-items: center; justify-content: flex-end; margin-top: 14px; }
+    .toast {
+      position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%);
+      background: #231F33; border: 1px solid var(--line); border-radius: 12px; padding: 10px 16px;
+      opacity: 0; transition: opacity .2s; pointer-events: none;
+    }
+    .toast.show { opacity: 1; }
+    [hidden] { display: none !important; }
+    @media (max-width: 760px) {
+      thead { display: none; }
+      table, tbody, tr, td { display: block; width: 100%; }
+      tr { background: var(--card); border: 1px solid var(--line); border-radius: 14px; margin-bottom: 10px; padding: 6px 4px; }
+      td { border: 0; padding: 4px 10px; }
+      td[data-label]::before { content: attr(data-label) ": "; color: var(--muted); font-size: 13px; }
+      .toolbar input { max-width: none; }
+    }
+  </style>
+</head>
+<body>
+<main>
+  <section id="login" class="card login" hidden>
+    <h1>Адмінка TellMeYourSecret</h1>
+    <p class="muted">Вхід кодом на пошту. Акаунт з цією поштою має вже існувати (збережений у додатку) і бути в списку адмінів.</p>
+    <div id="stepEmail">
+      <input id="email" type="email" placeholder="пошта" autocomplete="email">
+      <div class="row"><button id="sendCode">Надіслати код</button></div>
+    </div>
+    <div id="stepCode" hidden>
+      <input id="code" inputmode="numeric" placeholder="код з листа" autocomplete="one-time-code">
+      <div class="row">
+        <button id="verify">Увійти</button>
+        <button id="back" class="ghost">Інша пошта</button>
+      </div>
+    </div>
+    <div id="loginError" class="error"></div>
+  </section>
+
+  <section id="app" hidden>
+    <header>
+      <h1>Користувачі</h1>
+      <span id="me" class="muted"></span>
+      <button id="signOut" class="ghost small">Вийти</button>
+    </header>
+    <div id="stats" class="stats"></div>
+    <div class="toolbar">
+      <input id="search" type="search" placeholder="Пошук: пошта, ім'я або id">
+      <button id="refresh" class="ghost">Оновити</button>
+    </div>
+    <div class="card" style="padding: 6px 12px">
+      <table>
+        <thead><tr>
+          <th>Акаунт</th><th>Ім'я</th><th>Створено</th><th>Останній вхід</th>
+          <th>Відповідей</th><th>Пара</th><th>Покупки</th><th>Дії</th>
+        </tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+      <p id="empty" class="muted" hidden style="padding: 12px 0">Нікого не знайдено.</p>
+    </div>
+    <div class="pager">
+      <span id="pageInfo" class="muted"></span>
+      <button id="prev" class="ghost small">←</button>
+      <button id="next" class="ghost small">→</button>
+    </div>
+  </section>
+</main>
+<div id="toast" class="toast"></div>
+
+<script>
+  const URL = 'https://mydmbbncitwelnerxkdf.supabase.co';
+  const KEY = 'sb_publishable_aSOWWN4bdFSuMi4KeCQGmQ_JKdhflhy';
+  const PAGE = 50;
+
+  // Its own storage key: the app on the same site keeps its session apart.
+  const db = supabase.createClient(URL, KEY, {
+    auth: { storageKey: 'tmys-admin-auth', persistSession: true, autoRefreshToken: true },
+  });
+
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
+  })[c]);
+  const fmt = (t) => t ? new Date(t).toLocaleString('uk-UA', {
+    day: '2-digit', month: '2-digit', year: '2-digit', hour: '2-digit', minute: '2-digit',
+  }) : '—';
+
+  let offset = 0, total = 0, products = [], searchTimer;
+
+  function toast(text) {
+    const t = $('toast');
+    t.textContent = text;
+    t.classList.add('show');
+    clearTimeout(t._timer);
+    t._timer = setTimeout(() => t.classList.remove('show'), 2500);
+  }
+
+  const messages = {
+    not_admin: 'Цей акаунт не адмін.',
+    own_account: 'Свій акаунт так не можна.',
+    unknown_product: 'Немає такого продукту.',
+  };
+  function explain(error) {
+    const m = error?.message || String(error);
+    for (const [key, text] of Object.entries(messages)) if (m.includes(key)) return text;
+    if (/Signups not allowed|not found/i.test(m)) return 'Немає акаунта з цією поштою. Спершу збережи акаунт у додатку.';
+    return m;
+  }
+
+  async function rpc(name, params) {
+    const { data, error } = await db.rpc(name, params);
+    if (error) throw error;
+    return data;
+  }
+
+  // ------------------------------------------------------------ sign-in
+
+  async function showLogin(error = '') {
+    $('app').hidden = true;
+    $('login').hidden = false;
+    $('loginError').textContent = error;
+  }
+
+  $('sendCode').onclick = async () => {
+    const email = $('email').value.trim();
+    if (!email) return;
+    $('sendCode').disabled = true;
+    $('loginError').textContent = '';
+    const { error } = await db.auth.signInWithOtp({ email, options: { shouldCreateUser: false } });
+    $('sendCode').disabled = false;
+    if (error) return ($('loginError').textContent = explain(error));
+    $('stepEmail').hidden = true;
+    $('stepCode').hidden = false;
+    $('code').focus();
+  };
+
+  $('verify').onclick = async () => {
+    $('verify').disabled = true;
+    const { error } = await db.auth.verifyOtp({
+      email: $('email').value.trim(), token: $('code').value.trim(), type: 'email',
+    });
+    $('verify').disabled = false;
+    if (error) return ($('loginError').textContent = explain(error));
+    start();
+  };
+
+  $('back').onclick = () => {
+    $('stepCode').hidden = true;
+    $('stepEmail').hidden = false;
+  };
+  $('code').onkeydown = (e) => e.key === 'Enter' && $('verify').click();
+  $('email').onkeydown = (e) => e.key === 'Enter' && $('sendCode').click();
+
+  $('signOut').onclick = async () => {
+    await db.auth.signOut();
+    $('stepCode').hidden = true;
+    $('stepEmail').hidden = false;
+    showLogin();
+  };
+
+  async function start() {
+    const { data: { session } } = await db.auth.getSession();
+    if (!session) return showLogin();
+    let admin = false;
+    try { admin = await rpc('is_admin'); } catch (e) { return showLogin(explain(e)); }
+    if (!admin) {
+      await db.auth.signOut();
+      return showLogin(messages.not_admin);
+    }
+    $('me').textContent = session.user.email;
+    $('login').hidden = true;
+    $('app').hidden = false;
+    products = await rpc('admin_products').catch(() => ['premium']);
+    await Promise.all([loadStats(), loadUsers()]);
+  }
+
+  // ------------------------------------------------------------ data
+
+  async function loadStats() {
+    const [s] = await rpc('admin_stats');
+    const tiles = [
+      ['Акаунтів', s.users], ['З поштою', s.with_email], ['Анонімних', s.anonymous],
+      ['Нових за 7 днів', s.new_7d], ['Входили за 7 днів', s.active_7d], ['Пар', s.pairs],
+      ['Відповідей', s.answers], ['Покупок', s.purchases], ['Подарованих', s.grants],
+    ];
+    $('stats').innerHTML = tiles.map(([label, n]) =>
+      `<div class="stat"><span class="muted">${label}</span><b>${n}</b></div>`).join('');
+  }
+
+  async function loadUsers() {
+    let rows;
+    try {
+      rows = await rpc('admin_users', { p_search: $('search').value, p_limit: PAGE, p_offset: offset });
+    } catch (e) { return toast(explain(e)); }
+    total = rows[0]?.total ?? 0;
+    $('empty').hidden = rows.length > 0;
+    $('rows').innerHTML = rows.map(row).join('');
+    const end = Math.min(offset + PAGE, total);
+    $('pageInfo').textContent = total ? `${offset + 1}–${end} з ${total}` : '';
+    $('prev').disabled = offset === 0;
+    $('next').disabled = end >= total;
+  }
+
+  function row(u) {
+    const banned = u.banned_until && new Date(u.banned_until) > new Date();
+    const account = u.is_anonymous
+      ? '<span class="chip anon">анонім</span>'
+      : esc(u.email);
+    const pair = u.partner_id
+      ? `${esc(u.partner_name || 'без імені')}<br><span class="muted">${esc(u.partner_email || 'анонім')}</span>`
+      : '<span class="muted">—</span>';
+    const chips = [
+      ...u.products.filter((p) => !u.granted.includes(p))
+        .map((p) => `<span class="chip bought" title="Куплено в Google Play">${esc(p)}</span>`),
+      ...u.granted.map((p) => `<span class="chip granted" title="Подаровано адміном">🎁 ${esc(p)}
+        <button data-act="revoke" data-product="${esc(p)}" title="Забрати">✕</button></span>`),
+    ].join('') || '<span class="muted">—</span>';
+    const grantable = products.filter((p) => !u.products.includes(p) && !u.granted.includes(p));
+    const grant = grantable.length
+      ? `<select data-act="grant"><option value="">🎁 Подарувати…</option>${
+          grantable.map((p) => `<option>${esc(p)}</option>`).join('')}</select>`
+      : '';
+    return `<tr data-id="${u.id}" data-name="${esc(u.email || u.name || u.id)}">
+      <td>${account}${banned ? ` <span class="chip banned" title="до ${fmt(u.banned_until)}">бан</span>` : ''}
+        <div class="id" title="Скопіювати id" data-act="copy">${u.id.slice(0, 8)}</div></td>
+      <td data-label="Ім'я">${esc(u.name) || '<span class="muted">—</span>'}</td>
+      <td data-label="Створено">${fmt(u.created_at)}</td>
+      <td data-label="Останній вхід">${fmt(u.last_sign_in_at)}</td>
+      <td data-label="Відповідей">${u.answers}</td>
+      <td data-label="Пара">${pair}</td>
+      <td data-label="Покупки">${chips}</td>
+      <td><div class="actions">
+        ${grant}
+        ${u.partner_id ? '<button class="ghost small" data-act="unpair">Розірвати пару</button>' : ''}
+        ${banned
+          ? '<button class="ghost small" data-act="unban">Зняти бан</button>'
+          : '<button class="ghost small" data-act="ban">Бан</button>'}
+        <button class="danger small" data-act="delete">Видалити</button>
+      </div></td>
+    </tr>`;
+  }
+
+  // ------------------------------------------------------------ actions
+
+  async function act(el) {
+    const tr = el.closest('tr');
+    const id = tr.dataset.id, who = tr.dataset.name;
+    const a = el.dataset.act;
+    try {
+      if (a === 'copy') {
+        await navigator.clipboard.writeText(id);
+        return toast('id скопійовано');
+      }
+      if (a === 'grant') {
+        const product = el.value;
+        if (!product || !confirm(`Подарувати «${product}» для ${who}?`)) return (el.value = '');
+        await rpc('admin_grant', { p_user: id, p_product: product });
+        toast(`«${product}» подаровано`);
+      } else if (a === 'revoke') {
+        const product = el.dataset.product;
+        if (!confirm(`Забрати подарований «${product}» у ${who}?`)) return;
+        await rpc('admin_revoke', { p_user: id, p_product: product });
+        toast('Забрано');
+      } else if (a === 'unpair') {
+        if (!confirm(`Розірвати пару ${who}? Спільні відповіді пари теж зникнуть.`)) return;
+        await rpc('admin_unpair', { p_user: id });
+        toast('Пару розірвано');
+      } else if (a === 'ban') {
+        const days = prompt(`Бан для ${who}. На скільки днів? (порожньо = назавжди)`, '7');
+        if (days === null) return;
+        const n = parseInt(days, 10);
+        const until = new Date(Date.now() + (n > 0 ? n : 100 * 365) * 864e5).toISOString();
+        await rpc('admin_ban', { p_user: id, p_until: until });
+        toast('Забанено');
+      } else if (a === 'unban') {
+        await rpc('admin_ban', { p_user: id, p_until: null });
+        toast('Бан знято');
+      } else if (a === 'delete') {
+        if (!confirm(`Видалити ${who} назавжди? Профіль, відповіді, пара й покупки зникнуть. Це не скасувати.`)) return;
+        await rpc('admin_delete_user', { p_user: id });
+        toast('Видалено');
+      } else return;
+      await Promise.all([loadStats(), loadUsers()]);
+    } catch (e) { toast(explain(e)); }
+  }
+
+  $('rows').addEventListener('click', (e) => {
+    const el = e.target.closest('[data-act]');
+    if (el && el.tagName !== 'SELECT') act(el);
+  });
+  $('rows').addEventListener('change', (e) => {
+    if (e.target.matches('select[data-act]')) act(e.target);
+  });
+  $('search').oninput = () => {
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(() => { offset = 0; loadUsers(); }, 300);
+  };
+  $('refresh').onclick = () => Promise.all([loadStats(), loadUsers()]);
+  $('prev').onclick = () => { offset = Math.max(0, offset - PAGE); loadUsers(); };
+  $('next').onclick = () => { offset += PAGE; loadUsers(); };
+
+  start();
+</script>
+</body>
+</html>
