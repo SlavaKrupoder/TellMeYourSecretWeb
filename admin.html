@@ -87,10 +87,14 @@
 <main>
   <section id="login" class="card login" hidden>
     <h1>Адмінка TellMeYourSecret</h1>
-    <p class="muted">Вхід кодом на пошту. Акаунт з цією поштою має вже існувати (збережений у додатку) і бути в списку адмінів.</p>
+    <p class="muted">Акаунт з цією поштою має існувати і бути в списку адмінів. Пароль задається в Supabase (Authentication → Users).</p>
     <div id="stepEmail">
-      <input id="email" type="email" placeholder="пошта" autocomplete="email">
-      <div class="row"><button id="sendCode">Надіслати код</button></div>
+      <input id="email" type="email" placeholder="пошта" autocomplete="username">
+      <input id="password" type="password" placeholder="пароль" autocomplete="current-password" style="margin-top: 8px">
+      <div class="row">
+        <button id="signInPassword">Увійти</button>
+        <button id="sendCode" class="ghost">Код на пошту</button>
+      </div>
     </div>
     <div id="stepCode" hidden>
       <input id="code" inputmode="numeric" placeholder="код з листа" autocomplete="one-time-code">
@@ -199,6 +203,21 @@
     $('code').focus();
   };
 
+  $('signInPassword').onclick = async () => {
+    const email = $('email').value.trim(), password = $('password').value;
+    if (!email || !password) return;
+    $('signInPassword').disabled = true;
+    $('loginError').textContent = '';
+    const { error } = await db.auth.signInWithPassword({ email, password });
+    $('signInPassword').disabled = false;
+    if (error) {
+      return ($('loginError').textContent = /invalid/i.test(error.message)
+        ? 'Невірна пошта або пароль.' : explain(error));
+    }
+    start();
+  };
+  $('password').onkeydown = (e) => e.key === 'Enter' && $('signInPassword').click();
+
   $('verify').onclick = async () => {
     $('verify').disabled = true;
     const { error } = await db.auth.verifyOtp({
@@ -214,7 +233,7 @@
     $('stepEmail').hidden = false;
   };
   $('code').onkeydown = (e) => e.key === 'Enter' && $('verify').click();
-  $('email').onkeydown = (e) => e.key === 'Enter' && $('sendCode').click();
+  $('email').onkeydown = (e) => e.key === 'Enter' && $('password').focus();
 
   $('signOut').onclick = async () => {
     await db.auth.signOut();
